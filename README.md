@@ -30,7 +30,6 @@ A CSV file containing only seed companies:
 - `results/raw_verification/`
 - `results/raw_resolution/`
 - `results/final_results.csv`
-- `results/graph_edges.csv`
 
 ## Setup:
 1. Create a Python environment
