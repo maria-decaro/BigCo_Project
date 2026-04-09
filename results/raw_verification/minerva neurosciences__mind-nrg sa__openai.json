@@ -1,0 +1,16 @@
+{
+  "seed_company": "Minerva Neurosciences",
+  "related_company": "Mind-NRG SA",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.98,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Recent Minerva Neurosciences SEC filings state that its consolidated financial statements include the results of its wholly-owned subsidiary Mind-NRG Sarl/SARL, indicating Mind-NRG SA is a subsidiary of Minerva Neurosciences.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1598646/000119312526101117/nerv-20251231.htm",
+    "https://www.sec.gov/Archives/edgar/data/1598646/000119312525265685/nerv-20250930.htm"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

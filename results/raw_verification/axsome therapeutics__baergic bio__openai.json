@@ -1,0 +1,17 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "related_company": "Baergic Bio, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Current official disclosures state that Axsome Therapeutics acquired 100% of the equity of Baergic Bio, Inc. in November 2025. Avenue Therapeutics and SEC filings describe Baergic Bio as having been acquired by Axsome, making the relationship an acquisition.",
+  "evidence_urls": [
+    "https://www.globenewswire.com/news-release/2025/11/06/3182362/33090/en/Axsome-Therapeutics-Acquires-Subtype-Selective-GABA-A-Receptor-Positive-Allosteric-Modulator-AZD7325-for-the-Treatment-of-Epilepsy.html",
+    "https://rss.globenewswire.com/de/news-release/2025/11/06/3182367/0/en/Avenue-Therapeutics-Announces-Acquisition-of-Subsidiary-Baergic-Bio-by-Axsome-Therapeutics.html",
+    "https://www.sec.gov/Archives/edgar/data/0001644963/000110465925121247/tm2533381d1_posam.htm"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

@@ -1,0 +1,59 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "discoveries": [
+    {
+      "related_company": "Baergic Bio, Inc.",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2025",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Axsome Therapeutics acquired 100% of the equity interests in Baergic Bio, Inc. from Avenue Therapeutics in November 2025, gaining global rights to the epilepsy candidate BAER-101 (now AXS-17).",
+      "evidence_urls": [
+        "https://www.fiercebiotech.com/biotech/axsome-adds-astrazeneca-epilepsy-candidate-pipeline-through-avenue-subsidiary-acquisition",
+        "https://www.sec.gov/ix?doc=/Archives/edgar/data/1579428/000095017026001716/axsm-20251231.htm"
+      ]
+    },
+    {
+      "related_company": "Axsome Therapeutics Australia Pty Ltd.",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Listed as a subsidiary of Axsome Therapeutics, Inc. in official SEC filings (Exhibit 21.1).",
+      "evidence_urls": [
+        "https://fintel.io/doc/sec-axsome-therapeutics-inc-1579428-ex211-2024-february-23-19776-1891"
+      ]
+    },
+    {
+      "related_company": "Axsome Therapeutics, Limited (Ireland)",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Listed as an Irish subsidiary of Axsome Therapeutics, Inc. in official SEC filings (Exhibit 21.1).",
+      "evidence_urls": [
+        "https://fintel.io/doc/sec-axsome-therapeutics-inc-1579428-ex211-2024-february-23-19776-1891"
+      ]
+    },
+    {
+      "related_company": "Axsome International Holdings LLC",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Listed as a Delaware-based subsidiary of Axsome Therapeutics, Inc. in official SEC filings (Exhibit 21.1).",
+      "evidence_urls": [
+        "https://fintel.io/doc/sec-axsome-therapeutics-inc-1579428-ex211-2024-february-23-19776-1891"
+      ]
+    }
+  ],
+  "provider": "gemini"
+}

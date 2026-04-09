@@ -1,0 +1,17 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Metsera, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Pfizer officially completed the acquisition of Metsera, Inc. on November 13, 2025. The transaction was an all-cash deal valued at approximately $7.0 billion in enterprise value, with additional contingent value rights (CVRs) bringing the potential total value to $10 billion. Following the close of the transaction, Metsera's common stock was delisted from Nasdaq and it became a wholly owned subsidiary of Pfizer.",
+  "evidence_urls": [
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-metsera",
+    "https://www.apnews.com/article/pfizer-metsera-obesity-drug-acquisition-novo-nordisk-bidding-war-08-11-2025",
+    "https://www.fiercebiotech.com/biotech/pfizer-finalizes-metsera-buy-after-contentious-bidding-war-novo-nordisk"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

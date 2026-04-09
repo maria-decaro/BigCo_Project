@@ -1,0 +1,17 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "related_company": "Takeda Pharmaceutical",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "As of April 2026, Axsome Therapeutics and Takeda Pharmaceutical have a licensing and asset purchase relationship, not a corporate acquisition, merger, or subsidiary relationship. Axsome Therapeutics entered into an asset purchase agreement with Takeda to acquire the exclusive global rights to balipodect (TAK-063), a selective PDE10A inhibitor. Under the terms, Axsome obtained worldwide commercial, development, and manufacturing rights, while Takeda received an upfront payment and remains eligible for future milestone payments and royalties. This is a product-level asset acquisition/licensing deal, which falls under the 'None/Unclear' category according to the provided rules.",
+  "evidence_urls": [
+    "https://www.investing.com/news/company-news/axsome-acquires-global-rights-to-balipodect-from-takeda-93CH-3361131",
+    "https://www.stocktitan.net/news/AXSM/axsome-therapeutics-acquires-selective-pde-10-a-inhibitor-balipodect-v690769v6907.html",
+    "https://www.thepharmaletter.com/article/axsome-therapeutics-acquires-takeda-s-selective-pde10a-inhibitor-balipodect"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

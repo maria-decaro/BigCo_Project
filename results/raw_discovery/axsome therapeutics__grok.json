@@ -1,0 +1,47 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "discoveries": [
+    {
+      "related_company": "Baergic Bio",
+      "relationship_type": "Acquisition",
+      "confidence": 0.9,
+      "event_year": "2025",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Axsome acquired 100% equity interests in Baergic Bio (subsidiary of Avenue Therapeutics), obtaining rights to an AZ epilepsy candidate via official press release.",
+      "evidence_urls": [
+        "https://ir.avenuetx.com/news-events/press-releases/detail/98/avenue-therapeutics-announces-acquisition-of-subsidiary",
+        "https://www.globenewswire.com/news-release/2025/11/06/3182367/0/en/Avenue-Therapeutics-Announces-Acquisition-of-Subsidiary-Baergic-Bio-by-Axsome-Therapeutics.html"
+      ]
+    },
+    {
+      "related_company": "Takeda Pharmaceutical",
+      "relationship_type": "Acquisition",
+      "confidence": 0.85,
+      "event_year": "2026",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Axsome entered into an asset purchase agreement with Takeda to acquire exclusive global rights to balipodect (TAK-063) for schizophrenia and other CNS disorders.",
+      "evidence_urls": [
+        "https://www.globenewswire.com/news-release/2026/04/01/3180000/0/en/Axsome-Therapeutics-Acquires-Selective-PDE10A-Inhibitor-Balipodect-for-the-Treatment-of-Schizophrenia-and-Other-Neuropsychiatric-Conditions.html"
+      ]
+    },
+    {
+      "related_company": "Jazz Pharmaceuticals",
+      "relationship_type": "Acquisition",
+      "confidence": 0.9,
+      "event_year": "2022",
+      "source_authority": "high",
+      "recency": "medium",
+      "clarity": "high",
+      "evidence_summary": "Axsome acquired worldwide commercial rights to Sunosi (solriamfetol) from Jazz Pharmaceuticals in a definitive agreement announced in official press release and SEC filings.",
+      "evidence_urls": [
+        "https://axsometherapeuticsinc.gcs-web.com/node/10236/pdf",
+        "https://www.sec.gov/Archives/edgar/data/1579428/000095017025022457/axsm-20241231.htm"
+      ]
+    }
+  ],
+  "provider": "grok"
+}

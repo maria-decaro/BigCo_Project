@@ -1,0 +1,48 @@
+{
+  "seed_company": "Minerva Neurosciences",
+  "discoveries": [
+    {
+      "related_company": "Mind-NRG Sarl",
+      "relationship_type": "Acquisition",
+      "confidence": 0.9,
+      "event_year": "2014",
+      "source_authority": "high",
+      "recency": "low",
+      "clarity": "high",
+      "evidence_summary": "Minerva acquired 100% of Mind-NRG (Swiss biopharma focused on MIN-301 for Parkinson's) on Feb 11, 2014; now listed as wholly-owned subsidiary in SEC Exhibit 21.1.",
+      "evidence_urls": [
+        "https://ir.minervaneurosciences.com/static-files/ad224341-0989-4cf3-a267-8a1db9b87fe9",
+        "https://www.sec.gov/Archives/edgar/data/1598646/000156459022007853/nerv-ex211_9.htm"
+      ]
+    },
+    {
+      "related_company": "Sonkei Pharmaceuticals, Inc.",
+      "relationship_type": "Merger",
+      "confidence": 0.9,
+      "event_year": "2013",
+      "source_authority": "high",
+      "recency": "low",
+      "clarity": "high",
+      "evidence_summary": "Minerva (then Cyrenaic) merged with Sonkei Pharmaceuticals on Nov 12, 2013; Sonkei focused on depression drug; referenced extensively in official SEC filings as foundational merger.",
+      "evidence_urls": [
+        "https://ir.minervaneurosciences.com/static-files/ad224341-0989-4cf3-a267-8a1db9b87fe9",
+        "https://contracts.justia.com/companies/minerva-neurosciences-inc-4702/contract/445843/"
+      ]
+    },
+    {
+      "related_company": "Minerva Neurosciences Securities Corporation",
+      "relationship_type": "Subsidiary",
+      "confidence": 0.85,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "low",
+      "clarity": "high",
+      "evidence_summary": "Wholly-owned subsidiary of Minerva Neurosciences, Inc. explicitly listed in multiple SEC Exhibit 21.1 filings.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1598646/000156459022007853/nerv-ex211_9.htm",
+        "https://www.sec.gov/Archives/edgar/data/1598646/000156459015002008/nerv-ex211_20141231422.htm"
+      ]
+    }
+  ],
+  "provider": "grok"
+}

@@ -1,0 +1,16 @@
+{
+  "seed_company": "Minerva Neurosciences",
+  "related_company": "Cyrenaic Pharmaceuticals, Inc.",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.85,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Minerva Neurosciences was incorporated as Cyrenaic Pharmaceuticals, Inc. in 2007; it survived a 2013 merger with Sonkei Pharmaceuticals then renamed to Minerva. Same entity via name change, not acquisition/merger/subsidiary.",
+  "evidence_urls": [
+    "https://ir.minervaneurosciences.com/static-files/ad224341-0989-4cf3-a267-8a1db9b87fe9",
+    "https://www.sec.gov/Archives/edgar/data/1598646/000104746914003612/a2219290zs-1.htm"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

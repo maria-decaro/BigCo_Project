@@ -1,0 +1,16 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Wyeth",
+  "relationship_type": "Acquisition",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Pfizer acquired Wyeth in a $68 billion cash-and-stock deal announced in 2009 and completed in October 2009. Official Pfizer press releases confirm the acquisition, after which Wyeth became a wholly owned subsidiary (with some divisions later divested).",
+  "evidence_urls": [
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer_to_acquire_wyeth_creating_the_world_s_premier_biopharmaceutical_company",
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer_completes_acquisition_of_wyeth"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

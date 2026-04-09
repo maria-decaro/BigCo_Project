@@ -1,0 +1,249 @@
+{
+  "id": "resp_01ce9dc538d206540069d6eec6faf481909b4afba6cb2129ff",
+  "object": "response",
+  "created_at": 1775693511,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1775693518,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-2026-03-05",
+  "output": [
+    {
+      "id": "ws_01ce9dc538d206540069d6eec7c17081908627c8bed9932a04",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "Axsome Therapeutics Takeda Pharmaceutical press release collaboration licensing acquisition merger subsidiary site:axsome.com OR site:takeda.com OR site:sec.gov",
+          "Axsome Therapeutics Takeda Pharmaceutical SEC filing site:sec.gov",
+          "Axsome Therapeutics Takeda Takeda Pharmaceutical agreement site:axsome.com",
+          "Axsome Therapeutics Takeda Pharmaceutical partnership site:takeda.com"
+        ],
+        "query": "Axsome Therapeutics Takeda Pharmaceutical press release collaboration licensing acquisition merger subsidiary site:axsome.com OR site:takeda.com OR site:sec.gov",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/102909/000110465924020385/0001104659-24-020385-index-headers.html"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1579428/000095017025016678/axsm-20250210.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.takeda.com/newsroom/newsreleases/2024/takeda-and-protagonist-therapeutics-inc-enter-into-worldwide-license-and-collaboration-agreement-for-rusfertide-a-late-stage-rare-hematology-asset/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.takeda.com/newsroom/newsreleases/2026/collaboration-and-license/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.takeda.com/newsroom/newsreleases/2020/takeda-and-arrowhead-collaborate-to-co-develop-and-co-commercialize-aro-aat-foralpha-1-antitrypsin-associated-liver-disease/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1579428/000095017024019118/0000950170-24-019118-index.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.axsome.com/science/medical-information/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.takeda.com/newsroom/newsreleases/2018/ambys-medicines-and-takeda-announce-partnership-to-pioneer-first-in-class-therapies-for-the-treatment-of-serious-liver-diseases/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.axsome.com/about-axsome/intellectual-property/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/879407/000087940725000029/arwr-20250930.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.axsome.com/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.takeda.com/newsroom/newsreleases/2022/collaboration-and-licensing-agreement-to-develop-celiac-disease-therapy/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1579428/000095017024049222/2023_ars_for_2024_april_.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1280784/000128078424000007/htgc-20231231x10kfinaldraft.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/0001430306/000199937126005744/tnxp-ars_123125.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ws_01ce9dc538d206540069d6eeca3cfc81908a704e53974d1b0c",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "site:axsome.com Takeda Axsome",
+          "site:takeda.com Axsome",
+          "site:sec.gov Axsome Takeda \"Takeda\" \"Axsome Therapeutics\""
+        ],
+        "query": "site:axsome.com Takeda Axsome",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.axsome.com/contact-us/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.axsome.com/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.axsome.com/science/medical-information/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.axsome.com/careers/current-opportunities/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.axsome.com/about-axsome"
+          },
+          {
+            "type": "url",
+            "url": "https://www.axsome.com/careers/current-opportunities"
+          },
+          {
+            "type": "url",
+            "url": "https://www.axsome.com/about-axsome/intellectual-property/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1479026/000175272425174044/454902GS05312025.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1579428/000095017022006901/axsm-20220331.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1913464/000116204424001177/xslForm13F_X02/infotable.xml"
+          },
+          {
+            "type": "url",
+            "url": "https://www.axsome.com/axs-portfolio/pipeline/about-axs-05"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1579428/000095017023039178/axsm-20230630.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1802665/000114036124019246/ny20020531x3_ars.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.axsome.com/wp-content/uploads/2024/11/ASCP_2021_COMET_TRD_poster_FINAL.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1802665/000114036125012351/ny20043375x3_ars.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.axsome.com/publications/ASCP_2022_Anhedonia_5.25.22.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.axsome.com/publications/ASCP_2021_COMET_SI_poster_FINAL.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.axsome.com/wp-content/uploads/2024/11/ASCP_2022_EVOLVE_ANXIETY_052522.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_01ce9dc538d206540069d6eecb8be88190b03def77a5d18b1f",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\"seed_company\":\"Axsome Therapeutics\",\"related_company\":\"Takeda Pharmaceutical\",\"relationship_type\":\"None/Unclear\",\"confidence\":0.95,\"source_authority\":\"high\",\"recency\":\"medium\",\"clarity\":\"high\",\"evidence_summary\":\"Current official Axsome pages describe Axsome as an independent biopharmaceutical company, and current official Takeda news/partnership pages do not show Axsome as an acquired company, merger partner, or subsidiary. Search results also did not surface any official Axsome-Takeda acquisition, merger, or parent-subsidiary announcement. At most, any apparent connection is indirect or absent, so the relationship should be classified as None/Unclear.\",\"evidence_urls\":[\"https://www.axsome.com/about-axsome\",\"https://www.axsome.com/\",\"https://www.takeda.com/newsroom/newsreleases/2026/collaboration-and-license/\",\"https://www.takeda.com/newsroom/newsreleases/2024/takeda-and-protagonist-therapeutics-inc-enter-into-worldwide-license-and-collaboration-agreement-for-rusfertide-a-late-stage-rare-hematology-asset/\"],\"needs_review\":false}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": "none",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 0.1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [
+    {
+      "type": "web_search",
+      "search_context_size": "medium",
+      "user_location": {
+        "type": "approximate",
+        "city": null,
+        "country": "US",
+        "region": null,
+        "timezone": null
+      }
+    }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 12570,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 418,
+    "output_tokens_details": {
+      "reasoning_tokens": 166
+    },
+    "total_tokens": 12988
+  },
+  "user": null,
+  "metadata": {}
+}

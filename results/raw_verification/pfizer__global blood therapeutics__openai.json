@@ -1,0 +1,16 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Global Blood Therapeutics",
+  "relationship_type": "Acquisition",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Pfizer announced in August 2022 that it would acquire Global Blood Therapeutics, and later announced it had completed the acquisition in October 2022. This is clear acquisition evidence from Pfizer's official press releases.",
+  "evidence_urls": [
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-acquire-global-blood-therapeutics-54-billion-enhance",
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-global-blood-therapeutics"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

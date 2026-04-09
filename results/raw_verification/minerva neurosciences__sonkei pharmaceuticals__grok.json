@@ -1,0 +1,16 @@
+{
+  "seed_company": "Minerva Neurosciences",
+  "related_company": "Sonkei Pharmaceuticals, Inc.",
+  "relationship_type": "Merger",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "SEC filings and IR documents state that in Nov 2013 Sonkei merged into Cyrenaic (surviving entity renamed Minerva Neurosciences), consistently referred to as the Sonkei Merger.",
+  "evidence_urls": [
+    "https://ir.minervaneurosciences.com/static-files/ad224341-0989-4cf3-a267-8a1db9b87fe9",
+    "https://ir.minervaneurosciences.com/static-files/a49066d0-bf3c-4f46-a03d-51ac15c73f27"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

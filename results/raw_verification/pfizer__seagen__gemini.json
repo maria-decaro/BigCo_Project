@@ -1,0 +1,16 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Seagen",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Pfizer successfully completed its acquisition of Seagen Inc. on December 14, 2023, for approximately $43 billion ($229 per share in cash). Following the acquisition, Seagen became a wholly-owned subsidiary of Pfizer, and Pfizer reorganized its commercial structure to include a new Pfizer Oncology Division incorporating Seagen's assets and technology.",
+  "evidence_urls": [
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-seagen",
+    "https://www.sec.gov/Archives/edgar/data/1060749/000119312523101188/d464303dprem14a.htm"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

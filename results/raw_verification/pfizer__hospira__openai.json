@@ -1,0 +1,17 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Hospira",
+  "relationship_type": "Acquisition",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Pfizer officially announced in 2015 that it would acquire Hospira, and Pfizer later stated that it completed the acquisition. Regulatory materials from the FTC also describe the transaction as Pfizer's acquisition of Hospira.",
+  "evidence_urls": [
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-acquire-hospira",
+    "https://www.pfizer.com/sites/default/files/investors/Pfizer%20Hospira%20Final%20Release%209-3-2016.pdf",
+    "https://www.ftc.gov/legal-library/browse/cases-proceedings/151-0074-pfizer-inchospira-inc-matter"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

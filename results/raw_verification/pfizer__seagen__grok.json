@@ -1,0 +1,16 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Seagen",
+  "relationship_type": "Acquisition",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Pfizer completed its acquisition of Seagen in Dec 2023 for $43B, acquiring all outstanding shares and integrating Seagen into its Oncology business.",
+  "evidence_urls": [
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-seagen",
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invests-43-billion-battle-cancer"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

@@ -1,0 +1,16 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "related_company": "Baergic Bio, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.85,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Axsome Therapeutics acquired 100% of the equity interests in Baergic Bio, Inc. (formerly a subsidiary of Avenue Therapeutics) in November 2025, gaining rights to its GABA-A modulator asset.",
+  "evidence_urls": [
+    "https://ir.avenuetx.com/news-events/press-releases/detail/98/avenue-therapeutics-announces-acquisition-of-subsidiary",
+    "https://www.globenewswire.com/news-release/2025/11/06/3182362/0/en/Axsome-Therapeutics-Acquires-Subtype-Selective-GABA-A-Receptor-Positive-Allosteric-Modulator-AZD7325-for-the-Treatment-of-Epilepsy.html"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

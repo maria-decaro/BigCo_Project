@@ -1,0 +1,58 @@
+{
+  "seed_company": "Pfizer",
+  "discoveries": [
+    {
+      "related_company": "Metsera",
+      "relationship_type": "Acquisition",
+      "confidence": 0.95,
+      "event_year": "2025",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Pfizer completed acquisition of Metsera in November 2025; Metsera became a wholly-owned subsidiary per official press release and SEC filings.",
+      "evidence_urls": [
+        "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-metsera"
+      ]
+    },
+    {
+      "related_company": "Seagen",
+      "relationship_type": "Acquisition",
+      "confidence": 0.95,
+      "event_year": "2023",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Pfizer completed $43B acquisition of Seagen in December 2023 as announced in official press release.",
+      "evidence_urls": [
+        "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-seagen"
+      ]
+    },
+    {
+      "related_company": "Arena Pharmaceuticals",
+      "relationship_type": "Acquisition",
+      "confidence": 0.9,
+      "event_year": "2022",
+      "source_authority": "high",
+      "recency": "medium",
+      "clarity": "high",
+      "evidence_summary": "Pfizer completed acquisition of Arena Pharmaceuticals in March 2022 for $6.7B via merger, becoming wholly-owned subsidiary.",
+      "evidence_urls": [
+        "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-arena-pharmaceuticals"
+      ]
+    },
+    {
+      "related_company": "Biohaven",
+      "relationship_type": "Acquisition",
+      "confidence": 0.9,
+      "event_year": "2022",
+      "source_authority": "high",
+      "recency": "medium",
+      "clarity": "high",
+      "evidence_summary": "Pfizer acquired Biohaven Pharmaceuticals in 2022 for $11.6B to gain migraine treatment assets per official announcements.",
+      "evidence_urls": [
+        "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-acquire-biohaven-pharmaceuticals"
+      ]
+    }
+  ],
+  "provider": "grok"
+}

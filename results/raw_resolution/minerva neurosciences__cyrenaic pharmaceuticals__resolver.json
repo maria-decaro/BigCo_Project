@@ -1,0 +1,17 @@
+{
+  "seed_company": "Minerva Neurosciences",
+  "related_company": "Cyrenaic Pharmaceuticals, Inc.",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.94,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Official SEC filings show Minerva Neurosciences was originally incorporated as Cyrenaic Pharmaceuticals, Inc. in 2007 and later renamed Minerva Neurosciences, Inc. after Cyrenaic merged with Sonkei Pharmaceuticals in November 2013. That means Cyrenaic is the former name/legal predecessor of Minerva, not a separate company acquired by or merged with Minerva as a distinct counterparty.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1598646/000119312515183176/d913229d424b4.htm",
+    "https://www.sec.gov/Archives/edgar/data/1598646/000104746914003612/a2219290zs-1.htm"
+  ],
+  "needs_review": false,
+  "_provider_citations": [],
+  "provider": "openai_resolver"
+}

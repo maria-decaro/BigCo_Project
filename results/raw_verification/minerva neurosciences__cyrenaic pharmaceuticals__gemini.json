@@ -1,0 +1,16 @@
+{
+  "seed_company": "Minerva Neurosciences",
+  "related_company": "Cyrenaic Pharmaceuticals, Inc.",
+  "relationship_type": "Merger",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Minerva Neurosciences was formerly known as Cyrenaic Pharmaceuticals, Inc. In November 2013, Cyrenaic Pharmaceuticals merged with Sonkei Pharmaceuticals, Inc., and the surviving entity was renamed Minerva Neurosciences, Inc. Official SEC filings and company press releases confirm that Minerva is the successor in interest to Cyrenaic following this merger.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1598646/000119312514123514/d704153dex101.htm",
+    "https://www.minervaneurosciences.com/investors/news-releases/minerva-neurosciences-launches-new-web-site-following-transfer-corporate"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

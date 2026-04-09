@@ -1,0 +1,16 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Biohaven",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "On October 3, 2022, Pfizer completed the acquisition of Biohaven Pharmaceutical Holding Company Ltd. for approximately $11.6 billion in cash. As part of the transaction, Biohaven's non-CGRP development-stage pipeline was spun off into a new independent publicly traded company called Biohaven Ltd. (NYSE: BHVN). The original Biohaven (the CGRP business) became a wholly-owned subsidiary of Pfizer.",
+  "evidence_urls": [
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-biohaven-pharmaceuticals",
+    "https://www.biohaven.com/investors/news-events/press-releases/biohaven-ltd-starts-trading-on-nyse-following-completion-of-spin-off-from-biohaven-pharmaceutical-holding-company-ltd-and-acquisition-by-pfizer/"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

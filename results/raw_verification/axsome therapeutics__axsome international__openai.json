@@ -1,0 +1,16 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "related_company": "Axsome International Holdings LLC",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.98,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Axsome Therapeutics, Inc.'s SEC annual report lists 'Axsome International Holdings LLC' in Exhibit 21.1 as one of the company's subsidiaries, which is direct official evidence of a parent-subsidiary relationship.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1579428/000095017025058788/axsm_fy2024_ars.pdf",
+    "https://www.annualreports.com/HostedData/AnnualReportArchive/a/NASDAQ_AXSM_2022.pdf"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

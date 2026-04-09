@@ -1,0 +1,16 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "related_company": "Jazz Pharmaceuticals plc",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.97,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Official company materials show Axsome Therapeutics acquired the SUNOSI product from Jazz Pharmaceuticals in 2022, but neither company acquired, merged with, or became a subsidiary of the other. This is an asset/product divestiture transaction, so the company-to-company relationship is best classified as None/Unclear under the provided rules.",
+  "evidence_urls": [
+    "https://axsometherapeuticsinc.gcs-web.com/node/10236/pdf",
+    "https://investor.jazzpharma.com/node/19196/pdf"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

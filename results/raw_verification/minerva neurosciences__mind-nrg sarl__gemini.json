@@ -1,0 +1,17 @@
+{
+  "seed_company": "Minerva Neurosciences",
+  "related_company": "Mind-NRG Sarl",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Minerva Neurosciences acquired Mind-NRG Sarl (formerly Mind-NRG SA) on February 11, 2014. According to multiple SEC filings, including the 10-K for the fiscal year ended December 31, 2023, and the 10-Q filed in August 2024, Mind-NRG Sarl is a wholly-owned subsidiary of Minerva Neurosciences. The acquisition provided Minerva with the exclusive rights to develop and commercialize the compound MIN-301.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1598646/000159864624000011/nerv-20231231.htm",
+    "https://ir.minervaneurosciences.com/node/8371/html",
+    "https://www.vischer.com/en/knowledge/blog/acquisition-of-mind-nrg-by-minerva-neurosciences-1510/"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

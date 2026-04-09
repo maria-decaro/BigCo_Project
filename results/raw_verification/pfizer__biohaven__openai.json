@@ -1,0 +1,17 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Biohaven",
+  "relationship_type": "Acquisition",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Official Pfizer press releases state that Pfizer agreed to acquire Biohaven and later completed the acquisition in October 2022. Biohaven's SEC filing also describes the transaction as a merger in which Biohaven became a wholly owned subsidiary of Pfizer, supporting that the overall relationship is an acquisition.",
+  "evidence_urls": [
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-acquire-biohaven-pharmaceuticals",
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-biohaven-pharmaceuticals",
+    "https://www.sec.gov/Archives/edgar/data/1689813/000168981322000049/bhvn-20220509.htm"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

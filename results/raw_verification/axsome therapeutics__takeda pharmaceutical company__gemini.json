@@ -1,0 +1,16 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "related_company": "Takeda Pharmaceutical Company",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "As of April 2026, Axsome Therapeutics and Takeda Pharmaceutical Company have entered into an asset purchase agreement, not a corporate acquisition or merger. Axsome acquired the exclusive global rights to the drug candidate balipodect (TAK-063) from Takeda. Under the terms of the deal, Takeda received an upfront payment and remains eligible for future milestone payments and royalties. This is a product-level licensing/asset acquisition rather than a company-level acquisition, merger, or subsidiary relationship.",
+  "evidence_urls": [
+    "https://www.globenewswire.com/news/release/2026/04/01/axsome-therapeutics-acquires-selective-pde10a-inhibitor-balipodect-for-the-treatment-of-schizophrenia-and-other-neuropsychiatric-conditions.html",
+    "https://www.sidley.com/en/news/2026/04/sidley-represents-axsome-therapeutics-in-its-acquisition-of-global-rights-to-balipodect-from-takeda"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

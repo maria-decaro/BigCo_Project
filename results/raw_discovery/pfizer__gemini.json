@@ -1,0 +1,74 @@
+{
+  "seed_company": "Pfizer",
+  "discoveries": [
+    {
+      "related_company": "Metsera, Inc.",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2025",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Pfizer completed the acquisition of Metsera, Inc., a clinical-stage biopharmaceutical company focusing on obesity and cardiometabolic diseases, in November 2025 for approximately $7 billion plus contingent value rights.",
+      "evidence_urls": [
+        "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-metsera",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqLMc5kETiGWmGPajVWtSHvcIv-fnT5tQeZP-trwD4mHk6SwpHt-RTRSCYee4ZWPsB2O3sY2xx1Zan5A0Yl5RJht3pA0RBu5KjPBDmma_cwkEYt-aYo4kqRsGHPqNncjSvKG-5Sl5edMMdVTJWjonJ-BTh4C2CyXYROCxvcdhTBNOJwTMDA5JUqbz98BKWYFCxbdgdXwSUA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqHxA4uEdhCGfnSsN0M5XhHJDqZtPEinw_CGvavKmZ9OUCDJPO-SWjy34RkYVVQt0yPcT8CckA2RabtDzoIy6B91JDyQd2qhHn6SfIBlZi5qh5Hdu_B9vrZQ7BpwyWB9VhH8u1yvAvDwrAigGYJHSMeDK_PLzg_UKJv92_iU0PrX0kF7E0jVjU6ZPGzzgSrddpWlueB7FGTuKe77_7fJUS",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH87Oq9noYDpfRmev9MRXsXnjVxkUulAIO3oNitvB6_ZpCYWnT1gFqMxc47Ju3Ux8l7WmcCfT3B8F0U30VG6VugTLAIPV4KqWfNfxmc_dopg7f-OO8M-kKeFoPYLcmSTv_hKV3ttdFUmghcUBFA9dBbkOKZz3Y-5KxvShnB4xMCk7lE363t2Tmd2BAWB6x82-unoQowCf3tqvpTnST0Xy5zdUtkCMKOXliZPV8xcT9T",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVdUQPH5oZZlnZCCZAi6fww-9Nkn8VmQOe807Sg9OwKM7d61UKjAKSjjYQDWnyZlO5J0mYg8RmycnAOxfa_jdFP7VgS-YJGp85EgsrdsihQYAWDZg_QW4YlKw3SzHXTBW6k_xMMF9mHpmHRoGYbVnTWXDtXKqPb2-k29ol7BF3Ndp1HRCz4QbJwZw="
+      ]
+    },
+    {
+      "related_company": "Seagen Inc.",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2023",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Pfizer completed its $43 billion acquisition of Seagen Inc., a leader in antibody-drug conjugate (ADC) technology, on December 14, 2023, significantly expanding its oncology portfolio.",
+      "evidence_urls": [
+        "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-seagen",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqLMc5kETiGWmGPajVWtSHvcIv-fnT5tQeZP-trwD4mHk6SwpHt-RTRSCYee4ZWPsB2O3sY2xx1Zan5A0Yl5RJht3pA0RBu5KjPBDmma_cwkEYt-aYo4kqRsGHPqNncjSvKG-5Sl5edMMdVTJWjonJ-BTh4C2CyXYROCxvcdhTBNOJwTMDA5JUqbz98BKWYFCxbdgdXwSUA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqHxA4uEdhCGfnSsN0M5XhHJDqZtPEinw_CGvavKmZ9OUCDJPO-SWjy34RkYVVQt0yPcT8CckA2RabtDzoIy6B91JDyQd2qhHn6SfIBlZi5qh5Hdu_B9vrZQ7BpwyWB9VhH8u1yvAvDwrAigGYJHSMeDK_PLzg_UKJv92_iU0PrX0kF7E0jVjU6ZPGzzgSrddpWlueB7FGTuKe77_7fJUS",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH87Oq9noYDpfRmev9MRXsXnjVxkUulAIO3oNitvB6_ZpCYWnT1gFqMxc47Ju3Ux8l7WmcCfT3B8F0U30VG6VugTLAIPV4KqWfNfxmc_dopg7f-OO8M-kKeFoPYLcmSTv_hKV3ttdFUmghcUBFA9dBbkOKZz3Y-5KxvShnB4xMCk7lE363t2Tmd2BAWB6x82-unoQowCf3tqvpTnST0Xy5zdUtkCMKOXliZPV8xcT9T",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVdUQPH5oZZlnZCCZAi6fww-9Nkn8VmQOe807Sg9OwKM7d61UKjAKSjjYQDWnyZlO5J0mYg8RmycnAOxfa_jdFP7VgS-YJGp85EgsrdsihQYAWDZg_QW4YlKw3SzHXTBW6k_xMMF9mHpmHRoGYbVnTWXDtXKqPb2-k29ol7BF3Ndp1HRCz4QbJwZw="
+      ]
+    },
+    {
+      "related_company": "Biohaven Pharmaceutical Holding Company Ltd.",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2022",
+      "source_authority": "high",
+      "recency": "medium",
+      "clarity": "high",
+      "evidence_summary": "Pfizer completed the acquisition of Biohaven Pharmaceuticals on October 3, 2022, for approximately $11.6 billion, gaining the migraine treatment NURTEC ODT. Biohaven became a wholly-owned subsidiary.",
+      "evidence_urls": [
+        "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-biohaven-pharmaceuticals",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqLMc5kETiGWmGPajVWtSHvcIv-fnT5tQeZP-trwD4mHk6SwpHt-RTRSCYee4ZWPsB2O3sY2xx1Zan5A0Yl5RJht3pA0RBu5KjPBDmma_cwkEYt-aYo4kqRsGHPqNncjSvKG-5Sl5edMMdVTJWjonJ-BTh4C2CyXYROCxvcdhTBNOJwTMDA5JUqbz98BKWYFCxbdgdXwSUA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqHxA4uEdhCGfnSsN0M5XhHJDqZtPEinw_CGvavKmZ9OUCDJPO-SWjy34RkYVVQt0yPcT8CckA2RabtDzoIy6B91JDyQd2qhHn6SfIBlZi5qh5Hdu_B9vrZQ7BpwyWB9VhH8u1yvAvDwrAigGYJHSMeDK_PLzg_UKJv92_iU0PrX0kF7E0jVjU6ZPGzzgSrddpWlueB7FGTuKe77_7fJUS",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH87Oq9noYDpfRmev9MRXsXnjVxkUulAIO3oNitvB6_ZpCYWnT1gFqMxc47Ju3Ux8l7WmcCfT3B8F0U30VG6VugTLAIPV4KqWfNfxmc_dopg7f-OO8M-kKeFoPYLcmSTv_hKV3ttdFUmghcUBFA9dBbkOKZz3Y-5KxvShnB4xMCk7lE363t2Tmd2BAWB6x82-unoQowCf3tqvpTnST0Xy5zdUtkCMKOXliZPV8xcT9T",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVdUQPH5oZZlnZCCZAi6fww-9Nkn8VmQOe807Sg9OwKM7d61UKjAKSjjYQDWnyZlO5J0mYg8RmycnAOxfa_jdFP7VgS-YJGp85EgsrdsihQYAWDZg_QW4YlKw3SzHXTBW6k_xMMF9mHpmHRoGYbVnTWXDtXKqPb2-k29ol7BF3Ndp1HRCz4QbJwZw="
+      ]
+    },
+    {
+      "related_company": "Global Blood Therapeutics, Inc. (GBT)",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2022",
+      "source_authority": "high",
+      "recency": "medium",
+      "clarity": "high",
+      "evidence_summary": "Pfizer completed the acquisition of Global Blood Therapeutics (GBT) on October 5, 2022, for approximately $5.4 billion. GBT is now a wholly-owned subsidiary of Pfizer.",
+      "evidence_urls": [
+        "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-global-blood-therapeutics",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqLMc5kETiGWmGPajVWtSHvcIv-fnT5tQeZP-trwD4mHk6SwpHt-RTRSCYee4ZWPsB2O3sY2xx1Zan5A0Yl5RJht3pA0RBu5KjPBDmma_cwkEYt-aYo4kqRsGHPqNncjSvKG-5Sl5edMMdVTJWjonJ-BTh4C2CyXYROCxvcdhTBNOJwTMDA5JUqbz98BKWYFCxbdgdXwSUA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqHxA4uEdhCGfnSsN0M5XhHJDqZtPEinw_CGvavKmZ9OUCDJPO-SWjy34RkYVVQt0yPcT8CckA2RabtDzoIy6B91JDyQd2qhHn6SfIBlZi5qh5Hdu_B9vrZQ7BpwyWB9VhH8u1yvAvDwrAigGYJHSMeDK_PLzg_UKJv92_iU0PrX0kF7E0jVjU6ZPGzzgSrddpWlueB7FGTuKe77_7fJUS",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH87Oq9noYDpfRmev9MRXsXnjVxkUulAIO3oNitvB6_ZpCYWnT1gFqMxc47Ju3Ux8l7WmcCfT3B8F0U30VG6VugTLAIPV4KqWfNfxmc_dopg7f-OO8M-kKeFoPYLcmSTv_hKV3ttdFUmghcUBFA9dBbkOKZz3Y-5KxvShnB4xMCk7lE363t2Tmd2BAWB6x82-unoQowCf3tqvpTnST0Xy5zdUtkCMKOXliZPV8xcT9T",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVdUQPH5oZZlnZCCZAi6fww-9Nkn8VmQOe807Sg9OwKM7d61UKjAKSjjYQDWnyZlO5J0mYg8RmycnAOxfa_jdFP7VgS-YJGp85EgsrdsihQYAWDZg_QW4YlKw3SzHXTBW6k_xMMF9mHpmHRoGYbVnTWXDtXKqPb2-k29ol7BF3Ndp1HRCz4QbJwZw="
+      ]
+    }
+  ],
+  "provider": "gemini"
+}

@@ -1,0 +1,17 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "related_company": "Axsome Therapeutics Australia Pty Ltd.",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Axsome Therapeutics Australia Pty Ltd. is explicitly listed as a subsidiary of Axsome Therapeutics, Inc. in official SEC filings, including Exhibit 21.1 of the company's 2024 and 2026 reports. SEC Form 10-Q filings also refer to it as 'our Australian subsidiary' in the context of research and development tax incentives.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1621832/000162183224000011/ex-21_1.htm",
+    "https://fintel.io/doc/sec-axsome-therapeutics-inc-1621832-ex211-2024-february-23-19776-3532",
+    "https://www.morningstar.com.au/stocks/nasdaq/axsm/profile"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

@@ -1,0 +1,18 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "related_company": "Takeda Pharmaceutical",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Current official Axsome pages describe Axsome as an independent biopharmaceutical company, and current official Takeda news/partnership pages do not show Axsome as an acquired company, merger partner, or subsidiary. Search results also did not surface any official Axsome-Takeda acquisition, merger, or parent-subsidiary announcement. At most, any apparent connection is indirect or absent, so the relationship should be classified as None/Unclear.",
+  "evidence_urls": [
+    "https://www.axsome.com/about-axsome",
+    "https://www.axsome.com/",
+    "https://www.takeda.com/newsroom/newsreleases/2026/collaboration-and-license/",
+    "https://www.takeda.com/newsroom/newsreleases/2024/takeda-and-protagonist-therapeutics-inc-enter-into-worldwide-license-and-collaboration-agreement-for-rusfertide-a-late-stage-rare-hematology-asset/"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

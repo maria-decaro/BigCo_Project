@@ -1,0 +1,18 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Biohaven Pharmaceutical Holding Company Ltd.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Official Pfizer press releases state that Pfizer announced and then completed the acquisition of Biohaven Pharmaceuticals in October 2022. SEC filings further document an Agreement and Plan of Merger under which Pfizer acquired all outstanding common shares of Biohaven Pharmaceutical Holding Company Ltd. not already owned by Pfizer.",
+  "evidence_urls": [
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-acquire-biohaven-pharmaceuticals",
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-biohaven-pharmaceuticals",
+    "https://www.sec.gov/Archives/edgar/data/78003/000119312522145661/d336582d8k.htm",
+    "https://www.sec.gov/Archives/edgar/data/78003/000007800324000039/pfe-20231231.htm"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

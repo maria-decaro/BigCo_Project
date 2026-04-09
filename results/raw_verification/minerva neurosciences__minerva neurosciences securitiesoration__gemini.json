@@ -1,0 +1,16 @@
+{
+  "seed_company": "Minerva Neurosciences",
+  "related_company": "Minerva Neurosciences Securities Corporation",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Minerva Neurosciences Securities Corporation is a wholly-owned subsidiary of Minerva Neurosciences, Inc. This relationship is explicitly documented in the company's SEC filings, including Exhibit 21.1 (List of Subsidiaries) and consolidated financial statements in Form 10-Q and 10-K filings, which state that the consolidated financial statements include the results of the company and its wholly-owned subsidiaries, including Minerva Neurosciences Securities Corporation.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1598646/000119312515087115/d884111dex211.htm",
+    "https://ir.minervaneurosciences.com/node/8106/html"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

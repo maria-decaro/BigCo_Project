@@ -1,0 +1,16 @@
+{
+  "seed_company": "Minerva Neurosciences",
+  "related_company": "Mind-NRG SA",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.97,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Official SEC filings from Minerva Neurosciences state that it acquired Mind-NRG Sarl in February 2014 and that Mind-NRG Sarl is included among Minerva's wholly-owned subsidiaries in the 2025 Form 10-K. Because the current corporate relationship is requested, the best resolution is Subsidiary rather than Acquisition.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1598646/000119312526101117/nerv-20251231.htm"
+  ],
+  "needs_review": false,
+  "_provider_citations": [],
+  "provider": "openai_resolver"
+}

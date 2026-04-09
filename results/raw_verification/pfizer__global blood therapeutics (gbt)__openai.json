@@ -1,0 +1,16 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Global Blood Therapeutics, Inc. (GBT)",
+  "relationship_type": "Acquisition",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Official Pfizer press releases state that Pfizer announced an agreement to acquire Global Blood Therapeutics for $5.4 billion in August 2022 and later completed the acquisition in October 2022.",
+  "evidence_urls": [
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-acquire-global-blood-therapeutics-54-billion-enhance",
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-global-blood-therapeutics"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

@@ -1,0 +1,16 @@
+{
+  "seed_company": "Minerva Neurosciences",
+  "related_company": "Cyrenaic Pharmaceuticals, Inc.",
+  "relationship_type": "Merger",
+  "confidence": 0.97,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Official SEC filings state that Minerva Neurosciences was formed in November 2013 from the merger of Cyrenaic Pharmaceuticals, Inc. and Sonkei Pharmaceuticals, Inc. This supports a merger relationship between Minerva Neurosciences and Cyrenaic Pharmaceuticals, Inc.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1598646/000119312515183176/d913229d424b4.htm",
+    "https://ir.minervaneurosciences.com/node/11966/html"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

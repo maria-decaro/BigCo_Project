@@ -1,0 +1,16 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "related_company": "Baergic Bio, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "On November 6, 2025, Axsome Therapeutics announced the acquisition of a 100% equity interest in Baergic Bio, Inc. from Avenue Therapeutics. The transaction was completed to obtain the global rights to the epilepsy drug candidate BAER-101 (now AXS-17).",
+  "evidence_urls": [
+    "https://www.globenewswire.com/news-release/2025/11/06/2976123/0/en/Axsome-Therapeutics-Acquires-Subtype-Selective-GABA-A-Receptor-Positive-Allosteric-Modulator-AZD7325-for-the-Treatment-of-Epilepsy.html",
+    "https://www.avenuetx.com/news-releases/news-release-details/avenue-therapeutics-announces-acquisition-subsidiary-baergic-bio"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

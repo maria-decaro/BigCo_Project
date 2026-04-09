@@ -1,0 +1,140 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"seed_company\": \"Axsome Therapeutics\",\n  \"related_company\": \"Takeda Pharmaceutical\",\n  \"relationship_type\": \"None/Unclear\",\n  \"confidence\": 0.95,\n  \"source_authority\": \"high\",\n  \"recency\": \"high\",\n  \"clarity\": \"high\",\n  \"evidence_summary\": \"As of April 2026, Axsome Therapeutics and Takeda Pharmaceutical have a licensing and asset purchase relationship, not a corporate acquisition, merger, or subsidiary relationship. Axsome Therapeutics entered into an asset purchase agreement with Takeda to acquire the exclusive global rights to balipodect (TAK-063), a selective PDE10A inhibitor. Under the terms, Axsome obtained worldwide commercial, development, and manufacturing rights, while Takeda received an upfront payment and remains eligible for future milestone payments and royalties. This is a product-level asset acquisition/licensing deal, which falls under the 'None/Unclear' category according to the provided rules.\",\n  \"evidence_urls\": [\n    \"https://www.investing.com/news/company-news/axsome-acquires-global-rights-to-balipodect-from-takeda-93CH-3361131\",\n    \"https://www.stocktitan.net/news/AXSM/axsome-therapeutics-acquires-selective-pde-10-a-inhibitor-balipodect-v690769v6907.html\",\n    \"https://www.thepharmaletter.com/article/axsome-therapeutics-acquires-takeda-s-selective-pde10a-inhibitor-balipodect\"\n  ],\n  \"needs_review\": false\n}",
+            "thoughtSignature": "EjQKMgG+Pvb75F3B7lM3u9lXEXEF7+BHs70XDm4mAvuPgtqC17aljC6QZIazAEfgDsN8jQVG"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0,
+      "groundingMetadata": {
+        "searchEntryPoint": {
+          "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXw59AUhAz9_g221KsgD6TVeLjV_LLSnIFryp-pSBQzOHz4MrD2zK0iNIi-qI3ScS0ZhS0DZwxxTeWkSyntSnsS-zM6Vfd_uqP0WHewS1xPXvMTEi580k6_h6nD2TcZ5k7EZ_NWx-UAbjqDrwWQn6Wqe90FNigT41-imiUkEoINBv8EjjHQ7hJqDhukKtlTds8ZSm0XiCuLMqWnJ2Yhso_b2fzsWbrh3aqK8_F2g==\">Axsome Therapeutics acquired Takeda assets</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSta3SyLENsdBZgE13Yq9OheoVUO7o8NPeO2gfuaB8LBY_ip3lRROuXo74dHVcWLjUzf9_6erq8XhBFq_pu_KXQbxFaM8p20GGRrCp4vhni6TNyHt3qOi40E4F67Hm6RDymng3BSiuUf1PRrPFYa0BIG3OI5mlYNK8amDJlIQcMTnSmnEuyJSDfAnl_HpOij5fgBuhlwa0O-DiY_S-c9Qf9MNR3Wr6x6hXU24CA__Q7pHr_ZYZlZq9Rjkqmv9xQANj512YM8AkAheRsj8ropjZEz7dAsoFWj4=\">Axsome Therapeutics Takeda Pharmaceutical relationship acquisition merger subsidiary</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7U6KcE2s4C-oCF_j0VQQA-efykT9JZRLBQOB6yJGauvLzK2VI3WR2ikyPy-aDpriI6-B5yY3FPOPjlKXA5ad0e_hCerPY3-Q0MxZ3HpjDdhm965hDIpQMzmnKtg4x6BCZhOx0652c1i-LHri0-5PKx2RHYNgQiggtxOglaHkONguuLCFG1wbfbpy3CPdteBUaXPHaYalvoSupT8qDJrPvQX0TR1P4CqqvFOMKzvkaD68M9_DIQlWEmau4Q3n7Z_hELNe08SEfUTtv_Woi\">Axsome Therapeutics Takeda Pharmaceutical partnership licensing agreement</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWMzgnxL4Fu73YmYxGFhykP5fWbAiXnkMwpj3NVk0ylMsRp-bWgMwyJX6ztWYlnbfBxRExQ32F19iEPf6sfA-mXTQvVOVnZBcQUPoOXT-2hp6gg-DC3_0dLsouKli8f7G0ykv9w0q0Gald-Xtp41RzbbpAQKxhA6qBPY6OIh8ha3rk2u23kTNQjpd_vYOmM8Po2JXdPl_do_xh_3oHRZbsD2AnH3SdBCmEciBN1bRF8kxhzkE966RRDUyk5meHaVR6Al0aSlxcJw==\">Axsome Therapeutics Takeda Pharmaceutical SEC filings press releases</a>\n  </div>\n</div>\n"
+        },
+        "groundingChunks": [
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7BdCiah4X8kN0_q1nodocK-Pwip-CQPToK_AvqPI09jqMF42fawqP58AZBsXM-CNlf7zJKOWOCmi1Aprx9garGV4kRJkkBtydrcsfwjPxBpmxQXY8iKcRlWTRBZRKuE71HAWT2r-VXl-GLneOicL1PSP5RFkEyKYcOt9N4fOQ2xvfqaW7-RAtDOwWOH6XVMg6MfsTIQX7K35vwVjUbOcmiwFXTI7_HKdsNuY83h2vfmfCOfo=",
+              "title": "tipranks.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGBMwO_0RBkQ35B-RurCi8d7BbYL77Ae8kWLuO74PkFe8YQynnLnIGXUsueBT5tBlIHGN06AHzyDVVDI967W13HAPTQIfbkARlvLhuek-CKjV4hoRm9TwcCUy76DhPhNGR1leYqtkSX0IN4RJomyMRm8O9C8fYwbgYS25Uv0UMKQKpJpTgkB9rprfq9PYCx2gHgEgulfg=",
+              "title": "intellectia.ai"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiP2dXXIW2RNEpXgF-FzTkxqigL2lGRSZ2gPUA1oWE1O9KJ-UXnkasNzz6MRGkD8U_zJJgO_YLwxm4EihKUrjAITEQu_GPlmLRe6vYHvmB0E2_K2L0VTuviRGwKannQkvo6SiC2l-3Qs98FLDMu65EENAi6m5yuObhsWnRBGHxtXjMR0NqCZsQaN5gGxi3h0WQu5-6wI54DanaE2uh73xKDi1j4dy4i_gqMwc=",
+              "title": "stocktitan.net"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuZzsd81TxkhI7xFbPFiVwudr7W9p6dmi1-aKvR4wZIpu6oY4nFFEelSI9CU29F5Ob-Vh2MjH1B8aG3I_lmN3cYtXYFwsQQLHQATjqlYX6qopVyvtcFhsBwG32BsRNNHMzB5iak6w1UEQVxN1nGGm9kpWGlnywH2vI-NQw2Dc4N7fh60eUj5t8Tt09vqGHVX2r69NZii1ZP8Wi2k8jXptwyIScdnLCv6fqjmY=",
+              "title": "allsci.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETNbxzN9FqhZnxen8LpnAxaEaUs5N9OTyLQeWBPCz_BMof5-Qb1s61iOH_AwRR9858B50t00-d3Lr2TXJWquePqxl9_Iz1JSlnEaEXreyflfCBruTKzaUhQATbqM7d0BZ0B5--a_tOu5k0vpj33EPsRS2uhHS3ph8Eh3MditJRweNQtAdWqIUNcUT7ZZ3SRaQ1jPBCYb1oLC3pRJdiLA==",
+              "title": "pharmashots.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-T4F_GTalPJvUroW6RVk9skUd5wyG7AjLZSHe6Lbpz5Tg_HOVeSRsp9e3B36-AnQRPzCMNJSIlVdJpMminJ5RhuxEUymXE0wN-PyLq6ZXfrA1-DgkoYBTw7GtdOageZT7wC8SkF-MyFE1UdsEFnDmtPhNd6dOiZrYaAv3dMED2H9fZy6nm53xgWVzEV1SllVt02B1OJ0SKF72_CCBRQWCIt0OE60YKMDyt3MCpTMUb90uBM5rX8X3HTl0Iq9M-PXGUTI2DzVmAD1Ey29rAndj1XeBxxhQx7GxtiG5h0I2yL-Ad24e3w==",
+              "title": "inforcapital.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtVX1SsrtHy8nZbAldS-DM75mJpZUuxrtjokMl-P7TLypnUN3feoeqJIKYydb_SMMh2px6oO4OlePKL7kUsy7lFSz31SSOF6TTHjANPkcv21zbvr9x1QqI-J06AQXov75OQGR3",
+              "title": "firstwordpharma.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT7KZtSIXGLUejiDewBWy8Sz3eq2pw0C5O3CvtvtRBbrduh-IqqwU8NT08F25TPtuvxnINLDrA8eLliS9QsypwbUGuts0fZYy-Dv5cOhtwzAka3DuLEUT9zG9lF81tfYpbJaJe3j7c0ouTbMsk9CksV0jFUMJGtOXFcL0tOtDLNJiYHx4FZFpKF4UqbkWxjwP7fb2UKa9GAA==",
+              "title": "pharmacally.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKL_sSi7kHeqPJh6q_muidQd2C5lSIoZRwxi3tBPxoICujYBCk7pdDOaB8H3waT0uaAE7p3cnYpJpM0uI8vS9FveiK3FIzYYacHXRwBG7AJ9ktnyCsTYDDnduzGzH3YsKnW0U_2HUo389Fox6_ueWoMcWEmPbjD89oRU7tTBPXpA4zdEJClZ0CrM6qOJmKk41eUPSflwL7s1FaokgycORlqnnzOeI=",
+              "title": "gurufocus.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVtQzAuHbbSeykx95ix46M_8uK8PTsBrohmobMx1cuGguy_Fs8ZPTXGx-a8QSkMQPAlXrIu9A2-tl2oSMRhbShB44mqLncK7Js-DHrjVQNOecdOJJgspCMgg3QC487z9FVbbzOnjTeMxqLo5veuK_QpEQVli8GbRK5JVTwxL6k-Ockrg0L3GaOShuEhUh4fyQJxzw4YrAkdOtsC8KiM-YFxob7-h_8BeERxL0=",
+              "title": "investing.com"
+            }
+          }
+        ],
+        "groundingSupports": [
+          {
+            "segment": {
+              "startIndex": 424,
+              "endIndex": 590,
+              "text": "Axsome Therapeutics entered into an asset purchase agreement with Takeda to acquire the exclusive global rights to balipodect (TAK-063), a selective PDE10A inhibitor."
+            },
+            "groundingChunkIndices": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 591,
+              "endIndex": 791,
+              "text": "Under the terms, Axsome obtained worldwide commercial, development, and manufacturing rights, while Takeda received an upfront payment and remains eligible for future milestone payments and royalties."
+            },
+            "groundingChunkIndices": [
+              7,
+              8,
+              0,
+              9,
+              5,
+              3,
+              4,
+              1,
+              6
+            ]
+          }
+        ],
+        "webSearchQueries": [
+          "Axsome Therapeutics acquired Takeda assets",
+          "Axsome Therapeutics Takeda Pharmaceutical partnership licensing agreement",
+          "Axsome Therapeutics Takeda Pharmaceutical SEC filings press releases",
+          "Axsome Therapeutics Takeda Pharmaceutical relationship acquisition merger subsidiary"
+        ]
+      }
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 358,
+    "candidatesTokenCount": 399,
+    "totalTokenCount": 757,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 358
+      }
+    ]
+  },
+  "modelVersion": "gemini-3-flash-preview",
+  "responseId": "3-7WabjVM4KOjMcP1NODmAc"
+}

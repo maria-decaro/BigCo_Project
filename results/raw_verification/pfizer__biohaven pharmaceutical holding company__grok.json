@@ -1,0 +1,16 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Biohaven Pharmaceutical Holding Company Ltd.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Pfizer acquired Biohaven Pharmaceutical Holding Company Ltd. in Oct 2022 for ~$11.6B cash (after prior collaboration); Biohaven became wholly-owned subsidiary after spin-off of non-CGRP assets to new independent Biohaven Ltd.",
+  "evidence_urls": [
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-acquire-biohaven-pharmaceuticals",
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-biohaven-pharmaceuticals"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

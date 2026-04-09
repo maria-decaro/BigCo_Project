@@ -1,0 +1,16 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "related_company": "Axsome Therapeutics, Limited (Ireland)",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.8,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Listed as a wholly-owned subsidiary in Axsome Therapeutics Inc. SEC Exhibit 21.1 filings and referenced as the Irish Subsidiary in agreements. Incorporated 2019; voluntarily dissolved Nov 2025 per Irish CRO records.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1579428/000095017024019118/axsm-ex21_1.htm",
+    "https://www.vision-net.ie/Company-Info/Axsome-Therapeutics-Limited-644986"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

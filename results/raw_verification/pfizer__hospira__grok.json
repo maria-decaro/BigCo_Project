@@ -1,0 +1,16 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Hospira",
+  "relationship_type": "Acquisition",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Pfizer completed acquisition of Hospira in Sep 2015 for ~$17B via merger agreement; Hospira became Pfizer subsidiary per official press releases",
+  "evidence_urls": [
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-hospira",
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-acquire-hospira"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

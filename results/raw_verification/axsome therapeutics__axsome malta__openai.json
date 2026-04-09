@@ -1,0 +1,16 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "related_company": "Axsome Malta Ltd.",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.98,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "SEC-filed subsidiary lists for Axsome Therapeutics include Axsome Malta Ltd., and Axsome Therapeutics' 2024 annual report describes Axsome Malta as a wholly-owned subsidiary of the company.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1579428/000095017023004728/axsm-ex21_1.htm",
+    "https://www.sec.gov/Archives/edgar/data/1579428/000095017025058788/axsm_fy2024_ars.pdf"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

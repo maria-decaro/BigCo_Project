@@ -1,0 +1,17 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Metsera, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Official SEC-filed press release states Pfizer and Metsera entered into a definitive agreement on September 22, 2025 under which Pfizer would acquire Metsera. Pfizer’s 2025 Form 10-K then states Pfizer acquired Metsera on November 13, 2025. FTC HSR records also list Pfizer as acquiring party and Metsera as acquired party.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/2040807/000119312525210030/d921605dex991.htm",
+    "https://s206.q4cdn.com/795948973/files/doc_financials/2025/q4/2025-Form-10-K.pdf",
+    "https://www.ftc.gov/legal-library/browse/early-termination-notices/20260047"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

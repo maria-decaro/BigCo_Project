@@ -1,0 +1,16 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Metsera, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Pfizer completed its acquisition of Metsera in November 2025 for approximately $7B upfront plus CVR, making Metsera a wholly owned subsidiary.",
+  "evidence_urls": [
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-metsera",
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-acquire-metsera-and-its-next-generation-obesity"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

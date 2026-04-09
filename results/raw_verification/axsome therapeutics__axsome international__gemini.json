@@ -1,0 +1,16 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "related_company": "Axsome International Holdings LLC",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Axsome International Holdings LLC is explicitly listed as a subsidiary of Axsome Therapeutics, Inc. in the company's official SEC filings, specifically Exhibit 21.1 (Subsidiaries of the Company) of its Annual Report (Form 10-K) filed in February 2024 and February 2026. The entity is a Delaware-based limited liability company used for corporate and international holding purposes.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1579428/000157942824000011/exhibit211subsidiariesofth.htm",
+    "https://fintel.io/doc/sec-axsome-therapeutics-inc-1579428-ex211-2024-february-23-19776-3501"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

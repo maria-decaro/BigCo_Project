@@ -1,0 +1,16 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "related_company": "Axsome Malta Ltd.",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Axsome Malta Ltd. is a wholly-owned subsidiary of Axsome Therapeutics, Inc. This relationship is explicitly stated in Axsome Therapeutics' SEC filings, including Exhibit 21.1 (List of Subsidiaries) of their 2023 and 2024 annual reports, and in a February 2023 Form 8-K which describes Axsome Malta Ltd. as a 'wholly-owned subsidiary' that entered into a license agreement with Pharmanovia for the commercialization of Sunosi in Europe.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1579428/000157942823000011/axsm-20230221.htm",
+    "https://fintel.io/doc/sec-axsome-therapeutics-inc-1579428-ex211-2024-february-23-19776-3532"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

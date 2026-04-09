@@ -1,0 +1,16 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "related_company": "Jazz Pharmaceuticals plc",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "In May 2022, Axsome Therapeutics completed the acquisition of the drug Sunosi (solriamfetol) from Jazz Pharmaceuticals. This was an asset purchase (divestiture) rather than a corporate acquisition or merger of the companies themselves. Both Axsome Therapeutics and Jazz Pharmaceuticals remain independent, publicly traded entities. Under the terms of the deal, Axsome paid $53 million upfront and agreed to pay royalties to Jazz on future sales of the drug.",
+  "evidence_urls": [
+    "https://www.jazzpharma.com/news-releases/news-release-details/jazz-pharmaceuticals-completes-us-divestiture-sunosir-solriamfetol",
+    "https://axsome.com/investors/press-releases/press-release-details/2022/Axsome-Therapeutics-to-Acquire-Sunosi-from-Jazz-Pharmaceuticals-Expanding-Axsomes-Leadership-in-Neuroscience/default.aspx"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

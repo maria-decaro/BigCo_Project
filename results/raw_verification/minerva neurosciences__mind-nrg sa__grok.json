@@ -1,0 +1,17 @@
+{
+  "seed_company": "Minerva Neurosciences",
+  "related_company": "Mind-NRG SA",
+  "relationship_type": "Acquisition",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Minerva Neurosciences acquired 100% share capital of Mind-NRG SA in Feb 2014 for its MIN-301 asset; now a wholly-owned subsidiary per SEC filings and IR documents.",
+  "evidence_urls": [
+    "https://ir.minervaneurosciences.com/static-files/39005a12-0332-4d36-a4f1-74a8e9a9220b",
+    "https://www.vischer.com/en/knowledge/deals-cases/acquisition-of-mind-nrg-by-minerva-neurosciences-32377/",
+    "https://ir.minervaneurosciences.com/static-files/ad224341-0989-4cf3-a267-8a1db9b87fe9"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

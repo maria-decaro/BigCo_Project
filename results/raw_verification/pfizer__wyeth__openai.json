@@ -1,0 +1,17 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Wyeth",
+  "relationship_type": "Acquisition",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Pfizer officially announced in January 2009 that it would acquire Wyeth, and later announced that Pfizer and Wyeth had become one company upon completion of the transaction. FTC materials also describe the deal as Pfizer's acquisition of Wyeth.",
+  "evidence_urls": [
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer_to_acquire_wyeth_creating_the_world_s_premier_biopharmaceutical_company",
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer_and_wyeth_become_one_working_together_for_a_healthier_world",
+    "https://www.ftc.gov/node/43715"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

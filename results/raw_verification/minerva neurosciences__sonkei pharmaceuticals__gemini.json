@@ -1,0 +1,16 @@
+{
+  "seed_company": "Minerva Neurosciences",
+  "related_company": "Sonkei Pharmaceuticals, Inc.",
+  "relationship_type": "Merger",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Minerva Neurosciences was formed in November 2013 through the merger of Cyrenaic Pharmaceuticals, Inc. and Sonkei Pharmaceuticals, Inc. According to SEC filings (Form 10-K and 10-Q), Sonkei was merged into Cyrenaic, and the surviving entity was subsequently renamed Minerva Neurosciences, Inc. This transaction is explicitly referred to in corporate documents as the 'Sonkei Merger'.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1598646/000119312514231348/d716531ds1a.htm",
+    "https://www.prnewswire.com/news-releases/minerva-neurosciences-launches-new-web-site-following-transfer-of-corporate-headquarters-to-cambridge-and-expansion-of-leadership-team-248600011.html"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

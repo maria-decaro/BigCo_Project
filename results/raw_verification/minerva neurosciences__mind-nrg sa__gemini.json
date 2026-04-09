@@ -1,0 +1,17 @@
+{
+  "seed_company": "Minerva Neurosciences",
+  "related_company": "Mind-NRG SA",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Minerva Neurosciences acquired Mind-NRG SA (also referred to as Mind-NRG Sarl) in February 2014. According to SEC filings and company press releases, Mind-NRG became a wholly-owned subsidiary of Minerva Neurosciences following the acquisition. The transaction provided Minerva with the exclusive global rights to develop and commercialize MIN-301, a compound for Parkinson's disease. Recent filings from 2025 and 2026 continue to identify Mind-NRG as a wholly-owned subsidiary of Minerva Neurosciences.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1598646/000119312515087431/d873335dex211.htm",
+    "https://www.minervaneurosciences.com/investors/sec-filings/",
+    "https://www.vischer.com/en/knowledge/deals-cases/acquisition-of-mind-nrg-by-minerva-neurosciences/"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

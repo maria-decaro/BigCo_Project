@@ -1,0 +1,17 @@
+{
+  "seed_company": "Minerva Neurosciences",
+  "related_company": "Mind-NRG Sarl",
+  "relationship_type": "Acquisition",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "SEC filings and recent company-related filings state that Minerva Neurosciences acquired Mind-NRG Sarl in February 2014, and more recent filings describe Mind-NRG SARL as a wholly owned subsidiary of Minerva Neurosciences.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1598646/000119312524240736/d843316dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/0001598646/000119312522307381/d438557d8k.htm",
+    "https://ir.minervaneurosciences.com/static-files/ee9b4b59-bce8-4adc-bc49-9a886c5b6e50"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

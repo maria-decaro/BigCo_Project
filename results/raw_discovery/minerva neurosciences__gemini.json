@@ -1,0 +1,55 @@
+{
+  "seed_company": "Minerva Neurosciences",
+  "discoveries": [
+    {
+      "related_company": "Mind-NRG SA",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2014",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Minerva Neurosciences acquired Mind-NRG, a Swiss biopharmaceutical company, on February 11, 2014, to obtain the rights to the compound MIN-301 for Parkinson's disease. It is listed as a subsidiary in SEC filings.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1598646/000114420715015070/v404222_ex21-1.htm",
+        "https://ir.minervaneurosciences.com/news-releases/news-release-details/minerva-neurosciences-acquires-mind-nrg",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjT71K3afLYQodMM0x7IIrAj1PWrKl__ONx1O_MIYBmKbY8_bOrEXdsoCVkwI2zRgLUNElIGboMEZPuxjUCuxgskMFt3G9DirXqE6iNi8AIPVhtE1mFOjEWK7PS1TrKHrEOH4RSM9EriNU-Uk2jWYaz4zcgnmBliac0rIrBD9UooL-XB7iBJmZC8DHp4fvdKc_r1Gj9nn455SMhh4Bm3CDwBZXU8Q-J1e6MpgqyHxvRPlXVaREgW_D",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTLBU42M_YNLahY273CcB3-1rr2c_6PKlJ5XeEv7ExmSG-Oi0f8W2O4-nOZCDCvgTyQ_iEErdFv9kF_k2mlZboiA-24gT36bu3Z9hSM4N8KCZ_Q7PkZ27O9DWfekoCdYyFviRT4kycoeP7Gu4Nkdi-dEktU2PpSmbkT2siq5LYpmfhc6RRzcrXcU-QOAczG06pmi25yVphCdErn7I=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoxpEAKSmkDFDIWphPbHt9zu4M6nE3hJfTaavVCM8fIkzoVQCO1Kq7MeLcmlwSwc0w0a7Y6ORGMddi4AUh336amJHG0Vx43tHZXt8Hs3ND04Yirk6tcsQ21zKdo_tQNOosriDf"
+      ]
+    },
+    {
+      "related_company": "Sonkei Pharmaceuticals, Inc.",
+      "relationship_type": "Merger",
+      "confidence": 1.0,
+      "event_year": "2013",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "On November 12, 2013, Sonkei Pharmaceuticals merged into Cyrenaic Pharmaceuticals (which then changed its name to Minerva Neurosciences), with Minerva being the surviving entity.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1598646/000114420715015070/v404222_10k.htm",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjT71K3afLYQodMM0x7IIrAj1PWrKl__ONx1O_MIYBmKbY8_bOrEXdsoCVkwI2zRgLUNElIGboMEZPuxjUCuxgskMFt3G9DirXqE6iNi8AIPVhtE1mFOjEWK7PS1TrKHrEOH4RSM9EriNU-Uk2jWYaz4zcgnmBliac0rIrBD9UooL-XB7iBJmZC8DHp4fvdKc_r1Gj9nn455SMhh4Bm3CDwBZXU8Q-J1e6MpgqyHxvRPlXVaREgW_D",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTLBU42M_YNLahY273CcB3-1rr2c_6PKlJ5XeEv7ExmSG-Oi0f8W2O4-nOZCDCvgTyQ_iEErdFv9kF_k2mlZboiA-24gT36bu3Z9hSM4N8KCZ_Q7PkZ27O9DWfekoCdYyFviRT4kycoeP7Gu4Nkdi-dEktU2PpSmbkT2siq5LYpmfhc6RRzcrXcU-QOAczG06pmi25yVphCdErn7I=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoxpEAKSmkDFDIWphPbHt9zu4M6nE3hJfTaavVCM8fIkzoVQCO1Kq7MeLcmlwSwc0w0a7Y6ORGMddi4AUh336amJHG0Vx43tHZXt8Hs3ND04Yirk6tcsQ21zKdo_tQNOosriDf"
+      ]
+    },
+    {
+      "related_company": "Minerva Neurosciences Securities Corporation",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Listed as a wholly-owned subsidiary of Minerva Neurosciences, Inc. in official SEC Exhibit 21.1 filings. It is incorporated in Massachusetts.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1598646/000114420715015070/v404222_ex21-1.htm",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjT71K3afLYQodMM0x7IIrAj1PWrKl__ONx1O_MIYBmKbY8_bOrEXdsoCVkwI2zRgLUNElIGboMEZPuxjUCuxgskMFt3G9DirXqE6iNi8AIPVhtE1mFOjEWK7PS1TrKHrEOH4RSM9EriNU-Uk2jWYaz4zcgnmBliac0rIrBD9UooL-XB7iBJmZC8DHp4fvdKc_r1Gj9nn455SMhh4Bm3CDwBZXU8Q-J1e6MpgqyHxvRPlXVaREgW_D",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTLBU42M_YNLahY273CcB3-1rr2c_6PKlJ5XeEv7ExmSG-Oi0f8W2O4-nOZCDCvgTyQ_iEErdFv9kF_k2mlZboiA-24gT36bu3Z9hSM4N8KCZ_Q7PkZ27O9DWfekoCdYyFviRT4kycoeP7Gu4Nkdi-dEktU2PpSmbkT2siq5LYpmfhc6RRzcrXcU-QOAczG06pmi25yVphCdErn7I=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoxpEAKSmkDFDIWphPbHt9zu4M6nE3hJfTaavVCM8fIkzoVQCO1Kq7MeLcmlwSwc0w0a7Y6ORGMddi4AUh336amJHG0Vx43tHZXt8Hs3ND04Yirk6tcsQ21zKdo_tQNOosriDf"
+      ]
+    }
+  ],
+  "provider": "gemini"
+}

@@ -1,0 +1,16 @@
+{
+  "seed_company": "Axsome Therapeutics",
+  "related_company": "Axsome Therapeutics, Limited",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.98,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Current and historical SEC Exhibit 21.1 subsidiary lists for Axsome Therapeutics, Inc. identify \"Axsome Therapeutics, Limited\" as a subsidiary in Ireland. This is strong official evidence of a parent-subsidiary relationship.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1579428/000095017023004728/axsm-ex21_1.htm",
+    "https://www.annualreports.com/HostedData/AnnualReportArchive/a/NASDAQ_AXSM_2023.pdf"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

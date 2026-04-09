@@ -1,0 +1,16 @@
+{
+  "seed_company": "Pfizer",
+  "related_company": "Arena Pharmaceuticals",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Pfizer officially completed the acquisition of Arena Pharmaceuticals on March 11, 2022, for approximately $6.7 billion in cash. The transaction was executed via a merger where Arena became a wholly-owned subsidiary of Pfizer, and Arena's common stock was subsequently delisted from the Nasdaq.",
+  "evidence_urls": [
+    "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-arena-pharmaceuticals",
+    "https://www.sec.gov/Archives/edgar/data/1067465/000110465921149024/tm2135381d1_8k.htm"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}
