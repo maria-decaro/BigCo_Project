@@ -1,4 +1,4 @@
-# Homework 5 - Multi-Agent Corporate Relationship Verification
+# Multi-Agent Corporate Relationship Verification
 
 ## Overview:
 This project implements a custom Python multi-agent system that starts with only a list of seed companies,
