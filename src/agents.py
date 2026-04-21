@@ -31,6 +31,7 @@ def save_json(path: Path, data: Dict[str, Any]) -> None:
 
 def normalize_company_name(name: str) -> str:
     text = name.lower().strip()
+    text = text.replace("/", " ").replace("\\", " ")
     replacements = [
         ", inc.", " inc.", ", inc", " inc",
         ", ltd.", " ltd.", " ltd", ", ltd",

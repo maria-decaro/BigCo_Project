@@ -1,0 +1,32 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Pharmaceuticals Spain SL",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals, Inc.'s Form 10-K lists 'Alnylam Pharmaceuticals Spain SL' in Exhibit 21.1 as a 100%-owned subsidiary organized in Spain. Alnylam's official Spain website also identifies Alnylam Pharmaceuticals Spain SL as the local Alnylam entity in Madrid.",
+  "evidence_urls": [
+    "https://alnylampharmaceuticalsinc.gcs-web.com/static-files/5bf87e4d-c9df-43b5-b072-91fcd577990a",
+    "https://www.alnylam.com/index.php/alnylam-espana",
+    "https://www.informa.es/directorio-empresas/Empresa_ALNYLAM-PHARMACEUTICALS-SPAIN.html",
+    "https://empresite.eleconomista.es/ALNYLAM-PHARMACEUTICALS-SPAIN.html",
+    "https://dogv.gva.es/datos/2025/04/03/pdf/2025_8888_es.pdf",
+    "https://www.iberinform.es/empresa/7327715/alnylam-pharmaceuticals-spain",
+    "https://dogv.gva.es/datos/2024/06/10/pdf/2024_5328.pdf",
+    "https://investors.alnylam.com/faq",
+    "https://www.einforma.com/informacion-empresa/alnylam-pharmaceuticals-spain",
+    "https://www.datoscif.es/empresa/alnylam-pharmaceuticals-spain-sl",
+    "https://www.empresia.es/empresa/alnylam-pharmaceuticals-spain/",
+    "https://www.talentoteca.es/finder/details/27962086/beca-ade",
+    "https://infonif.economia3.com/ficha-empresa/alnylam-pharmaceuticals-spain-sl",
+    "https://contratos.gobierto.es/adjudicatarios/alnylam-pharmaceuticals-spain-sl",
+    "https://dogv.gva.es/datos/2024/04/19/pdf/2024_3343.pdf",
+    "https://cima.aemps.es/cima/pdfs/ft/1201496001/FT_1201496001.pdf",
+    "https://cincodias.elpais.com/directorio-empresas/empresa/7327715/alnylam-pharmaceuticals-spain",
+    "https://www.juntadeandalucia.es/sites/default/files/2022-10/PTR%20ALNYLAM%202022%20PE%C3%91A%20PE%C3%91A_Censurado.pdf"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

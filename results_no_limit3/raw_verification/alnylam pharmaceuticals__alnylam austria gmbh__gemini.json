@@ -1,0 +1,22 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Austria GmbH",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Austria GmbH is a 100% owned subsidiary of Alnylam Pharmaceuticals Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals Inc's SEC filings (Exhibit 21.1, Subsidiaries of the Registrant) and on the company's official website, which lists Alnylam Austria GmbH as its Austrian entity.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1172319/000117231922000014/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/austria",
+    "https://www.alnylampolicies.com/",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFndkuix-HXM1XNj0oc9s-b-s9XcdvJfzuUH2RWVc5CNkxc5IDIkIicAH-lB4VCYicJ9Jv6H2JcQ7QgFl9SsrVWRtjDtZWJJBM2pP-8yks-cCj2fpXzIBPnvohiFWKRvHq0pOeuANpZfFSZXbLlkLW-1QKoc5gMCDavuD8V03PHxs22emCrWk_KYxTNzL5tH8MzRTHyRb-WKzz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjbWUWVTsXDZgxF9pwR6FE-eeoMleyz0QPHlK0qigpDOEQ5xXgTWxolpO6u1WxiVA1GjqBZDArD_KRkk0Q88l0qwjefQASU73m0n62pa2bqo9eQ8U29wapjm4ISxWkOf9ObvVAlpZL-SeBt505al-hbrJgTvpSTzdfbVDocaLmOFHr21cYeAQNsVxSCrOoD9csAHofdTo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMDGUVbcHLaMwY1mYt7rreMVeNQoDXr2oJwx2jntg1SR2CSbij_q8zzxVcR303HYiH90-Th5BWgVbwS56CoP91DRe6dSzwctfLpYNBrqvrhb9MH22M-er8p6-eXEXI2ikf4hoGJKkbrrQeEaIY6GjVnlaUVdM2R1zmjuzvxVOTBxrgdMm_tbDmDML-uWo-KJVKi9yob0clc_1M",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2iGuGRugPwk3g65Dwp6SB1M5lWYlgoP04b4wcut_Yt4S1UAeeOJbWdesDZTSlCyC4d4ugOIk8zCYJdiDTX0Nqhz3ur5gHBjRVEn2wpqxWt_ILm7FJkWSl3MrbqQ_g7bl7Vi2Fq26L4g_iG906yuDYlikcWosQypIfNajc775za29s6qeYwWf3k7-nI3g=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzei1HpfnYXKmYMoXZEQI6JsednXQDNIS7b4XVCG8x4FzTQ2ckNq8OoH2rKm1OegoN3b_TTDkgjnQW7XvjpPTDdTzeVFXtGeDJoGpSoeNpRgnTdJ61qO2gprH1arXkRuI9cSSROIBCP5BxTKy2GtiCD6MycBSXXvgG4-hNM6sivxvcy034VngZvDQUapO69Ms="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

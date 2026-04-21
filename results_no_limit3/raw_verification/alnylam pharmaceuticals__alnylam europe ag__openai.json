@@ -1,0 +1,31 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Europe AG",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "SEC filings state that Alnylam Europe AG was acquired by Alnylam Pharmaceuticals, Inc. in July 2003 and is a wholly owned subsidiary of Alnylam Pharmaceuticals, Inc. This supports a parent-subsidiary relationship.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013506000280/b58707b5e424b5.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013509001458/b73445ape10vk.htm",
+    "https://investors.alnylam.com/faq",
+    "https://www.alnylam.com/about-alnylam",
+    "https://www.alnylam.com/alnylam-luxembourg-german",
+    "https://www.alnylam.com/sites/default/files/pdfs/ALNY-Corp-Fact-Sheet.pdf",
+    "https://www.alnylam.com/alnylam-luxembourg-french",
+    "https://www.companyhouse.de/Alnylam-Europe-AG-Kulmbach",
+    "https://www.computer-automation.de/firma/alnylam-europe-ag.htm",
+    "https://investors.alnylam.com/node",
+    "https://www.additive-manufacturing-industry.de/company/alnylam-europe-ag.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312525061427/d899808dars.pdf",
+    "https://investors.alnylam.com/press-release?id=29101",
+    "https://www.alnylam.com/about-alnylam/transparency",
+    "https://www.alnylam.com/sites/default/files/pdfs/2022%20Alnylam%20Corporate%20Responsibility%20Report.pdf",
+    "https://alnylampharmaceuticalsinc.gcs-web.com/static-files/5bf87e4d-c9df-43b5-b072-91fcd577990a",
+    "https://investors.alnylam.com/sites/default/files/pdfs/2024-alnylam-annual-report.pdf"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

@@ -1,0 +1,60 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "discoveries": [
+    {
+      "related_company": "Sirna Therapeutics, Inc.",
+      "relationship_type": "Acquisition",
+      "confidence": 0.95,
+      "event_year": "2014",
+      "source_authority": "high",
+      "recency": "medium",
+      "clarity": "high",
+      "evidence_summary": "Alnylam acquired 100% of Sirna Therapeutics (wholly-owned subsidiary of Merck) for $25M cash plus $150M in Alnylam stock; now listed as 100% owned subsidiary in SEC filings.",
+      "evidence_urls": [
+        "https://www.biospace.com/alnylam-pharmaceuticals-announces-closing-of-previously-announced-acquisition-of-merck-and-co-inc-s-sirna-therapeutics-inc-subsidiary",
+        "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm"
+      ]
+    },
+    {
+      "related_company": "Ribopharma AG",
+      "relationship_type": "Merger",
+      "confidence": 0.9,
+      "event_year": "2003",
+      "source_authority": "high",
+      "recency": "low",
+      "clarity": "high",
+      "evidence_summary": "Alnylam merged with Ribopharma AG in 2003 (also described as acquisition of all voting shares in SEC filings); led to formation of combined entity with additional financing.",
+      "evidence_urls": [
+        "https://www.wsj.com/articles/SB105752103163937200",
+        "https://www.sec.gov/Archives/edgar/data/1178670/000095013504001018/b49404apsv1.htm"
+      ]
+    },
+    {
+      "related_company": "Alnylam Europe AG",
+      "relationship_type": "Subsidiary",
+      "confidence": 0.95,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "100% wholly-owned subsidiary of Alnylam Pharmaceuticals Inc, listed in official SEC Exhibit 21.1 (likely tied to the Ribopharma merger).",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm"
+      ]
+    },
+    {
+      "related_company": "Alnylam Austria GmbH",
+      "relationship_type": "Subsidiary",
+      "confidence": 0.9,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "100% wholly-owned subsidiary listed in Alnylam's current SEC Exhibit 21.1 of subsidiaries of the registrant.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm"
+      ]
+    }
+  ],
+  "provider": "grok"
+}

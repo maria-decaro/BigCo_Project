@@ -1,0 +1,24 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Sirna Therapeutics, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals Inc. acquired Sirna Therapeutics, Inc. from Merck & Co. in a transaction that closed on March 6, 2014. Alnylam purchased all outstanding shares of Sirna Therapeutics for $25 million in cash and $150 million in Alnylam common stock. Sirna Therapeutics was a wholly owned subsidiary of Merck prior to the acquisition and became a subsidiary of Alnylam upon closing.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312514008436/d656515dex991.htm",
+    "https://www.biospace.com/article/releases/alnylam-pharmaceuticals-announces-closing-of-previously-announced-acquisition-of-merck-and-co-inc-s-sirna-therapeutics-inc-subsidiary-/",
+    "https://www.drugdiscoverynews.com/alnylam-acquires-sirna-therapeutics-from-merck-10173",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0RaPSIBSJuuf0JSccmwZxbPOfKJet5Q0Xi2HWOyREvvpgDXjgRMnVz0-vdm-3jK5czyb53vMmMQMk7MzogEOCmuD63ii6MbHLJAWvRPCDqGI2Ziu5hK070ltj4yKVSfKgaqthyKH7KV2UDrfT09RQZotXdr57CIv4_iRsBoY2Jw22xqjEiuvqNYZRla1gz7ODaIzu92Pk-3zY2qtwOwwSadeh_-5rKdAUE2dzQMm5mDw-kuGSBvwT4GHWrYTmgh5l9WbNCrsg8vfj4lZAET_uZQ3yT7oCF7ZdTQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQP3FWVuYBXLnwxLLXjUIV2YPjKUPYf_5cCsG20mouxrQzHPCeL6r3npFQfcQjEGh-JMrPZJ2u2ufZzyXKW-dpEhVcpDU-UQvov08JgvTMplnID5kD-1ZYf9LX4T4JVhW73eP19zT_zAWqsBT8ullJRM2ZZbfgfRdrnJxFTwIsWil31lNSqpSHZJIxoWsySUo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-R8dnBUmx5G4r4dJVsMSwJXH4WqrdFwNMc7fjryuh-U4pAzGjZkDauIJTB3qsbZgnxPYlTeHXTU1jm5OhJz43MAH7hDAjCYQPzlGn7412jRn597mz_laiFG6Wgx8aL0__tiyGGeyVLY-g-tWkQsTTuw-TdxT_v3jV8nGRjdLyo96OR3AbfWEUy0AHuA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGTrRapkg_C3kQgLHzaGqzu99rBaZI2CSdZSIa07M8GXF1jiPOCMz0I9bu0faJCaMm3-zFd8aXt0kRw_vhSAvtcmTXkhml25OAwyR0CThyp-VJTwciVr9o8ob5ZqW-sLAxpJKL-6MsJdrc2k8Bfuocx8jUzL2a0x0XHAMxowFuAurW-A67QhFTuzVibKvTrj0Gc3wXjGtW7r7qj-I1",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcHwQNCsTBVdrfIZqA5dlzcB6G7sY0IAIW3SAjddAQns7z9nlmBVoIdIFDABEPj_Qoyb-FV1-oWWvRgOkpjaPR9uUNInUfA9IrN0TCMeSOTTOpAS2_RNOzeOXGmGTPmlLgOBFjV57nRdcIlWg8f6Ec",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHplI1RciFUlIKyiz-UPbHaWz8QWPjLBDwEVZCUhTUlVNLEY96iszcXGdN5eZQCiQ96u1ggEJM4z0FACKK3p2YU5QSdoJ-8UL6DXIhZqZxvjkjYFty06gOS__v16xbUdngiK9w-L_B-YRYhez95wG8huq8w59uQCz-m3L8IIrDFHakBLbccz6FEqYSFM_joow==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEvQDiyIQz7IyFHAOiY9UZdOu7hRhTan5KHNCxMAChSGnJnnN7nIIbXam_oqhTE1n0ShyMMsd3KNVw3ZtDoEUVhr_K-dqqd5tteG-WCkKbXY9e3njqjEop4zl1v6pX7lYr_LLk"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

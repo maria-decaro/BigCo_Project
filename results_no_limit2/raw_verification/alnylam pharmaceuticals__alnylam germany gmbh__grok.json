@@ -1,0 +1,16 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Germany GmbH",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Listed as 100% owned subsidiary in Alnylam Pharmaceuticals Inc.'s Exhibit 21.1 to its 2024 Form 10-K SEC filing and multiple prior filings.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm",
+    "https://fintel.io/doc/sec-alnylam-pharmaceuticals-inc-1178670-ex211-2022-february-10-19033-2648"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

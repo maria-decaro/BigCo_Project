@@ -1,0 +1,17 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Ribopharma AG",
+  "relationship_type": "Merger",
+  "confidence": 0.8,
+  "source_authority": "high",
+  "recency": "low",
+  "clarity": "high",
+  "evidence_summary": "Multiple contemporary sources including WSJ and company announcements confirm an all-share merger in July 2003 between Alnylam and Ribopharma AG.",
+  "evidence_urls": [
+    "https://www.wsj.com/articles/SB105752103163937200",
+    "https://en.wikipedia.org/wiki/Alnylam_Pharmaceuticals",
+    "https://www.thepharmaletter.com/ribopharma-in-all-share-merger-with-alnylam"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

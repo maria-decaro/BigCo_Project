@@ -1,0 +1,30 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam (Bermuda) Ltd.",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals, Inc.'s recent SEC Exhibit 21.1 lists 'Alnylam (Bermuda) Ltd.' under 'Subsidiaries of the Registrant' with 100% ownership, indicating it is a wholly owned subsidiary of Alnylam Pharmaceuticals, Inc.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny-20241231.htm",
+    "https://alnylampharmaceuticalsinc.gcs-web.com/static-files/66c22862-4f85-45e3-84d9-4c58d38057af",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000050/alny2025q1earningsrelease.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000038/pressreleaseforcmapproval.htm",
+    "https://www.sec.gov/Archives/edgar/data/0001178670/000162828026007491/alny2025q4earningsrelease.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312525061427/d899808dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312523089638/d418223dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000020/alny2024q4earningsrelease.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867023000005/alny2022q4exhibit1046.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000035/alny-20250314.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867024000052/alny2024q3earningsrelease.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013506001651/b58496ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867024000039/alny2024q2earningsrelease.htm",
+    "https://stocklight.com/stocks/us/nasdaq-alny/alnylam-pharmaceuticals/annual-reports/nasdaq-alny-2015-10K-15615607.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013505005349/b56756ape8vk.htm"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

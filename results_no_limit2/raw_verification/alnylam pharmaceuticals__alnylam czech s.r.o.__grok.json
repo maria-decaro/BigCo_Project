@@ -1,0 +1,16 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Czech s.r.o.",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Czech s.r.o. is explicitly listed as a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc. in official SEC EX-21.1 filings on subsidiaries.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm",
+    "https://fintel.io/doc/sec-alnylam-pharmaceuticals-inc-1178670-ex211-2022-february-10-19033-2648"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

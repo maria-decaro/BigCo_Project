@@ -1,0 +1,25 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam France SAS",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam France SAS is a 100% owned subsidiary of Alnylam Pharmaceuticals Inc, as explicitly listed in the parent company's SEC Form 10-K filings (Exhibit 21.1) and confirmed on the official Alnylam corporate website and French regional site.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1172340/000117234022000031/alny2021q4exhibit211.htm",
+    "https://www.alnylam.fr/",
+    "https://www.alnylam.com/contact-us",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaS6epNK7nIqTzO_AAHhrfJ0yK_H-yIX6NgX0ZbOspe1NIN9QaeP0aFWy24KHC9dkO969zRlRo4ZW2ZLuX9cpYeZSCY1W5abYTe43rYy86ipjd1DzvfHjfLmGOWMcrkgE0bE9RgtfqySfqhxBw_CGuAK5YqGCG4PTaAB6lDMSG1Cl54fxDCPs3HeA9TlNXpCyJTVAstKKJTje_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd98aJN7PSS7lapaewoynW2Rz4M4Pw34W__lsLZDOwXvUgySCwXlTnbTEY-HLZpMEPIW6ZhSkKM03Jg0B4WFtoYdzewaCB_wYZz-bvByBaPDHO7mQcxmNQIzD2byPg7lc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbrHllmLthamdj5CpaIULoOArc3TqDZWDgAFC4EEFn2vHxBO4q74e236vlbT7b09gPoIKuS0kSXuqblCmZUQ24dNuNTyTH-Y9w3vhOUWbsOrCkrvkZuu8WVQvngButOiy2GPNs27Cvxfg28z2nUM9F0UieSOtUJfMDmYMtjC0nOQ1q7u4KnCjSjv03AgS0j8BMtZ99Aro=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ZHWbG9gKXYey7ZW4fdwhug584wxWevmWY9AwiUVIFokeFyuRacgUHJ8ZmN76OdMIJ1QuhGv4M16BP6fQYzxKuqCLTgwza5VWlX1iRctgjTbtbyAXKDmvtkGyXKKC8UmDa57FogeN7qcrFjEJbt7Z",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE22UqR_ZWLhcte_kMgQY0ZnsRxvr6eUxhpvoblfsc317i4fsERkCqgq2242CnAWr2lYdKHqilMRTZsdChK-cdrdvRwiAU8iVxuWDfVi7r8pek5_10Jt-F0qeew9XGRPjoKyakEZwqlIfJ9Po8AzrsFqnmEdm1R7CTW7IWLb3FJMZzeE0FgGdjfChG5YaRPv3nM88qFtv5Hkq2l",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH46O8DtKKwqErVK7c3S3xt4Bb2mTXX06TUvViClhhvVRzJPW9paG9uc9n41fLw_K_PWdb2tlYYsnnetkkig4BUPS9tGT_nAXalT7-kFrudAE_xtFDJIpKmTFMoHf9BGtvwaU3UplWY3nX5xnMWHdduXXm0FC8NRnA95tnI3p2wzphRMisXguYRJpupkSawfvEQBseY_FA7X2o",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3485J6W-GMnjNWN7A0NguQWG8Dm4SY_y7u_xP2YWpsPmcjGht23rNKfi2IV6vntDDdOFbag_0XcNEfNlmpCXUEB_scDXX5EWJspXC6ecj-UQBfD4FqNTyAob1ZLzc",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvOF3_NBc1jUQaCswnAwrzRUwTWIR3Ub6A-T8dIgnK4NRAUnqNF_j2GygdEB2dZ3Oy15DCca395S5vLsi0SVlGT-6D2KVRivr5-w6kkQMOrGzp7vUMEfGVAcByGZiHWXY3dT5AGTUA5HpcurJZFpBr2tEROCE9GFiwlt8ugPKJbF0Ux0eEyyLIFThxASw="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

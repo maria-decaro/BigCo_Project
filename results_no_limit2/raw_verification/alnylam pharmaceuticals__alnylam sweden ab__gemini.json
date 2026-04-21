@@ -1,0 +1,20 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Sweden AB",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Sweden AB is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals' SEC filings (Exhibit 21.1, 'Subsidiaries of the Registrant') and confirmed on the company's official website, which lists the Stockholm office as a satellite location and Alnylam Sweden AB as its Swedish entity.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000014/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/contact-us",
+    "https://www.alnylam.se/",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfk7nrHdhqDQShU3DkbMKQ-meFS8-e3q9nbwYn98rpSbnsM5Enuc5h05TmZ7LFVgsBnRQps0cNTHWG4L3440JolbKOK4SaeKQwXfFWqTBjx_BYm_id4bOEc5oLjqgQwZ1YyXXgiiqAte7RrcVUCYHYF8Wq_YzEBOY2kJwEVCN8hUt51dwLMol-vjvHOTZRQfwgoM78Nn0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhEl2y1HR2xxAMSZujbnlvC2AWyX6TagIIndjxNLnbpJLoeaoBzD1EooEtrSFhiFu9HZtkKjrnue-HaaNRhaQHDLmqksczp7zn7T2yfc2bu3qKVWZ9stC7_UDFOHHkOT0TaqchV99JfuW2aKAVZcskAeR4S0nd_hQFCvemOTPnGdJseCAjNPMQxARWvOd9dIARpSWcxm_ou_Ru",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlntAJPjgGXEa2vMKLtoHiKwVihFuvlBZ3Rlyf4SrmnD2gzW5E-4lOr07pTCzxKUa-x5VPomeslaA584c6a4spI9LPOrlXqFJlP81T-hioxEsE6QyWdmW5Zi7A3N7Ss2tkBjOywMpY-IO-LnueOnLrrhA8LNBc6qL6IkZsCbpcYv5uKLj1w5BgHPydNH8="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

@@ -1,0 +1,292 @@
+{
+  "id": "resp_0cd14748bc0156990069e7f7f73aec819b948bb6ce2a044adc",
+  "object": "response",
+  "created_at": 1776809975,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1776809984,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-2026-03-05",
+  "moderation": null,
+  "output": [
+    {
+      "id": "ws_0cd14748bc0156990069e7f7f79c78819b99eb8078f97901b4",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "Alnylam Pharmaceuticals Inc Alnylam UK Limited official annual report subsidiary",
+          "site:alnylam.com \"Alnylam UK Limited\"",
+          "site:sec.gov Alnylam Pharmaceuticals annual report subsidiaries Alnylam UK Limited"
+        ],
+        "query": "Alnylam Pharmaceuticals Inc Alnylam UK Limited official annual report subsidiary",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://alnylampharmaceuticalsinc.gcs-web.com/news-releases/news-release-details/alnylam-issues-2024-corporate-responsibility-report"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Alnylam_Pharmaceuticals"
+          },
+          {
+            "type": "url",
+            "url": "https://investors.alnylam.com/sites/default/files/pdfs/2023-alnylam-annual-report.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.alnylam.com/alnylam-uk"
+          },
+          {
+            "type": "url",
+            "url": "https://alnylampharmaceuticalsinc.gcs-web.com/static-files/815e66f0-a12f-4c86-8065-8ac5adb0c0e0"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny-20241231.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://de.wikipedia.org/wiki/Alnylam_Pharmaceuticals"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1178670/000119312524083479/d787426dars.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://uk.advfn.com/stock-market/NASDAQ/ALNY/financials/income-statement"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1178670/000119312514060913/d653396d10k.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://alnylam.com/sites/default/files/pdfs/alnylam-cr-report-2023.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://csimarket.com/stocks/segments.php?code=ALNY"
+          },
+          {
+            "type": "url",
+            "url": "https://www.fidelity.co.uk/factsheet-data/factsheet/US02043Q1076-alnylam-pharmaceuticals-inc/financials"
+          },
+          {
+            "type": "url",
+            "url": "https://uk.advfn.com/stock-market/NASDAQ/ALNY/financials"
+          },
+          {
+            "type": "url",
+            "url": "https://investors.alnylam.com/node"
+          },
+          {
+            "type": "url",
+            "url": "https://www.alnylam.com/about-alnylam/transparency-uk"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867023000005/alny-20221231.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/edgar_news/comments/1nffl1f"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/edgar_news/comments/1ndbog5"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/SECFilingsAI/comments/1me1kz0"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/edgar_news/comments/1pjwe7j/alnylam_pharmaceuticals_inc/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/SECWatch/comments/1r2tip7/alnylam_alny_achieves_profitability_with_81_yoy/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/edgar_news/comments/1nxae35"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/SECFilingsAI/comments/1ojypc8"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/edgar_news/comments/1rkzwrx/alnylam_pharmaceuticals_inc/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/edgar_news/comments/1pdirq7/alnylam_pharmaceuticals_inc/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/edgar_news/comments/1lesnpq"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/stocknear/comments/1o2ys35"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/stocknear/comments/1nl54h6"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ws_0cd14748bc0156990069e7f7f96a00819b93ffc500665cf047",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "open_page",
+        "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm"
+      }
+    },
+    {
+      "id": "ws_0cd14748bc0156990069e7f7fb2d38819ba6ff1dfc85c192b0",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "site:find-and-update.company-information.service.gov.uk \"Alnylam UK Limited\""
+        ],
+        "query": "site:find-and-update.company-information.service.gov.uk \"Alnylam UK Limited\"",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://find-and-update.company-information.service.gov.uk/company/08871372"
+          },
+          {
+            "type": "url",
+            "url": "https://find-and-update.company-information.service.gov.uk/company/08871372/persons-with-significant-control"
+          },
+          {
+            "type": "url",
+            "url": "https://find-and-update.company-information.service.gov.uk/officers/zh350F582BMHHKX6ftc5mLYMn7s/appointments"
+          },
+          {
+            "type": "url",
+            "url": "https://find-and-update.company-information.service.gov.uk/officers/RIV2dNWCzCiXNUN_5DCINJSQJJM/appointments"
+          },
+          {
+            "type": "url",
+            "url": "https://find-and-update.company-information.service.gov.uk/officers/bvVgvXFm7CRvAPgq17zCkidcFeA/appointments"
+          },
+          {
+            "type": "url",
+            "url": "https://find-and-update.company-information.service.gov.uk/officers/QDY66PyvsHlN110O-I-9skDHMaA/appointments"
+          },
+          {
+            "type": "url",
+            "url": "https://find-and-update.company-information.service.gov.uk/company/08871372/officers"
+          },
+          {
+            "type": "url",
+            "url": "https://find-and-update.company-information.service.gov.uk/officers/aUZoa2scQsVO38flfS1V81LMFWE/appointments?page=36"
+          },
+          {
+            "type": "url",
+            "url": "https://find-and-update.company-information.service.gov.uk/officers/iid4O89l8MjjJOAdrtROY9bOWTQ/appointments?page=27"
+          },
+          {
+            "type": "url",
+            "url": "https://find-and-update.company-information.service.gov.uk/company/08871372/filing-history"
+          },
+          {
+            "type": "url",
+            "url": "https://find-and-update.company-information.service.gov.uk/officers/21cCHGW-kft44uZhbRbIvsmv6mo/appointments?page=10"
+          },
+          {
+            "type": "url",
+            "url": "https://find-and-update.company-information.service.gov.uk/company/08871372/more"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_0cd14748bc0156990069e7f7fc52f0819b869dce7593b09052",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\n  \"seed_company\": \"Alnylam Pharmaceuticals Inc\",\n  \"related_company\": \"Alnylam UK Limited\",\n  \"relationship_type\": \"Subsidiary\",\n  \"confidence\": 0.98,\n  \"source_authority\": \"high\",\n  \"recency\": \"high\",\n  \"clarity\": \"high\",\n  \"evidence_summary\": \"Current SEC Exhibit 21.1 for Alnylam Pharmaceuticals, Inc. lists Alnylam UK Ltd. as a 100%-owned subsidiary in the United Kingdom. UK Companies House also lists Alnylam Pharmaceuticals Inc as the active person with significant control over Alnylam UK Limited, with 75% or more ownership, voting rights, and director appointment rights.\",\n  \"evidence_urls\": [\n    \"https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm\",\n    \"https://find-and-update.company-information.service.gov.uk/company/08871372/persons-with-significant-control\",\n    \"https://find-and-update.company-information.service.gov.uk/company/08871372\"\n  ],\n  \"needs_review\": false\n}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "in_memory",
+  "reasoning": {
+    "effort": "none",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 0.1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [
+    {
+      "type": "web_search",
+      "search_context_size": "medium",
+      "user_location": {
+        "type": "approximate",
+        "city": null,
+        "country": "US",
+        "region": null,
+        "timezone": null
+      }
+    }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 16921,
+    "input_tokens_details": {
+      "cached_tokens": 4352
+    },
+    "output_tokens": 403,
+    "output_tokens_details": {
+      "reasoning_tokens": 155
+    },
+    "total_tokens": 17324
+  },
+  "user": null,
+  "metadata": {}
+}

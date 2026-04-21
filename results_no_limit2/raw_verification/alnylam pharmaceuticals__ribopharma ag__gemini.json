@@ -1,0 +1,22 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Ribopharma AG",
+  "relationship_type": "Merger",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "In July 2003, Alnylam Pharmaceuticals Inc. and Ribopharma AG merged to create a leading RNA interference (RNAi) therapeutics company. The transaction was structured as a merger of equals where shareholders exchanged their holdings for stakes in a new entity called Alnylam Holding Co. (now Alnylam Pharmaceuticals, Inc.). SEC filings confirm that Ribopharma AG became a wholly owned subsidiary of the combined Alnylam entity following the merger, which was accounted for as an asset purchase.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1228679/000104746904005611/a2129444zs-1.htm",
+    "https://www.bioworld.com/articles/384594-rnai-companies-ribopharma-alnylam-merge-raise-246m",
+    "https://en.wikipedia.org/wiki/Alnylam_Pharmaceuticals",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq55FXjbi7qcuLEMgaRvUke4drXikDRbln-FzE2gB3vZkTdLZynFVxZkWuB7-vCxIaSb-Cpl5niCbxIHkNNeGhRgOfg7cA0hXLfTZb21Yaf9Sx8sf5NRvuhaawO-9pJ59q-UA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcuIUhlj-SHf9zSvm_dAk9UEmlSChjTVqetfRR8WrRgNFMWe_t3_eWPJNfEuXaM4UNoj61azm4DrU4LijDQSNce9uI-GyVEhLXyxLLPgZWcgnyZUX_yo3tKkqYb5lv3yW-E2M0Rc0MiK2qZXYKAwxGYZpX7ucreioW4Sz8Fu9MosoaTTd24ygqmi8vgjQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3W6Ov6NyMx18Ic3zN3nAHf4wmBx82x2QtRR91sZrZQ7H_-Ov0qpRsLxrjubTUqhQaUwPGsqyfu1HSRPQGWULSlH1fa_C5ceI-75xnnMoHhsLFwJ2mo5LEKELMghQXX1kAiDS-DNmusFf5OjM-TdmUZnWtA1kHAaNg0owrFDvoPYygbTVFMy9notPckhm56nz-BSHUpoi_6JbY8gvZKQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyWu9B1QqXKji9dhwZMm-hY4EdhlMSPiKJwM1PdVrbxX3GTf48sET7Lyjr2UhEHeEsbVLWMzIwHkflOb9BZf1aS1h_jSLW2-SWD9f0R6F5oLemoYfsqv1HCyKz3D6ecjCvVQfj1wjGBWOrmmqi55EPC-5ThMNlVuM3kT5DSI88",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED6Q112BMxrBCFvAeKRJLnEZyuI8uSHfdd80OaWKt3LwIW4hIuk5G-xwz6cWu0wuxOc7BKDVjxCxjCP0s-AW2kYjVHSkEQrM7uuqwbNOs52y337uQi4VJj7a4txy2OdRgs_MW6gw=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

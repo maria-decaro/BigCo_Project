@@ -1,0 +1,31 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Sweden AB",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals, Inc.'s Form 10-K filed with the SEC lists 'Alnylam Sweden AB' in Exhibit 21.1 as a 100%-owned subsidiary organized in Sweden. Alnylam's official country website also identifies the Swedish entity as 'Alnylam Sweden AB,' consistent with it being part of the Alnylam corporate group.",
+  "evidence_urls": [
+    "https://alnylampharmaceuticalsinc.gcs-web.com/static-files/5bf87e4d-c9df-43b5-b072-91fcd577990a",
+    "https://www.alnylam.com/alnylam-sverige",
+    "https://www.alnylam.com/alnylam-denmark",
+    "https://alnylampolicies.com/",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000115752320001145/a52262204_ex991.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312525061427/d899808dars.pdf",
+    "https://eu.lekovi.org/sv/h/b4626473/givlaari-v1.php",
+    "https://crowdcomms-prod-media.s3.amazonaws.com/media/documents/a075f9602e324b34a84d07a343c960c7.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312521005849/d105171dex991.htm",
+    "https://www.sec.gov/Archives/edgar/data/0001178670/000162828026007491/alny2025q4earningsrelease.htm",
+    "https://swedenahp.com/",
+    "https://www.hitta.se/alnylam%2Bsweden%2Bab/stockholm/cmuydfmqr",
+    "https://files.mkon.nu/fmfiles/file/2501_Hallskiss_Varmotet_2025.pdf",
+    "https://www.ratsit.se/5590866686-Alnylam_Sweden_AB",
+    "https://industrymap.ssci.se/",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312523089638/d418223dars.pdf",
+    "https://www.creditsafe.com/business-index/en-gb/company/alnylam-sweden-ab-dk04277675"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

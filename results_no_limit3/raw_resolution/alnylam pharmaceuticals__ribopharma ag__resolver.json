@@ -1,0 +1,37 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Ribopharma AG",
+  "relationship_type": "Acquisition",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "medium",
+  "evidence_summary": "Official SEC filings from Alnylam repeatedly describe the July 31, 2003 transaction as an acquisition: Alnylam 'acquired all the outstanding voting shares of Ribopharma AG,' later referring to Ribopharma/Alnylam Europe AG as a wholly owned subsidiary. Some secondary sources call the deal a merger, but the strongest primary-source characterization is acquisition.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013504001018/b49404apsv1.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013505001747/b53309ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013506001651/b58496ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312513065475/d440212d10k.htm"
+  ],
+  "needs_review": false,
+  "_provider_citations": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013505001747/b53309ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013504001018/b49404apsv1.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013506001651/b58496ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312513065475/d440212d10k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013506000280/b58707b5e424b5.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013504002514/b49404a3sv1za.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095012310018222/b78674e10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013505003341/b55263ape8vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867023000005/alny2022q4exhibit1046.htm",
+    "https://www.sec.gov/Archives/edgar/data/356830/000119312503083251/d425.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312524083479/d787426dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013509001458/b73445ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/vprr/1100/11005964.pdf",
+    "https://www.sec.gov/Archives/edgar/data/874015/000110465911061713/a11-25667_110q.htm",
+    "https://www.sec.gov/Archives/edgar/vprr/0903/09037390.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1706431/000114036124020688/edge20022607x3_ars.pdf"
+  ],
+  "provider": "openai_resolver",
+  "safety_score": 1.0
+}

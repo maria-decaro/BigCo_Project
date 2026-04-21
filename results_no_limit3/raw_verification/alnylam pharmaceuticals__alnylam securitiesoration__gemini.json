@@ -1,0 +1,23 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Securities Corporation",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Securities Corporation is a 100% wholly-owned subsidiary of Alnylam Pharmaceuticals Inc. It was formed in Massachusetts on December 19, 2006, and is consistently listed as a subsidiary in Alnylam Pharmaceuticals Inc's SEC filings (Exhibit 21.1) from 2007 through 2022.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1228679/000122867922000011/alny2021q4exhibit211.htm",
+    "https://www.sec.gov/Archives/edgar/data/1228679/000119312508031951/dex211.htm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhGwil9U36EPexOOzl8SPs9aprD100IeZkEZGXhHkv3OH6FBpD1UgibsnY75-VuWuMTgtel0g0Qphf_fxsYnV0-NsEx_fo7RZxfG8hx7HJyikccbqonvrzl-tJsyW3Wq8xVXK_jnw5J31RTaW_7Yd6OpjtntgrBxnURY685FJry0fS6eTL-CbUTLEeRrNXV6Ihg8EJKkCREQF-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq5CmC7qApoYIEPr1294PE5Nq0Bktcdav9aNjQQWsfqkCaOiUFbSE5ipD4saVkcfMK5tSlNj-oZBPlYtgyZDIRAP0gJrq3VFtHBE6NXFIDEqjcM-qqWLYfxc-u5HNaDsgqyPrva8PNfPhlmysmJOpZGR1LmEP4v_opBIrLw_t59eCKTpSn4PaMXSjttW3dFTq8aoS90Sk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHszAXnpMEKouxNP3HUEn2UXWUIvxQpkFYg8z2UyPL6z5vBHhxcRaS_yTt3zoa50ZcuYTWa_bB7UNKg8fVQe3ya6J5oc-zFdIBMNtluk5dIeEuysYcaLttOM6cIWso56Z8Gg3dOdD7bxjN9TUiS5E-J4I4rNPRrM_czCDkf2k2acPa956NK3v3wGj5vgKb3WU9y8Dc9hnyvM4j_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9KU7VL_OCF0cHzaUGpmIJ6yR-BZL4Rny_fQUVEs_MDt_3YaSK8d7tB5LpxNtCWYnCrB_-DvB80W1ST3mOdXOu068NA-6kHM36rxK7g8O42ZYwFEg1OU03zHD3kl60_r13jiwf4wer2sr_bPrQUAWN7_65NjwnVvhizdGf5SQrQRmKxMUVS3tvAIC8mdFs8SMW-XjtozJmemqo",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa3XtqtYg9pOgTP4TX3fWlFyqIziNdYHPXE-xylqC6INwZcSfzm-NZnxezNO6d8TGrBno2dioS-X65qOfNpAHj6K5carwN6EFJrApn0hdEqg7X5Xq4U2q927lVe8vvm4Z2WwB7WjiSGIiLyySRQcXGyzU_JcKJyUTTqN0NWJAUyFsyVy3YGSHeJP6AdSE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx3Bkuf98AZgyrKLvBTCPbuKAu7X8cQV5Z8w0ag9Le8i_9VUpfRck5rugILZ8q6I9bi02ob3MT6d2ww7WE4P6mG2UTLlkNdMGMHzAcZO2uKU6dFb6ubdQt_MNoWGTMeKzEk7FyfZGUOemJQjmVw8hStO9RznNWxhHB2muYqCyofAMzYDBVenac448WqS4dUSA1xz_Jmpc0g1nx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJhKwBwmKxrpU3d80tpbC4PLrJkWSLXMCu9MSE4U3FXzRJKrVj-TzZqayyDsB57nezMUt76CDaDyYU2ZRyW3GB-pRMRHc7BpesTI-91FWZBtM3xWD18rfFTZquSdk-vSROxWiqKgQH2h_8qPWGdR8zUOsIvshPjISuQ18PTJa6G3Tx"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

@@ -1,0 +1,20 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "ALNYPT Unipessoal LDA",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "ALNYPT Unipessoal LDA is a 100% owned subsidiary of Alnylam Pharmaceuticals Inc, as explicitly listed in the company's SEC Form 10-K filings (Exhibit 21.1). It serves as the Portuguese entity for the parent company, with its registered address in Lisbon and its official website redirecting to Alnylam's global site.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1172340/000117234022000024/alny-ex211_545.htm",
+    "https://www.alnylam.com/alnylam-portugal",
+    "https://www.alnylampolicies.com/contact-us",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOnbLd8mnMyuHYDHMHlkw0ugcqHZeVLqYfOGzodIWrKczOwcKk1TbirTGL3ecP9eu80-c1QE2CA-MeNZNC8H-gqTYRh-XNWMdQ-xOwurSCT9AExJn_1rduiKocCvZLI4JpNk3DpcDM7TA25ckIAjVwK0LO_pRzWG-7tXUttAdkGiTJC-mOxaQtT1IIHDdsjCtnlV5iDL1oJPU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv5lz6C_2_P0tvEXCAYzeWgxrztBfmXvlOeq_3iutR0PmFsg_B51ozbHbFuj-y2GmA9byj5fwTFyBdVri4_UZGM-WNeM-ZlOmExyCa4R55GBy3RrFwucQH-All4xgK_Np4KFC9r9A5edsF37YYaqM-RkiU_JtpVU08WehsCjo0ef8SQWQSe0aZ-NlHmP8xScizPbtoW6R6FKI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPDZ46wXjNInx2VoEs2T9DLljprzX4Ei9O30Yb8El__0PUSmMpsqWN3PEfGzaPstlNaPTv0herKjBx1tcsxggvxC9VBOH4WjlhusDIg-d65FLcDqBqWUN4RVdvSz8="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

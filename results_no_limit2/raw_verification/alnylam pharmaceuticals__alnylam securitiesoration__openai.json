@@ -1,0 +1,31 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Securities Corporation",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Current and historical SEC filings for Alnylam Pharmaceuticals state that Alnylam Securities Corporation is a wholly owned subsidiary of Alnylam Pharmaceuticals, Inc. Recent subsidiary lists also show Alnylam Securities Corporation at 100% ownership.",
+  "evidence_urls": [
+    "https://media.corporate-ir.net/media_files/nsd/alny/B68134-8_Alnylam.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000156459018002152/alny-ex211_51.htm",
+    "https://alnylampharmaceuticalsinc.gcs-web.com/static-files/66c22862-4f85-45e3-84d9-4c58d38057af",
+    "https://www.vaneck.com/us/en/investments/biotech-etf-bbh/",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312515050223/d835246d10k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013507001526/b63620ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312514060913/d653396d10k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013508005476/b71141ape10vq.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095012309057719/b77436e10vq.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013507003049/b65117ape10vq.htm",
+    "https://www.streetinsider.com/SEC%2BFilings/Form%2B%2B10-K%2B%2B%2B%2B%2B%2B%2BAGIOS%2BPHARMACEUTICALS%2C%2B%2B%2B%2BFor%3A%2BDec%2B31/25988844.html",
+    "https://www.mass.gov/files/documents/2016/08/re/2006-corp-book.pdf",
+    "https://fintel.io/doc/sec-alnylam-pharmaceuticals-inc-ex211-2021-february-11-18669-906",
+    "https://annualreport.stocklight.com/nasdaq/alny/14630577.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013508003576/b69693ape10vq.htm",
+    "https://www.mass.gov/files/documents/2016/08/qd/2008-corp-book.pdf",
+    "https://fintel.io/doc/sec-alnylam-pharmaceuticals-inc-1178670-ex211-2022-february-10-19033-2648"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

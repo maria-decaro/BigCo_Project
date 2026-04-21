@@ -1,0 +1,16 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Nucleonics, Inc.",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.8,
+  "source_authority": "high",
+  "recency": "low",
+  "clarity": "high",
+  "evidence_summary": "Alnylam acquired IP/patent assets from Nucleonics in Dec 2008, not the company itself; does not match acquisition/merger/subsidiary definitions",
+  "evidence_urls": [
+    "https://www.biospace.com/alnylam-pharmaceuticals-strengthens-intellectual-property-estate-through-acquisition-of-nucleonics-inc-patent-assets",
+    "https://www.technologynetworks.com/genomics/news/alnylam-announces-acquisition-of-nucleonics-patent-assets-186082"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

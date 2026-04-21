@@ -1,0 +1,36 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Sirna Therapeutics, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.98,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Official SEC filings show Alnylam entered into a Stock Purchase Agreement for Sirna Therapeutics, Inc. in January 2014 and later described Sirna as having been acquired from Merck in early 2014. While Sirna may have become a subsidiary after closing, the clearest primary relationship between the two companies is that Alnylam acquired Sirna.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312514060913/d653396d10k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312515050223/d835246d10k.htm"
+  ],
+  "needs_review": false,
+  "_provider_citations": [
+    "https://www.sec.gov/Archives/edgar/data/0001178670/000119312514008903/d659671d8k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312514060913/d653396d10k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000115752314003397/a50920931-ex991.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867020000004/alny-20191231.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000156459017001649/alny-10k_20161231.htm",
+    "https://www.sec.gov/Archives/edgar/data/0001178670/000119312514167597/d654362ddef14a.htm",
+    "https://www.sec.gov/Archives/edgar/data/879407/000119312510286618/d10k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312515050223/d835246d10k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1447028/000119312513129590/d508557dex426.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312515371063/d98735d10q.htm",
+    "https://www.sec.gov/Archives/edgar/data/1808898/000119312521276758/d182332d10k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1447028/000117184314005345/gff10q_110614.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312525061427/d899808dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/78003/000007800323000049/pfe_arsfl.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312524083479/d787426dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/0000879407/000087940726000029/arwrarsproxy2026fy2025jan2.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1714899/000171489925000089/fy2024denaliannualreport.pdf"
+  ],
+  "provider": "openai_resolver",
+  "safety_score": 1.0
+}

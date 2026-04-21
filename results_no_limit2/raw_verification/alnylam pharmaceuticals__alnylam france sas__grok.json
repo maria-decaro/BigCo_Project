@@ -1,0 +1,16 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam France SAS",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam France SAS is listed as a 100% owned subsidiary in Alnylam Pharmaceuticals Inc. SEC filings (Exhibit 21.1) and operates as the official French entity.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000156459019003022/alny-ex211_545.htm",
+    "https://www.alnylam.fr/"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

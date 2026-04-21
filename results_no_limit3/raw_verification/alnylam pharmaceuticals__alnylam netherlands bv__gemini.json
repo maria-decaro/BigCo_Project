@@ -1,0 +1,22 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Netherlands BV",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Netherlands BV is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc. This is explicitly confirmed in the company's SEC filings (Exhibit 21.1, 'Subsidiaries of the Registrant'), which list Alnylam Netherlands BV as a subsidiary organized in the Netherlands with 100% ownership. The company established its Amsterdam office in 2017 to serve as its international hub for finance, supply chain, and commercial operations in the EMEA region.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1172319/000117231922000014/alny2021q4exhibit211.htm",
+    "https://investinholland.com/success-stories/alnylam/",
+    "https://www.alnylam.com/contact-us",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi_GEB8tTzScB6oGQb5rcMVyZoZ1NZXrSjxoegfqBJt-2SxXtdxGWMyehqr9FB1oQzV5KZAXi73_aKm_l6XK-pQ39-HDqJFJmwLuahrFtP4AZIfIjkOoLg85v5QQk6GonVdh2R4F9lKsKze5XWGOgyMhPxoZHiXoPnrGuE724BfpCYDm_FSHe5SiTwO9wjaIvaMWrFDg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJptTRx1jnqxyR1-ix0s2o6ZnhbKW_584btesAAfUDBoV0TkLsoGOeTq5ztcL_xEWDbXcf1dkpNhykVSBY0WywosQtP0LzIFI6OFe8gb5fuWNMjzS3v4alRqWhAKj0ug5d49KxUWmKd4H0Six0c1aqY1x9qinVNpnQ4jQCIdQZ1If77fP-x8w9rBMV8xuegMcQlrQJsUVRn4I=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNBKyI8SimM4k3RfLqMFTyILg57Nmfol3evimPWCzdMi0rYTuCZb83esM1IKW_lNzWioj-D5lmE2aiF5BcoqxcBAq7iRIS69TdQZwRI67JmemDeiIQrC8lFLONzOW4gG66Q80SDGy0OpC1QZ_IM0W-MIjWlOt7JhvY-iqto_zP7clk1X93bHF2nOnBnw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgfN9_ojzjKJntvE2qpr3h1hGF-YszzfBNRPMGKvFov5k5yQll2AqBrvlSNXeFwzn47wFZT6J-DuPkdyz6IJFWdLUEzd6ounpcVcj3e3voZxBFIsgnl6A5YDaCzHJQDEnFD3G5Z8mw4Oei2FGqrw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXjl4n4OOLpiCUaS7qqft1FbvrF4XNEjT9s_bb90S9yUPf8aRPcq-wxQ51wv3GLdlkQaiVU-kUCG1LGcM7EQbea9PcYL6T-z3CvGYzJeWdPUv3d3SeSPPmgB93MHEAELWZMSsz2iLG0iAFQZI_LKfh8iVuJrxN5lXeY7wdo6gWGkX-iM6IOlaIPOjyaYbEgQ4GhtPT5ynf7E43I-JhCA=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

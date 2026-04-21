@@ -1,0 +1,21 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Sweden AB",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Sweden AB is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals' SEC filings (Exhibit 21.1, Subsidiaries of the Registrant) and confirmed on the company's official website, which lists the Stockholm office as a satellite location and Alnylam Sweden AB as the local entity for operations in Sweden.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000007/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/investors/financial-information/sec-filings",
+    "https://www.alnylam.com/contact-us",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk5Cc_vF6wBBlJc-SaOiaCuxfrfQbu-tTh0NI_wrz42y-65e8L2LiFD3B2-W0GoFUjC-cZOH1JFr548-YuhOFs_sMNOAIPN6I3pjmQZ16hXVKVUPKEB9BbWehgFSj0SGrDi2ZF7iBpQjLGVOJgUo56ajh3B1FxRWyvKN7InQD4xtuvXQGq8J4XWBIj-i0JPMmWkrBs0g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKinmJo7aD4lwUxru5vJQzrB4mq-_hCqKy0dXnAcmiIQBZ4H-yVHbX6fyaw7bR-LWsgehEn2QxfoX6-toJ9MDyZ2BQ-wZx1htg-pAWXYf2vP-k55cy19Smh9E_rESwhlpbid5F6tfRECfgWmlKhQ6bNM8uVIgPcfpLreg6-2BSdX8Dv5zhkKe3IA2c2vkeuGNefybhe0inI_8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTqDFLha7mw2sUiphfEZMHwinpsXB6bV0Bm1pSK0VferKhu60m3VUTw3uDhV9e0EcgREq5UJLP-H7zyTPdwJUOa1_QnovXJ3GbpOCepIObYGeUhydD4nTugfpMMZj-fXJRTDBD6T63Kc62i1jyO9ux0iaEdj1lpOMWFCaE7-UcAu2o4Iuf2j8EvfJKRSoYbBQgQ0v_63wrpzo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqnGZXvlpgf-4pqU7qoWET3q_mAJkKg3Pba-bR6LWHHP3l1HQMbvYXEMAVaq_Ex_wtjhRZe1Tu7I9Dy8nDFwo7kMQpc5eI0N2mZPQEKND_pnoeOthraBL6mxYoBAUaO0Us7OJix3RM5xFRls8LDahFyAoo3m161N_IEEOL40vQKDSL0CqgVltEkTDwfw=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

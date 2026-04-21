@@ -1,0 +1,21 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Australia Pty Ltd.",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Australia Pty Ltd. is a 100% owned subsidiary of Alnylam Pharmaceuticals Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals Inc.'s SEC filings (Exhibit 21.1, 'Subsidiaries of the Registrant'), which list the Australian entity as a wholly-owned subsidiary organized in Australia. The Australian entity serves as the local sponsor for the company's RNAi therapeutics, such as Givlaari and Onpattro, as evidenced by Australian Therapeutic Goods Administration (TGA) records.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000031/alny2021q4exhibit211.htm",
+    "https://www.tga.gov.au/resources/prescription-medicine-decision-summaries/givlaari-alnylam-australia-pty-ltd",
+    "https://abr.business.gov.au/ABN/View?abn=89648033381",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEccY2FBWqW63J-5-5fquz5ZUPK0deyeuLxV2_Gf6A2wfMJpt_ZYx3a2MTK2_5v5wOjpOA5rWSvgJLzzUEYRZxKzxAjmsK3zWhh71DsD8cDdxDPeAXJ9Xj9BHqcilEejdtXMLEBLaXG7HPCTtQA6sgI1lS0w_qqgzlk3N6TsnMU36w_Qomy2LnYRj1hxDvSf7vqG21BNQM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDGNXfRsQSL5xJorad-Z_aiYeF_hGBf2CnpwalFgPSS9i3vn7cx__85E9BMzPzTm4vtuZ01OLq512cBRQm_f086NL_m43V3dSHEA_hTuFJpgMqYX-bqG8L2X8amBKpDDYSh7Wk43QybIEL4nannKGpWIVn0R4ZM_fz823vP28WQNtMUpnglMiqMR74GxSna3EoVmmJHj7agMMX",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwypUHyG_bbjsN-wfEYX4uerHnQ6OXVRXFP6TNnl0jgzqqeiFWVa3D777wjl9qkVNBk2d9mqHxLRsC-wWsUfh9NChIqSqMbjQfZta5kXvFe5Ef7gmBCg_TjqTCY3tC4CY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_txMoVdlv2f1F0bv1vOQFw-1fomS6Hwad-WaWijeTBgT0Og-dc5fkI5R-bgim4WwSmmgb_2toW31iUz5nn4iuKMlbAkfxYZAexCMAJfPIEfVRtPk4GqujWS7khX2ycKkeg4H5suan5ivR2C3onMutntKO5eSK21ytCSfZaA=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

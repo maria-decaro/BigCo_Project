@@ -1,0 +1,19 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Italy Srl",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Italy Srl is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals' SEC filings (Exhibit 21.1, 'Subsidiaries of the Registrant') and confirmed on the company's official website, which lists the Milan office as part of its European business operations.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000007/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/investors/frequently-asked-questions",
+    "https://www.alnylam.it/",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGmFT2CWMn-Wobgc-zqSsNaHCGVWANPwOv1NTlUcO_KsFK4mhCFeG5TzVNkDSdddSCSBf2UGP29QOyawvKSK1VBoIev1n9IM8-5WMMP_cBsqZLL3_Zf2h4RkLr_phy4jH4Q6aNeCUsb64uogOgl4GHB4PU48-IjHqlCk5mdFum9MJxPipnrjI_7yxEyc7Xos9GRQzp4hQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1a5--3aP0I08CuzkbQUmiyQBWZbHAfp7kenKkHHXqertWDHUH78z7Rv-W6HB8elTu0zTKBOOGbqyE2F4NEo1riL8emzy3H__o44Eq78NIrxrDr7QDcFJBmjWaFp96wCI7A9zVlasOlIUUd9TyENVjiwW2blEhGyJqxT7Ypk0Oudr5ihNRQLErjiMGs9nG7FyU1cvBNJMZZ-gK"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

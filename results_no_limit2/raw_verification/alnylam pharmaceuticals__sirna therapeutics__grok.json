@@ -1,0 +1,16 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Sirna Therapeutics, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "In 2014, Alnylam acquired Sirna Therapeutics (a Merck wholly-owned subsidiary) and its RNAi assets/IP for $175M in cash and stock; deal closed after HSR clearance.",
+  "evidence_urls": [
+    "https://www.biospace.com/alnylam-pharmaceuticals-ponies-up-175-million-upfront-for-merck-and-co-inc-s-sirna-therapeutics-inc",
+    "https://www.fiercebiotech.com/financials/merck-writes-off-rnai-punts-sirna-to-alnylam-for-175m"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

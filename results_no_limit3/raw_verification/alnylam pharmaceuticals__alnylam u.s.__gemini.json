@@ -1,0 +1,21 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam U.S., Inc.",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam U.S., Inc. is a wholly owned subsidiary of Alnylam Pharmaceuticals, Inc. According to SEC filings (Exhibit 21.1) and the company's 2023 Form 10-K, Alnylam U.S., Inc. was the initial corporate entity formed in June 2002 and became a subsidiary following a reorganization under Alnylam Pharmaceuticals, Inc. (the parent company), which was incorporated in May 2003.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1228679/000122867922000011/alny2021q4exhibit211.htm",
+    "https://investors.alnylam.com/static-files/6987747b-6078-4061-8631-97999742676a",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwtiTcknLdpaxOrUFED_rQIq0z7_wH5rLWyrJNlCQ8T2yQ_LxIF5m0boopFvFYuyK9kdFN6pYouRcy8BWtDaZEtShYRxBF2SS-HYDNcJZ-TohiaWiWGe8P8x8xvz_nmKUMYvHnuBwoAWIiF5XIzFUNhhE6g0NwBrgcsE4ClZuP9WlrERCuul_n8kaWg8qLBB2gkBHC4sbmsIAG",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEozBd-Sm02xYuiCiW53rLzsFtbVME45GsXFYHVv53zWsaLezxYx1wen1cuSx2bznsJlLJlJRKcSuD3llXT1VF8TsVXCOLbQ9CEzs8x8W6RUUlYgrgouS6SmWE5x_kvb-u_Ff2Hp20bHmo3n8gsWbuHM65yLAigeEYEjcwSY2qlaXJ5Uu9c60nai3a_uDQAQsoNTENqK6Q6LuZafYRO",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKwKaas3I91hAzS8Nqi8zolvPv6xPQtZUTVA3RJtaoUuQ4-y8ZsaL2bS-ngyCYOoCJXsdVbA-1v8LtAlTVP61V-goaA69uc4LWIMkgTxCx4OGJBs09SV901CHuTVkCjwKdbCIbBoBGIrZlNvXt8b7Ii-7vkyUmz6WL92X9z1OuC3Mc",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6JcgvbKnuQmQnbDsbF7MdCwUbgdlni4GZG3vzXmWp6__e0F5jdM3xuNzIQtY3KTUSh35zVHcTf0zItzrIxIn4h9r8f-FsY4E_X14cCLZry1bDK0yx9tShXPLu7BD2yIf67_LCgaksFwYqUz1S91vpklY0GCJk9OgQjjOJ9aS4uR47S7WxOQE1Q1kDkZ0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxfJzNrXDGCTotzzEAvmAuc7ArcMeahdSO2d1JNYN5uCB30HHRAcro-TarDYfzg8oIsy_8X_1vETRsGm9n3xBRo3BGhQ1p6NOWBHFafArmNUZZCpZoxqUT-zIe65dfFEaNL_gPboOh52GK18B6y4IVnw-4oy9slILS4_UUdSXlWAmZgj7Dwg=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

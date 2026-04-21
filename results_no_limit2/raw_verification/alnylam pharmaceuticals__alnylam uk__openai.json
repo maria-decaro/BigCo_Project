@@ -1,0 +1,29 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam UK Holdings Ltd.",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals, Inc.'s SEC Exhibit 21.1 lists Alnylam UK Holdings Ltd. as a 100%-owned subsidiary in the United Kingdom, which is strong official evidence of a parent-subsidiary relationship.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny-20241231.htm",
+    "https://www.sec.gov/Archives/edgar/data/0001178670/000162828026007497/alny-20251231.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867023000005/alny2022q4exhibit211.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000156459019003022/alny-ex211_545.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000156459018002152/alny-ex211_51.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095012310018222/b78674e10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000156459018002152/alny-10k_20171231.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013508001658/b68134ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312523089638/d418223dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013506001651/b58496ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013505001747/b53309ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312524083479/d787426dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/320351/000003540226000524/QTLY_142_20251130.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312525061427/d899808dars.pdf"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

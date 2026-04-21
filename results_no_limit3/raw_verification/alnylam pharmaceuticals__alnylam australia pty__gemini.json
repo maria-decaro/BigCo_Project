@@ -1,0 +1,20 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Australia Pty Ltd.",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Australia Pty Ltd. is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc., as explicitly listed in the parent company's SEC filings (Exhibit 21.1, Subsidiaries of the Registrant). It serves as the local sponsor for the company's RNAi therapeutics in Australia, including products like Onpattro and Givlaari, as documented by the Australian Therapeutic Goods Administration (TGA).",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000014/alny2021q4exhibit211.htm",
+    "https://www.tga.gov.au/resources/prescription-medicine-decision-summaries/givlaari-alnylam-australia-pty-ltd",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgotSIg6ok54ZRPuNjTPhwrMMIrFVzbsRPgvCOLG0PlT7iWLZ2WO2lnAtQIHvOIPTyBnIoiwGf7iroLFRDgU4gq2jZY0b1dJOMNm1hzAVom6cNyrs-2Vw_rvwnrMBAc6AHUnW5gtnxh7gINPQY_ptZlggS6aJoljObcvXZvRV9uugRMcXJCJI8Hi4X8UkeatJ_Cb0pAxapjFw8iyI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiY2Btg5bZTkHpOPUQJsmdBN6GxWKsb3dAI3LnsK3mq40XhxLaKFjZIuPQHxu0-KfAw0072rVxo9Y8OAmzefUPfQoKuG6CRasgzpwu7yGhohk5wMK233vnrD8ZMVwmMY5HObN9r34Jtq-p-p8akk-rFDPG9vdfUtyjWRG-4wSsbF-NRwi0VZaCKc3yxGbzSyWjDWTgkl4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpwUwQeB-084JQeeRoJGEKqRGLXDGcvdd7T1SLMiDwslO1FU7WshMIM3PNiRNhUvWAvfiN1AdlRtHVdzSas5LsorB_SYR6nK6yGnKvBduA6VxBA_cpxv9xKeyBI_jqKo0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6FWsKfEkeEAIy67-Wm5DwDN1Na4O1ojb7vMyxcSWnZcly2rnCKMGBbX9PsccJex6NzIoGwnkMxUDwLmmtJ5NEvz3WxyuZPW0pc06SNUYtDywafvq14VW4u_LFCpNzGv5lDPBH6vRPATfejpk4CiQpfyXChnw_jT3wM3OqnRad3VBiP-Dh_ux1S6337I6xwtpWR-R1t6E2ZA3_"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

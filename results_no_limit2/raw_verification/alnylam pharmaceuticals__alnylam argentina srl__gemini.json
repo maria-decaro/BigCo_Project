@@ -1,0 +1,18 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Argentina SRL",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Argentina SRL is explicitly listed as a subsidiary of Alnylam Pharmaceuticals Inc in the company's SEC filings (Exhibit 21.1). According to the 2022 and 2021 filings, Alnylam Pharmaceuticals Inc holds a 100% (or 95% in some versions) ownership stake in the Argentine entity, which is organized under the jurisdiction of Argentina.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1172340/000117234022000029/alny2021q4exhibit211.htm",
+    "https://fintel.io/doc/sec-alnylam-pharmaceuticals-inc-1172340-ex211-2022-february-10-19033-545",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9GjzEoURjNtbwIepy3H-mzPpDg73EoSXLbK2fip3b-75q4g_fncAkdt8ZF3Vmoufl5pfUvm-F9SVzodEWvi6Kb0zHoKq17hguEP0PQk2l2NJ9kco7eqh-ly2JYedvjoMjugWvR57LUiuiyQrbbJyAlszazsFUK2dT2EPMgLXTjKwD-SAW-TfJ_mzIn3gyzc0x3mbfM1Pv_1iU",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWtXYp_Mg9alrWMoOP08GwBtqf7_XawSAFfM-o4_LLMjPatuMNRLLcy2P7faHo7jf1bzJ0CYGosWiclGg-IBWUvHAB9OX_X5dLXKX0JxU64kzpOZyKpApYIg6aMM6ymwHN9anPy6OwEuy_B4v888FueYgxcVVZXVT5pOCo5r-74hknkDG8Z6okaP5DfynJEEtQZDOmCJg="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

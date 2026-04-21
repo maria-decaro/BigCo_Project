@@ -1,0 +1,21 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Austria GmbH",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Austria GmbH is a 100% owned subsidiary of Alnylam Pharmaceuticals Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals Inc's SEC filings (Exhibit 21.1, 'Subsidiaries of the Registrant') and on the company's official website, which lists the Austrian entity as its local office in Vienna.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000008/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/contact-us",
+    "https://www.alnylam.at/impressum",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnidiqMABJVfCJP8wWY8KLLpvW_QQIACNggwu5eIlhrYo4NUzlFNZDhTnwJEdMSS9kQwML5NfTakAnJOX3TCeb_x_CDPDMJr5eM5s_PhPahBNU3s4VL7KMQ0eYNYiyzO9WOiM68bHaS0q4DAuBaDvAwV3WIk52s6XNCUhGJ90ez94fvcOxq9tlWPVNhqenWUiWXc28NI8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi5vuXGD7rEAsjVRQ8s-heoTNIJA5rj_lTk1tHjiz7oyp__OVmyUzLcghx4QkNeHwEJFWLIMPJr3sGXs1Hx5vtRqWEi5q3cilgYX47RuNWYD7up5tawhzA4JB_Gsh7UnKUYeWBPXIdU-7jkdj2amMbGoWNnI1ev-b8K8eBCtV_KIu6SMoV9y611N5dlhCnqoWuxjEFFVIvifOc",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxt8qAfg11hsTzFpEyUPKrT-hrG9kOO05nJraGgOZYgDdDZNmgvfV25IoWRZWIBull7BgyTbEjltx5bXSuaEhEUbuRudwYwcXNPJpMhXdF_EecnL20rfu17-nu6WquqxcWz2t1thOQ4SXEnUjNKkbKhCmF9bOH6JuZE2XJ5bZ44-VSGfdlZTjSSjNMCd0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE48-X55MnbidZBLOe9_eSPpT9av_MbRMGW4EuIP9dMCQ-p7UeWBk2hS9NbXLQnFpHo_Iq3anHzN8rCXg-zd1OH9Yr1OAi4QW4nPDBb8IQ4KQE1Q73GmdxXSolGJp6TWlvKFkLXsTuchC_JCtbQqJSwImeRZugTwL3tCzoC-4O5eCdyBcA9vcBSXtyi2VO3ANURI6KnSXOHHgRi"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

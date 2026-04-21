@@ -1,0 +1,35 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "discoveries": [
+    {
+      "related_company": "Ribopharma AG",
+      "relationship_type": "Merger",
+      "confidence": 0.85,
+      "event_year": "2003",
+      "source_authority": "high",
+      "recency": "low",
+      "clarity": "high",
+      "evidence_summary": "Alnylam merged with Ribopharma AG in July 2003 to combine RNAi therapeutic platforms and expertise; later referred to as acquisition of Ribopharma AG now known as Alnylam Europe AG in official filings.",
+      "evidence_urls": [
+        "https://www.wsj.com/articles/SB105752103163937200",
+        "https://www.bizjournals.com/boston/blog/mass-high-tech/2003/07/alnylam-ribopharma-merge-notch-246-million.html"
+      ]
+    },
+    {
+      "related_company": "Sirna Therapeutics, Inc.",
+      "relationship_type": "Acquisition",
+      "confidence": 0.95,
+      "event_year": "2014",
+      "source_authority": "high",
+      "recency": "low",
+      "clarity": "high",
+      "evidence_summary": "Alnylam acquired all outstanding shares of Merck's wholly-owned subsidiary Sirna Therapeutics in 2014 for $25M cash and $150M in stock; now listed as 100% owned subsidiary in SEC Exhibit 21.1 filings.",
+      "evidence_urls": [
+        "https://www.biospace.com/alnylam-pharmaceuticals-announces-closing-of-previously-announced-acquisition-of-merck-and-co-inc-s-sirna-therapeutics-inc-subsidiary",
+        "https://www.sec.gov/Archives/edgar/data/1178670/000156459019003022/alny-ex211_545.htm",
+        "https://www.fiercebiotech.com/biotech/alnylam-acquires-investigational-rnai-therapeutic-assets-from-merck"
+      ]
+    }
+  ],
+  "provider": "grok"
+}

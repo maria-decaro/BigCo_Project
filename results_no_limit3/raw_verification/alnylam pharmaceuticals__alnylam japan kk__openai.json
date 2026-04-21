@@ -1,0 +1,30 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Japan KK",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Official Alnylam contact information lists Alnylam Japan KK as an Alnylam office in Japan, and Alnylam Pharmaceuticals, Inc.'s SEC Exhibit 21.1 identifies Alnylam Japan KK as a 100%-owned subsidiary.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000013/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/index.php/contact-us",
+    "https://investors.alnylam.com/faq",
+    "https://www.alnylam.com/about-alnylam",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000162828026001755/alny2026q1exhibit991.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013508005476/b71141apexv10w1.htm",
+    "https://news.alnylam.com/patient-focus/articles/alnylams-response-covid-19",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312525061427/d899808dars.pdf",
+    "https://www.alnylam.com/sites/default/files/pdfs/Alnylam-Patient-Access-Philosophy-Report-2021.pdf",
+    "https://www.sec.gov/Archives/edgar/data/0001178670/000162828026007491/alny2025q4earningsrelease.htm",
+    "https://investors.alnylam.com/node/28009",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312513004515/d462784dex991.htm",
+    "https://capella.alnylam.com/wp-content/uploads/2019/01/RD_Day2018_FINAL_Capella.pdf",
+    "https://www.sec.gov/files/investment/13flist2024q1.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000115752312005749/a50466036ex991.htm",
+    "https://capella.alnylam.com/wp-content/uploads/2026/03/Vutrisiran-Reduces-the-Risk-of-Developing-Advanced-Disease-and-Demonstrates-Benefit-in-Patients-Who-Do-Develop-Advanced-Disease-in-ATTR-CM_Analysis-From-the-HELIOS-B-Study.pdf",
+    "https://www.alnylam.com/about-alnylam/alnylam-leadership"
+  ],
+  "provider": "openai"
+}

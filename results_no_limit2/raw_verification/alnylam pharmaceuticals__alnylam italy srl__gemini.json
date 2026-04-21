@@ -1,0 +1,22 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Italy Srl",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Italy Srl is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc. This relationship is explicitly documented in Alnylam's SEC filings (Exhibit 21.1, Subsidiaries of the Registrant) and on the company's official global policy and office location pages.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000014/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/investors/investor-faqs",
+    "https://www.alnylampolicies.com/",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMgppHLzze2murO_ykdwphnQwq9tR4himjFeMx16nzTgWZfE9L70JmgQQnW33ru-qSPbKqlaPDiSOIRQCu1bDLzop8mr_F2Y_v8A76oUzQWHvEvlGwuc8kdj2sVstmch7ePEy2heI-C1qZnGRw3L4BpskNRzcNn_6x-lAbdcTmPb4RZnNOTzZRHvMRRiHFjYYYVJb-jw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZo-d-xT_rwhKa6iHG5gLLv1qaAHI2ddew7Z_btsHtSmWaIrQe2yAHjfYFMbDO2hgHGVakQYj2ujf80WVXlZe70WlI9RUyPiWqagP4KmigVSMrYLD7qFooVxpYAjsmgGnvGg2nLVN3IMMSJcbdITKHgZZJd-KR9cn_oKcHA8d1QFoW0HNSAb6WsUIsw1uoVfb2ORA3TUstHqo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNRAG2bGRyB-esRux5qWjHjtuuleTqx1v5tw_qYBdOCgGQAVOiXCkyjpNWbQdYKnOBYcfmXHj6YPNMYLOPc0YDvWpDeuenF4eMIY6lreQJCSgMFsOT09bjVr8_7udo5jqVGgivSAjdDdPIlCCkYy4BRjN8XLFFBHTgseMVjE1y-vb1BO6TTeCkOwuWng==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg4re30Zl7C5YVUPDCfxNzGablEewO8GWRa249cqgeiIp-aubw_LVHBeN4H0tqoT8t0zPvNMuLi8fy6wH-MUnFjdTN5AFrKbXW93nf2bePow0_1-ETf0weBIi51k3XUVxqDNkwZrF0mscZXXPkkP9pic-LMnsLCDIIdLiZQByvHRj47JM7yM7_mtQQMF141SpPCQNApSGivu_hKi4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIZf_FMZOEGN8a7Vpc6h7KNrAaFLHuZCNKbM4Ptd-qB-mG_-a9lTY-dfzYbXqFMqHTppqwOFx2HT18x_ZKz8974X_LYUe6cbERjYXItzWBrtMpT5Lpncum8YjzZAwcuA=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

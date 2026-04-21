@@ -1,0 +1,21 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Securities Corporation",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Securities Corporation is a 100% wholly-owned subsidiary of Alnylam Pharmaceuticals, Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals' SEC filings (Exhibit 21.1, 'Subsidiaries of the Registrant') across multiple years, including 2021 and 2022. The subsidiary was formed in Massachusetts in December 2006.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000031/alny2021q4exhibit211.htm",
+    "https://fintel.io/doc/sec-alnylam-pharmaceuticals-inc-1178670-ex211-2022-february-10-19033-1454",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOz0jIdvBhsKlFh1eFZhv3DWQiVh0DbBmKHPU0Yzy0gINUVpDe3yySA3bWZRFY-_tFMYShnx405Kmlx0nrI3IFQ0aPdfKizNo0oVWtT6m9Yw5F2CEjVFxHB7zN8rCxElPA4j7V39PChSqJCR44p1oME5XdlWqr6GY95LTVqEhln8qlJ_Qr912A3HtuSRLWHMAky7n8C6ALs4eP",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN_wT4r7u7iq428h3PT1cyU6Uc-RRi1EATJUbK4CaRbOdU90kWgYHKFlbdJhBYD8ySrPuJ7MDc_uQLo-wsmAhXROtB0VedRrNUyQpV2o7ky4xWfotJBd-M-gkxX-MbbY6uCwTJtSyhln7GYkLqFpL5snApSky6S-RDP2S_nJtNvImNtEo4phmMfpnsZhHUA5TTYw0ajgE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDQLxiZTXOqzdEpoCxDGhrIXIf0kMv2ZL-OmYHWPKLXd-sTF7c-rTkmQEq_-ER5fzTecXTO7R5a6xyCWFsqzQw4FCEGFrJQkU5bYLOFIz_fRIeCV2t2q99g3lpfBbRj3XPppBEbJc7Bzno9VriudPgH_NYrVBB5ck_dZzsr1ipweHX1-mqVpIV5DGCRc7rnDUKB4-5Pik06ryh",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiM1g06Ky5--gkAkV9fgbTAStcVEvH7opcDeqZDhskHCjQMI6eNzzg7hqMvSYUr2O4Tk7nnbauaS0Tf0TTDfRglUYnGFMOh9Sjs8BFykmppEiyGJFq7E0ptfy6xq8oU3FFmuRgd8oFpDoAoZq3OlcnlO4_28Kj9lWPVfiKLsdWlXKC5J1eOLXiccuzNKe4zC2bDWE2O3DRxhDv",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPO4uSllZJYlkyrybzDh96nacESoysCtdYjFVthS8g9K80ruWERDZZl4mbKBf9yZq9fyxzay1tV3uirnFwgNnKLdwcBMPl19UQ09sKkrtYrWLjiAvnFXRilmb6ngu8zp7gTgsjFWha0VUfHi_dZVGs0eSmW10x1PE0rXVp7S9P_v_w"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

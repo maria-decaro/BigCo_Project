@@ -1,0 +1,21 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam UK Limited",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam UK Limited is a 100% owned subsidiary of Alnylam Pharmaceuticals Inc. This is confirmed by Alnylam Pharmaceuticals Inc's SEC filings (Exhibit 21.1, Subsidiaries of the Registrant) and UK Companies House records, which identify Alnylam Pharmaceuticals Inc as a person with significant control (owning 75% or more of shares and voting rights).",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000005/alny2021q4exhibit211.htm",
+    "https://service.gov.uk/company/08871372/persons-with-significant-control",
+    "https://www.alnylam.com/contact-us",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJJ4jiGGNVuCfBvVPkR6LpNU6lx2eo5v9D1dRcz6jxvGYai0cWOGW9DL9vMY11R1ro0kBPpLUDypnjtSLNQWrXcR81EOkKZWCRPXU-Y63Fdt7je2KSumzXL5P1oSYIyUuuLpq4MWuajJH2I31pp6eN8HEpwbAxMwFfeUhA-q5BLyRgxWArehV3qnk_BKNz1uTB9sTh9l0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHASyhHIZIxf3di6o8G_YxUNCMDdhNRlZH5yl37KfTupK8DK-c34V6blOY9Shg4MfawgOqd4NIxy8Twr8kRvUNFYgUD0LSJ519SbJo7YM3Jo-9DYoQnl0B8wBILb7T7-7ALqXHT01DMb0lCObyQ4r1rjK2lTaCOuOGFWrZJ0ZTf-OrJorVtxzHq2GML0p4S_BEWTJ3COnaxIpPg",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhbAsolBPsWQTqrVmd6OY3QyfFmCInpXI90GbuwRyB3_7FYkjDcRTCVhP-B8_lMeLYuOYWGlg9O_L9bsN8Lgd2LFfMuWLdqT040gRc7SWE2ryD1d2tTFDso6C-oTsz7HNPmC3wbw-xZMismbOMcWUmA_8IGJxkzxGXbJGZL4qU5hYUX9EMQ_WrlhUbiis=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExzTE93Io84YkHS4_7vsmcjzGCiqf9zDDNt5tt6pIQIEJO3zgRl6MLkMREbAA7CVMq36a-ak20na1TeltEpcaqicPzM4Y0_V_UwlkjsMKwatbtAaVJY5qCSUxoBqCBBB69ZFlr2FjbzM6jNm3tZh3lpG-fgXkZ_M5lRMvjyGmPEal0Wz0Hf0iCbPRNgdwe6Uk="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

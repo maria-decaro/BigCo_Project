@@ -1,0 +1,21 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Canada ULC",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Canada ULC is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals' SEC filings (Exhibit 21.1, 'Subsidiaries of the Registrant'), which list Alnylam Canada ULC as a Canadian entity with 100% ownership. Corporate press releases and the official Alnylam Canada website further confirm that the Canadian office (headquartered in Mississauga, Ontario) serves as the local operational arm for the parent company's commercial and regulatory activities in Canada.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1172340/000117234022000031/alny2021q4exhibit211.htm",
+    "https://www.alnylam.ca/contact-us",
+    "https://www.biospace.com/alnylam-announces-health-canada-approval-of-amvuttra-vutrisiran-the-first-and-only-rnai-therapeutic-for-the-treatment-of-cardiomyopathy-in-adult-patients-with-attr-amyloidosis",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZCcGLuuspnLjUnyr0HO02xEYd6dy4espiUQ2UB3TTOkMWcJaFL9BomCcCkpSu7vq-MHUAjUot5e-S3cNMk8-o6fY5Cm3gVWUOmfMsPUMao1kju8lcIQViO_aWiQmDuRhg1c6IMDsnVp-X7FU2r8NAksgVm2VcVF_vr2GvacnhkmvRds96PatnjLfe6EVHUkwwGGfqqKoVy2r6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFsW10naJreplYUR0rZWnajGvb7UyvC8OhdFdEEa-DGNYJ4Pib40KSt2hheXGz6xhvWpZhntM_yycEpI54sv22v96ypjKvsVKrTLI8zofdzTD-b3v8sIuPgMpMgME5KeJe4WVs0B2fMvkOug4HD1oOfJBJ02-7H7kPMKLtHQzdOZJqR9w7wZdhDE2SuxrVhVCjnUMdJqE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6UTKOc9F7rn45u4VeoHNwS_FDhJtOumeD6sbwQ_J7WzM72SPehBff6WsIR94pX-z0Vy9QcXDQ0GGmG11x-gwICQgYxTQO24b-DkwcnF9_R-OLf9pScAEF575DQ3DsOKLf58erDSwXu6sK_HUwyiGrD0u5yB6Mz0AueAyI33AgBDOzr_1r-LqeGrDyAxhDnAVZh6ipU6FyOg4C",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9jZDLdjq2pDyYkXTDSOaVNsg49hNWDqoSr6JG1JCQR_Os-e6zCw-I_PhEt8igyRxl4-dvE8fd6qy9WwatY20ybjeKxQ9VchDMYJyVFLayowqtlfqwskAb9LdrWj5m7IkkWuNceH4ffZoktoLC01FRMcfptvVr8fXHHGu9ZN-dD4_iEZQLs1MxveWjDcc="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

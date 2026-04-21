@@ -1,0 +1,16 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Canada ULC",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Listed as 100% owned subsidiary in Alnylam Pharmaceuticals SEC Exhibit 21.1 filings; recent 2026 press releases issued by Alnylam Canada ULC as Canadian affiliate",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000156459019003022/alny-ex211_545.htm",
+    "https://www.biotech.ca/news/alnylam-canada-ulc-receives-positive-recommendation-from-canadas-drug-agency-cda-for-the-public-reimbursement-of-amvuttra-vutrisiran-injection-the-first-and-only-rnai-therapeutic-for-th/"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

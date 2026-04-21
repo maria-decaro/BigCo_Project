@@ -1,0 +1,20 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Switzerland GmbH",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Switzerland GmbH is a 100% wholly-owned subsidiary of Alnylam Pharmaceuticals Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals Inc's SEC filings (Exhibit 21.1, 'Subsidiaries of the Registrant'), which list the Swiss entity as a 100% owned subsidiary organized in Switzerland. The company's official website also identifies the Zug, Switzerland office as its international headquarters and a key regional business office.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000005/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/contact-us",
+    "https://www.alnylam.com/investors/frequently-asked-questions",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdsUGDCaf6FHt82BuGdU_exlm8yR3D4xfCyUyYn1-u98ab4EPV7etbTcHkpCHq2dBtIr37l0FD3l6vJo4GpUCQpIuPYg5D9RkQ0Zz4eTey_b_IsHmIrP8uX03_M1qk7ZRyWJnQSdLZLQOyIWQ2fhuuKYUzd04ZPfBJdplujEoXXrGIGlbCy73_jPssG3cJsmTkMgBPhQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI_6pm0d3ZGrSTfr0HfjRYEdVgCMgavFqcxFEFdhprJ1p027lRXysd68sPLCVsSf3bHfQ7Pt4s1Zj-XUz1vk_29ruBb3wLIMbBrSVGt1MsOSjl0x6o1HZxWJGzAcGqWoSl8_P8gHCtU91C-rGs1HMLxdUuuVAUWjJ9LW0gF4uTcGCfRNazXm2S9mOzwqfBoFjpCo3sat68fQ8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB82-TxWvTHasmTeQ-5UzvcsTutfHjVVJlaW554tf8JdA33eJmoSu-n9TB2hXb-CRYv7J76m0HFx2p5vfvJ8Z3EVQll6z2RX3M0tBuCB4LJNVufQ-Q3tRkmw3cm8jD69VJSa9Bu9p-_W4KSCX7P3lWio0ZWH4oqU4kR5UZ9rG5xpo3RSiXQrA-1xhF9g=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

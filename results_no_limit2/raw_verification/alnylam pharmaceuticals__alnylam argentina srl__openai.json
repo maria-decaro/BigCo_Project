@@ -1,0 +1,32 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Argentina SRL",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.98,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals, Inc. lists Alnylam Argentina SRL as a subsidiary in official Exhibit 21.1 subsidiary schedules. A recent 2025 annual report source shows Alnylam Argentina SRL at 95% ownership, and earlier SEC-filed Exhibit 21.1 materials also list Alnylam Argentina Srl as owned by Alnylam. This supports a parent-subsidiary relationship rather than a merger or acquisition event.",
+  "evidence_urls": [
+    "https://alnylampharmaceuticalsinc.gcs-web.com/static-files/5bf87e4d-c9df-43b5-b072-91fcd577990a",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000013/alny2021q4exhibit211.htm",
+    "https://investors.alnylam.com/sites/default/files/pdfs/2023-alnylam-annual-report.pdf",
+    "https://www.alnylam.com/node/11767",
+    "https://www.globaldata.com/company-profile/alnylam-pharmaceuticals-inc/locations/",
+    "https://www.cuitonline.com/detalle/30717107965/alnylam-argentina-srl.html",
+    "https://www.alnylam.com/about-alnylam",
+    "https://www.alnylam.com/index.php/alnylam-espana",
+    "https://investors.alnylam.com/faq",
+    "https://www.alnylam.com/patients/genetic-testing-and-counseling-program",
+    "https://www.alnylam.com/patients/patient-services",
+    "https://news.alnylam.com/patient-focus/articles/alnylams-response-covid-19",
+    "https://www.sec.gov/Archives/edgar/data/1706431/000119312523095234/d114623dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312524083479/d787426dars.pdf",
+    "https://www.alnylam.com/about-alnylam/alnylam-challengers",
+    "https://www.alnylam.com/alnylam-austria",
+    "https://www.alnylam.com/OLE-Study-Protocol-Amendment.pdf",
+    "https://d5bp8bijhhba2.cloudfront.net/pdf/8b4d3f7f75633fdbffa4be1f4565cf3c9b3b8f5221537c056ff8d8adee42f3ef.pdf"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

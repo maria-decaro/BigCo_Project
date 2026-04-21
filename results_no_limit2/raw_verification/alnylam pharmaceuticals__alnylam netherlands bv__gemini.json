@@ -1,0 +1,22 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Netherlands BV",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Netherlands BV is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals, Inc.'s SEC filings, specifically Exhibit 21.1 (Subsidiaries of the Registrant) of its Annual Reports (Form 10-K). The Netherlands entity was incorporated in 2017 to serve as the company's hub for European operations, including finance, supply chain, and commercial activities.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000010/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/contact-us",
+    "https://investinholland.com/success-stories/alnylam/",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrW6iG1HpgZX5s76kP1l2liytzDgQiUpKKLcwohspA6gWQq_Npy2AQhgSYcvmwwiRBg7Zqnk5g3r2OUmytuPR5OzqCG8xgzReBD15J5FtpxL3hld-xucwG29QUS2U3MnvyjRL-YhQl5sdkehkCIiYp9r6odPy70RtnsVy5rRlHlFQGA85wBDFibwjbjvWRlrd-OtBKu5XXd9n70Io=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENQjpG1nKqYO1AGgj7lQxNtZaz1l8d0xs7F7TZXkDcbX2Jfe188nQkFhIChr63VaXCCiuvVs5ULgqhemdA1TzdqJbtjNqahKzpwyEET-i_PLPL7QZCeEWn_ufLydivoCTET7d41qgH9yHrPPqp2LbcL4WVqAv9fAWlEjnKPMshcCaDkRLKF-YiGSarAXbNLNrYDsUWt7Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd6pyQU8pfMgsifQHExA9LTdzk1POU7qz6WDRj77JKPldQ-YaSRdEXFxbxkbAL_rsMzEnATtR3aQ8YO9LXkuaDPTas79x9N0KMkA6Q4gplPgo8ewYUJvKSGUGm7VH_aPjfM01bsVd69w2Tvv5OpkR98pLKYFLkZBBKzAvCd8jhZr5iVmtvyvG9AcVlMknRoUU9EIKGMbjpXL9Z",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExCzxW5QDF49zTiBJ27tIEuOuUP3TgOx6fufkt8PTnFMzAI1sBcvvp2u1cqKHmOsY2AslGsXIs34-REKow9FrpodAOQrE6SU183vQVX6vDsscSwoEzmeIPTrJUFJebZFu7q_IF5qqomrP3C-eMt0mPZm02Jf2hr2d6PjAlYHnKURTlgYrtqXUrhMfFmKk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZNuZJ4Rr1Qjp9ui1qSa4eyEV8h5efODgP7r7PAU8b1FokpOuTRiI9JNsH7_v12krz9RYOp0Js20qRbnjB5vO37ZxeD619QJ8EBEWaSB9mDN8MQ20MtFT9zjXtNjH3FEV5s1U4oqjtylJyCOIfqA4="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

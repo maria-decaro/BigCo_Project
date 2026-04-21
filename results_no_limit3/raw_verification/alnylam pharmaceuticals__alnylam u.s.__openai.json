@@ -1,0 +1,31 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam U.S., Inc.",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Current and historical SEC/annual report disclosures state that Alnylam U.S., Inc. is one of Alnylam Pharmaceuticals, Inc.'s wholly owned subsidiaries.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312525061427/d899808dars.pdf",
+    "https://investors.alnylam.com/sites/default/files/pdfs/alnylam-2025-annual-report.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000156459017001649/alny-10k_20161231.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013506007385/b63139ape424b5.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312515050223/d835246d10k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312512053552/d273526d10k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013506000280/b58707b5e424b5.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013505001747/b53309ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312513065475/d440212d10k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013508001658/b68134ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312524083479/d787426dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013506001651/b58496ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095012311015737/b83541e10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312516462538/d19384d10k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013504001018/b49404apsv1.htm",
+    "https://investors.alnylam.com/sites/default/files/pdfs/alnylam-2022-form-10k-and-annual-report.pdf",
+    "https://www.sec.gov/files/18-02227-e.pdf"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

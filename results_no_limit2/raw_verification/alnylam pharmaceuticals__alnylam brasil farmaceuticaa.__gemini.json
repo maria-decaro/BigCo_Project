@@ -1,0 +1,23 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Brasil Farmaceutica Ltda.",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals Inc. explicitly lists Alnylam Brasil Farmaceutica Ltda. as a subsidiary in its SEC filings (Exhibit 21.1). The parent company holds a 99% ownership stake in the Brazilian entity, which is organized under the laws of Brazil.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1172319/000117231922000012/alny2021q4exhibit211.htm",
+    "https://www.sec.gov/Archives/edgar/data/1172319/000117231921000019/alny-ex211_545.htm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxOdikbu3QEE17hCYLnNWSwNhG2RqC6D5uOenY10WlRph_uCOQXexhtM--lcaTtw7QW7XK9amcnxJpEob1qvHFAkyaEglBg_yOSwAYyGVPU6jNeBqAFCcI9fQ26mMWVo5lDLxyLOfdfrhcfJD9Z_zK9mc-04kwRaQC1BjToxG6UJ6cJ71bWrfNB5xUFYMWkWiIWfaV6LAWUJZT",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt0kTKU5yceBjqhtBaxJ4fyr8fSi6PGj81zECJYipgqa35scrGejcWWChfKK2sqr5ciwBWuR0-7jK4TRB7EH2_3qEfcxHeA_RGz6IrgwTMN8-1vvNFwmRbSCP9ydF3VAfz6F8TeiEjLxb215NBPh_2qJFoPm96t85a1cMDzA_MEUQumrsoE1J3rc0bHnKaT82JIWgAsCY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6Uj4VoGUDlJNmIe4kgCmKzpKfpiy9KLo5hl92wLN-m5rUaCpXacQUcrisxjFkkKVkSIiRc7XpOa2VUo02-z0YmwitBkLVdPhPYDItVBcp9NYzPeRtAbxaIApIXuJTGDg5hO070K4GqszjXXtHyfKkXCwi7rQEjFVqgUkImMKM_gCXU7sRXEcCFakGYR2eoEMrEllwlz3VNt0h",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG92WErCXNw53AnbV9Bqz_thmflF1NGlFjwfPmZD6cYMBlCgKRZu-kuZEzvBoDvlsJRDjcHc_ApVtWuG5aiFvpmCaRLH3Qi4Nm7-FrQMry7TuegSEG4za7ewoMlD9WtvDt0s1KLt-QJNSp7P2oYQDV1PMljFaHMUIhw7pTEM_xnKDjChd4KPQySlqYUoalttgFu12WTQKORABFzUmkCRVhmKmKj8_lJTIIAoGsGIUvuldafw2IeA78=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeUC_dAZVK_FJ6Se-dlMo2fh_U9k1hVg-pMtvSaTibEtcEDC3UpbZGh_GuGAAARYwB9xWVohY9y1cQNuEDatlm-YeOSAmVUir8mIYjn5n5LOG8V-JyMknOJRWI8D10uEEga5lEghFd-lDOwGhHqSO2GFlTl9VUNFv7FLiV8NBcua7Km7FJjQ_kwPs1GG_dQms=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnB5BCsohdpAIPbO-YSZPDfmKPSCpv_MJ3ADfAMMNteozyYxGRQfFgLz0vLp_h_hexRBBwob3hDVv-WgyPMl7egbC6CEgv892hVjSk7J2l88i7SEcPW65EjfQcYW2CYTA3Qxken7CeKVNlXS0niQBGAjmJo9KGIYVZnuEXUKYefgCqb3pRxG2FxU5THog=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKCeiM9NHMMOBDu3B5sdL2QTwqeIjhFw-H5HLqazd4tzT6sw4Wu-FKecc-jiJSthtd3ws4KUGERe9TfniyHnJpd-JG6h9eoBp683BpFfyH01UKT4TYzPRRzxFec9x71qi7xC9Xa7CmHF9LZoXOD12QfQiocuSlzuEmJq5znZRssXPdug=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

@@ -1,0 +1,29 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Canada ULC",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals, Inc.'s SEC Exhibit 21 lists Alnylam Canada ULC in its subsidiaries table as a 100% owned entity in Canada, indicating a parent-subsidiary relationship.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867023000005/alny2022q4exhibit211.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000156459019003022/alny-ex211_545.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000115752320001145/a52262204_ex991.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000115752320000673/a52215004ex99_1.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312519296636/d834366dex991.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312520005791/d867754dex991.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000156459018002152/alny-ex211_51.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312525061427/d899808dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867021000024/alny2021q210-qex103.htm",
+    "https://www.sec.gov/Archives/edgar/data/1447028/000119312512479696/d443535dex993.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312512062480/d301850dex991.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312524083479/d787426dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312523089638/d418223dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000162828026001755/alny2026q1exhibit991.htm"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

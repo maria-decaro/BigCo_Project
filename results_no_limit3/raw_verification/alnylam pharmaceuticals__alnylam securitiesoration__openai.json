@@ -1,0 +1,31 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Securities Corporation",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "SEC filings for Alnylam Pharmaceuticals state that the company comprises Alnylam Pharmaceuticals, Inc. and its wholly owned subsidiaries, explicitly including Alnylam Securities Corporation. This supports a parent-subsidiary relationship.",
+  "evidence_urls": [
+    "https://media.corporate-ir.net/media_files/nsd/alny/B68134-8_Alnylam.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312512053552/d273526d10k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095012311015737/b83541e10vk.htm",
+    "https://arbutusbio.gcs-web.com/news-releases/news-release-details/alnylam-grants-new-interferxtm-intellectual-property-license",
+    "https://www.vaneck.com/us/en/investments/biotech-etf-bbh/",
+    "https://br.advfn.com/noticias/EDGAR2/2025/artigo/96947719",
+    "https://www.buzzfile.com/Major/Pharmaceutical-Science/MA",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013507001526/b63620ape10vk.htm",
+    "https://archives.lib.state.ma.us/bitstream/2452/126198/1/ocn711081981-2012.pdf",
+    "https://www.buzzfile.com/Major/Chemical-Engineering/MA",
+    "https://www.mass.gov/files/documents/2016/08/re/2006-corp-book.pdf",
+    "https://www.mass.gov/files/documents/2016/08/qd/2008-corp-book.pdf",
+    "https://alnylampharmaceuticalsinc.gcs-web.com/static-files/66c22862-4f85-45e3-84d9-4c58d38057af",
+    "https://www.buzzfile.com/Major/Chemistry/MA",
+    "https://www.buzzfile.com/Major/Materials-Science.And.Engineering/MA",
+    "https://www.wayup.com/profile/Thang-Nguyen-795eebabb7/",
+    "https://www.streetinsider.com/SEC%2BFilings/Form%2B%2B487%2B%2B%2B%2B%2B%2B%2B%2BFT%2B12219/24890279.html"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

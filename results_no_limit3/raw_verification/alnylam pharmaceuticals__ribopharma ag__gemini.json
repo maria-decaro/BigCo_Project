@@ -1,0 +1,20 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Ribopharma AG",
+  "relationship_type": "Merger",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "In July 2003, Alnylam Pharmaceuticals Inc. and Ribopharma AG merged to form Alnylam Holding Co. (now Alnylam Pharmaceuticals, Inc.). According to SEC filings and multiple news reports, the transaction was structured as a merger where shareholders of both privately held companies exchanged their holdings for stakes in the combined entity. Following the merger, Ribopharma AG became a wholly owned subsidiary of the newly formed Alnylam Pharmaceuticals, Inc. and was later renamed Alnylam Europe AG.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1228679/000095013504000845/b48625sv1.htm",
+    "https://www.bioworld.com/articles/385554-rnai-companies-ribopharma-alnylam-merge-raise-246m",
+    "https://www.forbes.com/2003/07/07/cx_mh_0707alnylam.html",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0o8Q3Zb4X3vg2ETct7Aj0Jo_AH1tcOWxDzrODMqeQycPIbfApU9nBhYS0N8Log1Gf3YJvcaDTZn5qkabQCpgANxBRKyiOaE9v-nDP0__qOHT00hisBaNB3xbmxGtHXOIFK2I=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU2aHxSbLF3a6QlDoCmMEQJ4hhRsHCy4xaFs4AhURWJBVKp8nsPTRFzlstHjS4sJkjyqaw1mPpZa3-TdL6SNPIX30LzF6O4n-2Zjn5V6Cs7g3heIH70DUdSTVELuLcpC6AuSsog4hKFAjTaVPOWLTa8nanhbFlQfENHmAKR7cpbaw_-QG1nqXkbclolEQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBr1U1QWAmrGvAEF61-EQ2Ytjahk6Rs6P6Cq7TX5IC0e8EeTIbFfnR1fMdeoZ64E75RTHEQ-Ebe6UHmoKaWFA1dtW6Qck5hZh1Y0C60Wg4eUWAA4klx6Pv-H3rq2gqiuy95dcY1ce59f13mI5dtGyL"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

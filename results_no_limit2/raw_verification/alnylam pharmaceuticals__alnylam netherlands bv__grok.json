@@ -1,0 +1,17 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Netherlands BV",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Multiple SEC filings list Alnylam Netherlands BV as a 100% owned subsidiary of Alnylam Pharmaceuticals Inc. Official company websites and regulatory documents confirm it operates as part of Alnylam.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm",
+    "https://www.alnylam.com/contact-us",
+    "https://assets.publishing.service.gov.uk/media/669e3eacfc8e12ac3edb014f/2023-07-Alnylam-MHRA_IR-redacted.pdf"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

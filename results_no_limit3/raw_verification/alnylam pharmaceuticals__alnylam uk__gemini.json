@@ -1,0 +1,17 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam UK Holdings Ltd.",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam UK Holdings Ltd. is explicitly listed as a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc. in the parent company's SEC filings (Exhibit 21.1). It is incorporated in the United Kingdom and serves as a holding entity for the group's UK operations.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1172340/000117234022000031/alny2021q4exhibit211.htm",
+    "https://find-and-update.company-information.service.gov.uk/company/09956633",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2eauhLZanyuTzvb21b1zd8Bm3F5cWEKNRvFLTuujB3Ox06wGq0Wb6bqtnf_-OZYGqh0bO5dPzaZo6yW-_A-5CNsyGwkS-zDEp_gYEX--SW6rwl4qSLtMvUvnlIx9Hmf3wnFULd2v13vsucxq5AFDn1_q9cr9Tm8ASb4EB9o0G70r9lZXv1ADNFsDITbYbwzEf3yhNew=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

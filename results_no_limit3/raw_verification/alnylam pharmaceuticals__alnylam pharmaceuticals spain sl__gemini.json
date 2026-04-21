@@ -1,0 +1,21 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Pharmaceuticals Spain SL",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals Spain SL is a 100% owned subsidiary of Alnylam Pharmaceuticals Inc. This relationship is explicitly documented in the parent company's SEC filings (Exhibit 21.1, Subsidiaries of the Registrant) and on the company's official global website, which lists the Spanish entity as its local office in Madrid.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1172439/000117243922000010/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/contact-us",
+    "https://www.alnylam.es/",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtl3MStgKfn30x-5MZUgc6HfoMuM5Ui9_6EbBuI-O1_T6XHXeMJZQ5iqWZW4H1Cs0AmwpTcxMf5SHySVTK8oeOW_ABAqA_0cNPIK1Saw8OMILTLMmW44mm4108Bzo27qYathKSDqQsZ6tI5c-2lIQ4hD8bj9a0LF8EYpf0gA6p_yLhCgq9MFhspfHLoQ4WAGQ6oUGEZck=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMNfX3bljY8EcgTIxcBXYQS9lL3vQ1HnhjH6yV4TdlV1zNLCOKdrLMED1DETHf9R87FKNoXKrlQgr8r69jxITVHhq98UEeqzoZqwYyPOFWdn1NY3zyrr_F4LNWWKVqWml_k6SlGpCzPOhw5nkYUfNn0SLX_a-K_oYatPKzH9QA_qpLqxQN4r7yEWu_0nc8PcmdN1dG12WOA0B5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoHcW1ehJyWb2Gw9vHtGTulK0dTla5ivd9R93yX3rgtZXBQ4IkpARiPQp3SAv6t2AXtexjOdXcB8zqjhHV69YebShClhB8gD_PoJunfVfzWJ91h3IV4x06xRUI1-oNFh9qdW40UnIOjcyA2fob4hr5g4JNOztOSYmcWkCxr-fiDdXCDUSTS51rHMtH154=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEevsrdzV-BwIgUZlGDLAEEl_dLPB2pAuOagYwM06bC5LKfPNAS25cKfY1E5z_vKF6QhzPIyKNmt5mDs3FH9axx9J7IfwMbPnjUd5ui2qtNuR_7BRtJEFO_UcWmaMB9"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

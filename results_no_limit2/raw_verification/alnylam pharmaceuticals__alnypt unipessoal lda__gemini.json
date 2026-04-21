@@ -1,0 +1,25 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "ALNYPT Unipessoal LDA",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "ALNYPT Unipessoal LDA is a 100% owned subsidiary of Alnylam Pharmaceuticals Inc, as explicitly listed in the company's SEC filings (Exhibit 21.1) for multiple years, including 2020, 2021, and 2022. It serves as the company's legal entity in Portugal.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000014/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/alnylam-portugal",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGx9nmsnPVIiFmJ_VV_-MfvE__NKPNs1cUiaY0dRfQ4Yr-uWERlbZqi5qeYLZx7T-kuPpGgSGfyxU1FuKBwB6nEC5ufDwOLFOxUucmVqz0H__-YONnsjic_a8lz0bCDkQAcJEaSshOqnSx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENCdMzowyVYyYKue25hyvHzJqpoRIG4nyXN-2x-XrWPSri_GumfmDHoYLJLDRta8Oq_ZtO60isIfQI4FlgtKUXDDaTDYtXUDecaSmoVa7KSPumJRtop-fqCEA1dKF4cy7iA1Tsy7jDpXOx1cKux5JRZc8-2lwgL6l0_DQZqI32BYH_iEYAcHhseXww9jTfqR32453ht9OvSAu_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHRelfI1wjFg95PrxsVJqxW2h4eNSvqCkUx571j08lB50KhMKDTMQTBMxoWEmIgKFkl8aMm6GyfHEA-qnvXFnvRoBI6HdbK4pXFEgn1KcspJoh7EkrWT8HQkK1VbH2zkEpL9wRvHeKHEi7IeeuK38-9UwnX3sv8vf0Ec5lCtMAcZqGrDLB9hBihK6xY1yUZEulUO0X2W3r_qPk",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIiqMasyxlrpLOCFtPQ9yDjAWoV1qIFk7AySo5IMpMAmEKlsKhJMjot5NGxnCvm6mypJiOc6lnPQ84xuVCuhP0xfpqryyeOFxhooxRsjWe0VnRNi9ieU4u4TAQNZ5OlfiiB0jamg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtoMLj2IbV5zuEHy1XBB8eiOowEI0VcPsKPs6em6MQgXcOY-AgLt3lvI4oOHrS1tgtTZDl2CVFkKJbb_FBzL_IDDY6RFyVY4aoX3AxhUFsw-0vkLOF-xwV1gci_pMs0_a-rn1y_mQsssYL3yfRUjZhl2kyonX-cFDp8C43ZhwxHcjSwjn7EJJ3AQ1tsjfcMDYvcI2z764=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU-ObzaxhBMAXUquQi9_P6xXxIQ30GKiWWQLjq7sQ8-fUkJ3r3hHRgXIGEacJcUr24Aii__ZleDJo2qLiN5H3xrfX5lc_pRddLR1XSUJDL4SMAXStFyg-hsjHwlWKNMLXYmWgZfj6YY400KftFAjhSqe8DHwG_Bb93Hxx8Iax2L1ay186T_uu_AkjGDOEzevXGqmAX2W8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoDGeFXDoBNmD8U5-t6XLJNjYJt0tMMF91OXllrAq5UGeW2FViTY6GFGBp_sYpSX8PFvWEatleF71DARzXEpLJztf0dlGjqC_JyPNaOpBO5thiBohvHulzT3qrKwzoB-f8o9CyMVhjytGR3kXFyfAdjNreHbk1n_n1qyFCnODSZPNwt5c6BLPIzvsNsej1tmxEv-R1InUWFOCA",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlvlNj3EvUZ4nEzfgr1swxrcYhi5dm_eGZDzQgp3hzTTf_ew98pm2mJkbHGDNob92YNaJYA4r6ypH-46eoeXBt3JYx9odTnVva01kxDEplfuazbVLSLO6ReLTsM7RmrrkrwWsHdFzMD-bV8kUZZd2Qg0iZZYAJJkrIIv0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHl4az51WvYY-kU4fAfo6OaUKtizqX8vDoDO0xEzUSde97NddVicuJ8z_v0GkI2NXN6_ODcpj1_SFxHHm-R2loqCAdAi7Wsy0C6ZadbpRphpntItfXOoNlOx7cLr0szt8ylfbxyVFBrQs84sf3LNu17bofmgoBUQZxACY16MXvR71iwiV3uxXNTCQbTE0="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

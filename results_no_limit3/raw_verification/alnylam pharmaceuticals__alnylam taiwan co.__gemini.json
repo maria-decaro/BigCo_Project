@@ -1,0 +1,21 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Taiwan Co. Ltd.",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Taiwan Co. Ltd. is a 100% owned subsidiary of Alnylam Pharmaceuticals Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals Inc's SEC filings, specifically Exhibit 21.1 (Subsidiaries of the Registrant) in multiple annual reports (Form 10-K) including those for fiscal years ending 2020, 2021, 2022, and 2024.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000014/alny-ex211_545.htm",
+    "https://www.alnylam.com/sites/default/files/2024-02/2023-alnylam-10k.pdf",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE70TmQnKYtBnwMknUr7hYEdyYkJ69EAxnKmBXv8wttYsGIq0pwDMRJvEixy527RjLzWTOcKURfv5IGofu2BwiA6eQXG76RSeeFwYyXKVBDlxCVzRQbFEt_IlNLMPjX0Ns1tX_9_UBZWmJWive83blyJrF9DaihvmVc07M0dZxGybEAIxQrEtqGlH_A-Yyz963o-IKhg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmBlo5aHNDfj_cJLNURELdBGFDmqZ40a17zCHZiOslt6fqksfr4_UyF6RXRvkxQp3L3EJsLZdx5B1Vj6mhYjKFgJ8AkBS_BKlz7h4Q5L_VzD-qD2PqO9Hh-DNRPFc_PZpGYMsAfiRX50o4NqlxEKbIPjbUcsqKs5D5NV5DRuIg7CVk_TV38YorLegXibx8QtvJ8i0XxcIC_b4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKk2m0MUXbDueEset6rymz-qI5qBSYu1_NHJ7avSYm2h9_UhBYiIUgyomhIBYG1sgNCpwCNRkP3urW_LLyrFCT6K15TJV8xrlOypPXQ4UOq1qN4gVoDWAvEDyk6J01FzNAOr7rEFM2xFmpQHree3ZuhgkmpdIECo1oBpnMM1bVbZDMf3ggyAPC2-sf4mZ-M3w080ca5qTgW60=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdFql5s15l2MsIA2QHLwUuWEJWSwMCV7NTki__mXC1ALesbdZaDoZdb_osRt2z-erWoWUcMQCjKj_m9SQyaUJdxkMTNl_w6gOh3b5W0KTESVK3EUsvaCsriSQ29R5GTAhAQSUw5Y34mujVwxt7JdAvJjfR2I0Hk-agXvOfDfxpMgGQDwleRFBrEqMdpQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8AsoL5t_EVDkG4jOkercvioyp1bBwG1Ebkgp-jomurN_UFkpUbqBUg3OQcfxdakzA95pDg6ZKk3_2ygC_raJ_6qNvHsrVs-Ls7mY2q_PYTt9WTIqv1WMg7XOIv0R98jO6XQqxAs4KuB10QfAcd__UHWjk3NJD76hQSDJB2rSxyLE4olDWGaZOXIgnV0va4A=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

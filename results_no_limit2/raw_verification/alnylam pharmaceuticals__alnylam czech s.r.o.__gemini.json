@@ -1,0 +1,19 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Czech s.r.o.",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Czech s.r.o. is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc., as explicitly listed in the company's SEC filings (Exhibit 21.1, Subsidiaries of the Registrant). The entity is incorporated in the Czech Republic and serves as part of Alnylam's international commercial and operational network.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000008/alny2021q4exhibit211.htm",
+    "https://fintel.io/doc/sec-alnylam-pharmaceuticals-inc-1178670-ex211-2022-february-10-19033-2591",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFIaq2OQis3cFVh5bbOu4JegBU0zP3cERD5wL5u3QPbxZHNqIs8ZbZBq2pVI6jg-IKMQcvGfN2Uj1gFoWyrpfdlceU8KTFaGi4cn0eJsPBYM91qZXTJ4QSE3levrr_JTtHJfuswf2xudyn4fSW6LTBhrEi7nF6dpVMj7ck51GM0gixURplEVFAExcE7pCX0Bg3FHV5_ozV7Ik=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsSmF_tQLQO-TQ1GJ11TOrwcCKZV4UEMA2XyGJf_XopCW_yyUS0UoSd-k2-iwiU2NfK5VJ_5aba3rpjCkiSVxom7wTgZZL1Yc5DnHH1VhOkzgJdmRod-titZrm_k5kyE6O0IqXxw6jMBjx7vb42Mp5dQv-d2tWBlozwL6llzsC0cQ5LhfbcFrqiDar-sk96DA0UPVMng==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED7R6J11YSZg8OAs60XS0e6Mg8Mj__d8aqW076tOBsXaUEB9QwkYLZiYC20k4sxlx4eS_3nY5VnzTy-mVBlEFieuI6IC-PfFvpKelUJnxcYdrVTefAecNOci5QqBPmjH87mTovwRRXMHxDNHBWGx1hdaa5VR9HWFkeJjun1f6M1WPJiZttnXjC_7d0GA=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

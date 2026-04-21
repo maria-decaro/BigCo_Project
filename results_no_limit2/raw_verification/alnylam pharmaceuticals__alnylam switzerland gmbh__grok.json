@@ -1,0 +1,16 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Switzerland GmbH",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Listed as 100% owned subsidiary in Alnylam Pharmaceuticals Inc. SEC filings including EX-21.1 subsidiary list and 10-K exhibits. Operates as International Headquarters in Zug, Switzerland.",
+  "evidence_urls": [
+    "https://fintel.io/doc/sec-alnylam-pharmaceuticals-inc-1178670-ex211-2022-february-10-19033-2648",
+    "https://alnylampharmaceuticalsinc.gcs-web.com/static-files/82c3c96e-1a85-4689-9c31-61bd1c0b391e"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

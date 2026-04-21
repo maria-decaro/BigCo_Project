@@ -1,0 +1,120 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "discoveries": [
+    {
+      "related_company": "Sirna Therapeutics, Inc.",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2014",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Alnylam acquired Sirna Therapeutics from Merck & Co. for approximately $175 million in cash and stock. The deal closed in March 2014, and Sirna remains listed as a 100% owned subsidiary in Alnylam's SEC filings.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000018/alny-ex211_545.htm",
+        "https://www.biospace.com/article/releases/alnylam-pharmaceuticals-announces-closing-of-previously-announced-acquisition-of-merck-and-co-inc-s-sirna-therapeutics-inc-subsidiary-/",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYg91pjc2_UvgBWapnO56Xq6qe-_Hkm1rHd1gwcZ9TM_CZU8fYiyjXp4FHMwhGRoFXV0FUAzrXWW6RWEnsl5yl7xT_9q40Q_5-aj_5aRBo5z-XpZ9PQxS9e6KRjuXc5qENj5-g93FgY4c2gy5pFIdnmb0P0dFALfI93nixhV-i7r96hectjpYAiqLPq7YJtFyc5DGpzTT8vc5FQlPc"
+      ]
+    },
+    {
+      "related_company": "Ribopharma AG",
+      "relationship_type": "Merger",
+      "confidence": 1.0,
+      "event_year": "2003",
+      "source_authority": "high",
+      "recency": "medium",
+      "clarity": "high",
+      "evidence_summary": "Alnylam merged with the German biotechnology company Ribopharma AG in July 2003 to form Alnylam Holding Corp. SEC filings confirm Ribopharma AG became a wholly owned subsidiary following the merger.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1178670/000104746904005645/a2129541zs-1.htm",
+        "https://www.buyoutsinsider.com/alnylam-merges-aims-for-progress/",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYg91pjc2_UvgBWapnO56Xq6qe-_Hkm1rHd1gwcZ9TM_CZU8fYiyjXp4FHMwhGRoFXV0FUAzrXWW6RWEnsl5yl7xT_9q40Q_5-aj_5aRBo5z-XpZ9PQxS9e6KRjuXc5qENj5-g93FgY4c2gy5pFIdnmb0P0dFALfI93nixhV-i7r96hectjpYAiqLPq7YJtFyc5DGpzTT8vc5FQlPc"
+      ]
+    },
+    {
+      "related_company": "Nucleonics, Inc.",
+      "relationship_type": "Acquisition",
+      "confidence": 0.95,
+      "event_year": "2008",
+      "source_authority": "medium",
+      "recency": "low",
+      "clarity": "high",
+      "evidence_summary": "Alnylam acquired Nucleonics, Inc. in December 2008, primarily to consolidate intellectual property assets related to RNAi therapeutics.",
+      "evidence_urls": [
+        "https://tracxn.com/d/companies/alnylam/__S_6_v_Y_X_W_v_Y_X_W_v_Y_X_W_v_Y_X_W",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYg91pjc2_UvgBWapnO56Xq6qe-_Hkm1rHd1gwcZ9TM_CZU8fYiyjXp4FHMwhGRoFXV0FUAzrXWW6RWEnsl5yl7xT_9q40Q_5-aj_5aRBo5z-XpZ9PQxS9e6KRjuXc5qENj5-g93FgY4c2gy5pFIdnmb0P0dFALfI93nixhV-i7r96hectjpYAiqLPq7YJtFyc5DGpzTT8vc5FQlPc"
+      ]
+    },
+    {
+      "related_company": "Alnylam U.S., Inc.",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": "2002",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Wholly owned domestic operating subsidiary of Alnylam Pharmaceuticals, Inc., as disclosed in Exhibit 21.1 of the company's annual reports.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000018/alny-ex211_545.htm",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYg91pjc2_UvgBWapnO56Xq6qe-_Hkm1rHd1gwcZ9TM_CZU8fYiyjXp4FHMwhGRoFXV0FUAzrXWW6RWEnsl5yl7xT_9q40Q_5-aj_5aRBo5z-XpZ9PQxS9e6KRjuXc5qENj5-g93FgY4c2gy5pFIdnmb0P0dFALfI93nixhV-i7r96hectjpYAiqLPq7YJtFyc5DGpzTT8vc5FQlPc"
+      ]
+    },
+    {
+      "related_company": "Alnylam Europe AG",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "A 100% owned subsidiary based in Germany, serving as a key entity for European operations.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000018/alny-ex211_545.htm",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYg91pjc2_UvgBWapnO56Xq6qe-_Hkm1rHd1gwcZ9TM_CZU8fYiyjXp4FHMwhGRoFXV0FUAzrXWW6RWEnsl5yl7xT_9q40Q_5-aj_5aRBo5z-XpZ9PQxS9e6KRjuXc5qENj5-g93FgY4c2gy5pFIdnmb0P0dFALfI93nixhV-i7r96hectjpYAiqLPq7YJtFyc5DGpzTT8vc5FQlPc"
+      ]
+    },
+    {
+      "related_company": "Alnylam UK Limited",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "A 100% owned subsidiary based in the United Kingdom, as disclosed in SEC filings.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000018/alny-ex211_545.htm",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYg91pjc2_UvgBWapnO56Xq6qe-_Hkm1rHd1gwcZ9TM_CZU8fYiyjXp4FHMwhGRoFXV0FUAzrXWW6RWEnsl5yl7xT_9q40Q_5-aj_5aRBo5z-XpZ9PQxS9e6KRjuXc5qENj5-g93FgY4c2gy5pFIdnmb0P0dFALfI93nixhV-i7r96hectjpYAiqLPq7YJtFyc5DGpzTT8vc5FQlPc"
+      ]
+    },
+    {
+      "related_company": "Alnylam Japan KK",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "A 100% owned subsidiary based in Japan, facilitating commercial and clinical activities in the region.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000018/alny-ex211_545.htm",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYg91pjc2_UvgBWapnO56Xq6qe-_Hkm1rHd1gwcZ9TM_CZU8fYiyjXp4FHMwhGRoFXV0FUAzrXWW6RWEnsl5yl7xT_9q40Q_5-aj_5aRBo5z-XpZ9PQxS9e6KRjuXc5qENj5-g93FgY4c2gy5pFIdnmb0P0dFALfI93nixhV-i7r96hectjpYAiqLPq7YJtFyc5DGpzTT8vc5FQlPc"
+      ]
+    },
+    {
+      "related_company": "Alnylam Securities Corporation",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "A 100% owned Massachusetts-based subsidiary of Alnylam Pharmaceuticals, Inc.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000018/alny-ex211_545.htm",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYg91pjc2_UvgBWapnO56Xq6qe-_Hkm1rHd1gwcZ9TM_CZU8fYiyjXp4FHMwhGRoFXV0FUAzrXWW6RWEnsl5yl7xT_9q40Q_5-aj_5aRBo5z-XpZ9PQxS9e6KRjuXc5qENj5-g93FgY4c2gy5pFIdnmb0P0dFALfI93nixhV-i7r96hectjpYAiqLPq7YJtFyc5DGpzTT8vc5FQlPc"
+      ]
+    }
+  ],
+  "provider": "gemini"
+}

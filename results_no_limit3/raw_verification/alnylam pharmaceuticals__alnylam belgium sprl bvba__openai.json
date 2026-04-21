@@ -1,0 +1,31 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Belgium SPRL/BVBA",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.98,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals, Inc.'s SEC Exhibit 21.1 lists 'Alnylam Belgium SPRL/BVBA' as a 100%-owned subsidiary in Belgium. Alnylam's official Belgium country pages also identify Alnylam Belgium as a local Alnylam entity maintained by Alnylam.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000013/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/alnylam-belgium-dutch",
+    "https://www.alnylam.com/alnylam-belgium-french",
+    "https://www.alnylam.com/alnylam-luxembourg-german",
+    "https://www.alnylam.com/sites/default/files/pdfs/Alnylam-Patient-Access-Philosophy-Report.pdf",
+    "https://investors.alnylam.com/node",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312525061427/d899808dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013506007385/b63139ape424b5.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312524083479/d787426dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000115752320001145/a52262204_ex991.htm",
+    "https://www.alnylam.com/about-alnylam/transparency",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000031/alny-20250303.htm",
+    "https://www.alnylam.com/alnylam-luxembourg-french",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000038/alny-20250320.htm",
+    "https://www.alnylam.com/sites/default/files/pdfs/Alnylam-Patient-Access-Philosophy-Report-2021.pdf",
+    "https://pharma.be/nl/over-ons/leden?field_member_activity_target_id=All&field_type_target_id=All&page=4&sort_by=random&start=40&title=",
+    "https://capella.alnylam.com/wp-content/uploads/2025/05/Utility-of-Genetic-Testing-for-Diagnosing-hATTR-Patients_Results-from-a-European-and-Middle-East-Genetic-Testing-Program.pdf"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

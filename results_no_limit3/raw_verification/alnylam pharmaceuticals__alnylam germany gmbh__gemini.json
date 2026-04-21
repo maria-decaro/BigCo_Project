@@ -1,0 +1,20 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Germany GmbH",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Germany GmbH is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals' SEC filings (Exhibit 21.1, 'Subsidiaries of the Registrant'), which list Alnylam Germany GmbH as a subsidiary organized in Germany with 100% ownership by the parent company.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000008/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/contact-us",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVjuGqNjYCD1apziSDDb_hImOqBVxKjhzBe2mjg-fa_qv3yqzZkQ3TvGUUDgI1Fd18Q4ikRmAE86yXMy7xibtR8e-p3lZ9YBiF9WopHujdRhp74YSa_QDbkq6nNZIqHCbAMSGmnfr4JYmNsDziEQkGMCKLQ0yMWm282-zIKpavMzVTeYD519veyvXpqBIGkNhf-dNx8w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLaMz2HKe1fqomIn8uUsWeBtqMNwr9Byi_LJ8IYJ95sda5b7RakS39VCy8PTivuunrFJUDh55aXIFm3L0yoSO2by_cKJkQAkEnaG9OJcBDtm0e6YdAgOOMYsgoOxEyMaDExuxcxM7gl8ihIA4Z2BfRmzhl9Bb4QeMlVKfdLLTQj7Vw-VkLsSL9M6bUagfc4WNmTdwlhB9zxjM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqjAlOWkTmU4Q06KjSi7wvUoRKsXmrHfjfVfUjS_hVy1NV3LlQy_jA_Hdmlsg5QJ1ktLaZR499_UII5E2Pqqp4vNAk_kFGJpXToqOrAa1UpdcLWx7kGput-O-zy2RSlqkxZf7x2r2YrDhT2gBwtV6S5cXc9W2RFJqDG-ydadNClMaT87APKNv_Yozb1w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVxR9ZnI-s8hf8SQCJRXoZymH_C5-kDP4PYPKRKjpKof4sb-K81WIvGkvger85VOu7s3kMyI7kcXGdCilU70JR55nQ02-tikUQS9AYa90U_0WeKAC0a4tJo51fRUDGlk_3tKm6jKhameXfOViWPWN-aTQsMfb-U4FUFNwGTbEqQgbh5gz3PV_9Y1vioLsmyA=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

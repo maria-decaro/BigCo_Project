@@ -1,0 +1,23 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Europe AG",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Europe AG is a 100% wholly owned subsidiary of Alnylam Pharmaceuticals, Inc. It was originally incorporated in Germany in June 2000 as Ribopharma AG and was acquired by Alnylam Pharmaceuticals, Inc. in July 2003. SEC filings (Exhibit 21.1) from 2022 and 2024 consistently list Alnylam Europe AG as a subsidiary of the registrant, Alnylam Pharmaceuticals, Inc.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1228679/000122867922000011/alny2021q4exhibit211.htm",
+    "https://investors.alnylam.com/static-files/8777995a-679a-470a-986a-868686868686",
+    "https://www.greaterzuricharea.com/en/alnylam",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjkDbgubrt-fw3QNVEU9vmhPtwkkurJL3JG2ql9WaNpMFuSXDm0kPryHAkQLKMxOgUeeQjOol1_cTZZ-dRYYjtTedVStDI0tRkBHWk7ItO5ot4qSKRdHm76xToNQBcCE4tocqq7uL3qGmcqIRIJvw8E6okMeshUfxE7q1IN5-RDioXiJs5E7tm7dTa24B6104bP8E-0w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY4h0zug95RmHE_5gwcuFM0dcF1KrDgqMK6jtQCzwXSz-qaRF31UtS-LhdFqjyaL3yiQTYWuZ8bkegz-U0q2wSliWAuP3PbOlTQzld3Vt3QYc4Xt9D5ER4yqX52VxlGXYxN21HnQ6jfBdgEYqq9AhtA1UofzEryDwGucclFQ6OdOpxOE-GV62lMSFztc8R9I-0r44IuIsLKdE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_qsYXECkiJ9gFHboJkuGVbrvVXi1lw4-RYhtQIIlaxt_uZH6HMjlahbCpru7s-x1A-H9SMN3GloLv6Pk2ESXrXerlJBwUMdjhKjnAKAKEhijq9vdxx4A5dJ4fHMG3GokHTqFJcEcJJNHXzLTiJq_LXVb4yiIc81v14NA0Z7b_l3xNYjHB_M_CSZkX6L3O",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmRgqsHm3aHonRHf3nEUaqO00WnhrrR9rbzJrFsEkX2fzUvcIhAPuuBHh_wMqaHL_ThtRft91Bhc7ijdsZq-1B606JGprc7TMCmLkK8NCjyrrNmfKKV_BJTRaimNeoKxYnVRbc8qA2du_jzDXcNlJlp0NA7q04nPNhxtSOqAJ9LuVvNftYuqLoftnNcBNlY_xl0JYX76Bslkc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJWvSkN0xBMKU5U2EtTkje02SHt7vfSTmDuhs2n9QrM5B4tMf9lUCiCHXjpT9wKPUuOAFk4X758ReZOUkYjO2miKttzVOGt-5mZ9ECSyO0VVFgV2vNK5vlOW1zBlI4ENqtTjrSlccbHmnfVgD0TZT9eguJNrUH70owHKPqq2A_57tyoF8vypfhwdepFa2yFA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgvbltJmGtLkSsjSen3hDDzRcj5lI40NfDpuBLWf7NMpGRRH9V4A1jIEpuZ0eshuKtaL71vJsJVa-AwFI4TXlJp2vbpK02-P4KCWB2XRNfG8f_dIeV-H4juea3um4HCZSlQMbd0koXbKsxlO_e_T_S98LWAlKWy_hbOzbyRvz4F18DY3iQzKKkwCORvQ=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

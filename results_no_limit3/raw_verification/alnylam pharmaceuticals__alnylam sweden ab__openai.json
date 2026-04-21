@@ -1,0 +1,32 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Sweden AB",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.96,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Official Alnylam websites identify Alnylam Sweden AB as a local Alnylam entity in Sweden, using Alnylam branding and corporate contact details, indicating it is part of Alnylam Pharmaceuticals' corporate structure rather than a separate partner. No evidence of a merger or acquisition between the two entities was found; the relationship is best characterized as parent-subsidiary.",
+  "evidence_urls": [
+    "https://www.alnylam.com/alnylam-sverige",
+    "https://www.alnylam.com/alnylam-denmark",
+    "https://www.alnylam.com/sites/default/files/pdfs/sweden-2024-methodology_23_apr_2025.pdf",
+    "https://www.alnylam.com/contact-us",
+    "https://www.alnylam.com/about-alnylam",
+    "https://investors.alnylam.com/faq",
+    "https://alnylampolicies.com/",
+    "https://www.alnylam.com/index.php",
+    "https://www.alnylam.com/sites/default/files/pdfs/lx-alnylam-methodNote%202024.pdf",
+    "https://www.alnylam.com/sites/default/files/pdfs/2022%20Alnylam%20Corporate%20Responsibility%20Report.pdf",
+    "https://www.alnylam.com/about-alnylam/alnylam-leadership",
+    "https://www.alnylam.com/our-science/intellectual-property",
+    "https://www.alnylam.com/about-alnylam/transparency-swedish",
+    "https://www.alnylam.com/sites/default/files/2025-04/ALNY_Corp_Backgrounder_ALNYCB04-25.pdf",
+    "https://www.alnylam.com/index.php/about-alnylam/alnylam-leadership",
+    "https://www.alnylam.com/sites/default/files/pdfs/ALNY-Corp-Fact-Sheet.pdf",
+    "https://eu.lekovi.org/sv/h/b4626473/givlaari-v1.php",
+    "https://crowdcomms-prod-media.s3.amazonaws.com/media/documents/a075f9602e324b34a84d07a343c960c7.pdf"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

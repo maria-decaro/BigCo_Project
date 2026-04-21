@@ -1,0 +1,17 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Argentina SRL",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Argentina SRL is a direct subsidiary of Alnylam Pharmaceuticals Inc. According to the parent company's SEC Form 10-K filings (Exhibit 21.1), Alnylam Pharmaceuticals Inc holds a 95% to 100% ownership interest in Alnylam Argentina SRL, which is organized under the laws of Argentina.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000014/alny2021q4exhibit211.htm",
+    "https://investors.alnylam.com/static-files/8098668a-8697-463c-8672-677970867086",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJYShlxyDwHPQXR3ABHS_B8HZuTSadJhpCEvE1UvruHNBZkntZOu7jYaW-qZfGKgzArap1Q0wry6hK66ee-07NL2wXRp3EJGSvgL4KyQUZDyb4Xryynhsw4fv72tEozEWcbqelsDUb0wQwXljbr9Gs-yywkzkJcwgzLIrsMMz_kl_9AsJeJPtvmhXajEGbTLEpREkBUOU="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

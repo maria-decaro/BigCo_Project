@@ -1,0 +1,20 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Canada ULC",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Canada ULC is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals' SEC filings (Exhibit 21.1, 'Subsidiaries of the Registrant'), which list Alnylam Canada ULC as a subsidiary organized in Canada with 100% ownership. Additionally, official company press releases and the corporate website identify Alnylam Canada ULC as the Canadian operational entity for the global biopharmaceutical company headquartered in Cambridge, MA.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000018/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/investors/financial-information/sec-filings",
+    "https://www.alnylam.ca/about-alnylam",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVsQgfoXyCuUdxqBrDVJVdVf5lCOX1_17wVA7fx-097FAtJvNu5ixQJpI_HC6sXxOGphCJWPq1fsa7X2DPZ93oqFku-GWdAkcaK24zXsG1m5A6oJFPTGumaUtd14TbOgT_tLa_OhktJNgOLbTsAJEToYnyS0B84rq0bgRK-p15osEck4jmwi6JHYxAPNNr1o0AlLcwLv0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPMMkljLd92z_w2qZk6O8OnLU5gOeepvCnH5Qo-9MfCWwXxnO_ypOSZH9e3_q1JFrcHPMAsS_B5Cn5UfZM1TQjpktwMNXpDqq3n1ukKWfMxneGANd9vyY79agpiXabk76fZMtwwdGP8pDOJX0rpMD15ZI19G6-c_O_ImbxTihLzBATLm3HR8Wq58OjtPBOMhIFiFsvEKDclg7r",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc_fCqhSOK8umXbYkaPGWJ2H07dZnPUPux7-wFKww7zkjGNPPHumIUAvj6YvLA3tdoRNlAomvhg4Cy8dX2CtsiBF_8IlNxgX1Vd33U7WSFlXlMjcep88AIi6DQ-_OQFFf8OJQZw5wCDvyIPIIf2PkvHLd_CgUZ0myRaYZ7B9HvnJbp3j2yX0_p-vkFkds="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

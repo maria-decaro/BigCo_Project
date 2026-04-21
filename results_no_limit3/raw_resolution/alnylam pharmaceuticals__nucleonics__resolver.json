@@ -1,0 +1,36 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Nucleonics, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.93,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "medium",
+  "evidence_summary": "Official Alnylam SEC filings state that in December 2008 Alnylam acquired the intellectual property assets of Nucleonics, Inc., and describe the patent estate obtained. This supports an acquisition relationship, but specifically an asset/IP acquisition rather than a full company merger or subsidiary relationship.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095012310018222/b78674e10vk.htm",
+    "https://investors.alnylam.com/press-release?id=12981"
+  ],
+  "needs_review": false,
+  "_provider_citations": [
+    "https://www.sec.gov/Archives/edgar/vprr/0901/09010546.pdf",
+    "https://www.sec.gov/Archives/edgar/vprr/1001/10011459.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1136869/000095015209001918/c48761e10vkwpdf.pdf",
+    "https://www.sec.gov/Archives/edgar/data/890465/000113626111000083/form10-k.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013508005476/b71141ape10vq.htm",
+    "https://www.sec.gov/Archives/edgar/data/18230/000110465911008938/a18643-1_form10k2010.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000115752309003613/a5959539ex99_1.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312512053552/d273526d10k.htm",
+    "https://investors.alnylam.com/press-release?id=12981",
+    "https://www.sec.gov/Archives/edgar/data/874015/000110465909047870/a09-18662_110q.htm",
+    "https://www.sec.gov/Archives/edgar/data/1479615/000095017025029129/sln-20241231.htm",
+    "https://www.sec.gov/Archives/edgar/data/874015/000110465908051496/a08-18933_110q.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095012310018222/b78674e10vk.htm",
+    "https://investors.alnylam.com/press-release?id=14271",
+    "https://www.sec.gov/Archives/edgar/data/874015/000104746908002693/a2183558z10-k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1479615/000119312526092591/sln-20251231.htm",
+    "https://www.sec.gov/Archives/edgar/data/1652130/000119312526076550/ntla-20251231.htm"
+  ],
+  "provider": "openai_resolver",
+  "safety_score": 1.0
+}

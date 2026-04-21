@@ -1,0 +1,32 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam UK Holdings Ltd.",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals, Inc.'s recent SEC Exhibit 21.1 lists 'Alnylam UK Holdings Ltd.' under 'Subsidiaries of the Registrant' with 100% ownership in the United Kingdom, indicating it is a wholly owned subsidiary of Alnylam Pharmaceuticals, Inc. Alnylam's official corporate and investor pages also show Alnylam's UK operations as part of the company.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm",
+    "https://investors.alnylam.com/sites/default/files/pdfs/2023-alnylam-annual-report.pdf",
+    "https://investors.alnylam.com/faq",
+    "https://www.alnylam.com/alnylam-uk",
+    "https://www.alnylam.com/about-alnylam",
+    "https://www.alnylam.com/index.php/contact-us",
+    "https://www.alnylam.com/sites/default/files/2023-06/alny-corp-fact-sheet-alnycfs05-23.pdf",
+    "https://www.alnylam.com/sites/default/files/pdfs/ALNY-Corp-Fact-Sheet.pdf",
+    "https://www.alnylam.com/index.php",
+    "https://www.alnylam.com/alnylam-ireland",
+    "https://investors.alnylam.com/sites/default/files/pdfs/ALNY-Corp-Fact-Sheet.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312525061427/d899808dars.pdf",
+    "https://alnylampharmaceuticalsinc.gcs-web.com/static-files/815e66f0-a12f-4c86-8065-8ac5adb0c0e0",
+    "https://www.alnylam.com/about-alnylam/transparency-uk",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013509001458/b73445ape10vk.htm",
+    "https://investors.alnylam.com/ownership-profile",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000020/alny2024q4earningsrelease.htm",
+    "https://www.marketscreener.com/quote/stock/HALEON-PLC-139248469/company-network/"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

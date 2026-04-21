@@ -1,0 +1,29 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam (Bermuda) Ltd.",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals, Inc.'s SEC Form 10-K states that the company comprises Alnylam Pharmaceuticals, Inc. and five wholly owned subsidiaries, explicitly naming Alnylam (Bermuda) Ltd. A later annual report also states that Alnylam's consolidated financial statements reflect the operations of Alnylam and its wholly owned subsidiaries.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312514060913/d653396d10k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312524083479/d787426dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000050/alny-20250501.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000038/pressreleaseforcmapproval.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000115752318000252/a51755200ex99_1.htm",
+    "https://www.sec.gov/Archives/edgar/data/0001178670/000162828026007491/alny2025q4earningsrelease.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312521310422/d240930dex991.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000008/alny2025q1exhibit991.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312512062480/d301850dex991.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000162828026001755/alny2026q1exhibit991.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312525061427/d899808dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000115752324000253/a53896787ex99_1.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312523089638/d418223dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000115752322000494/a52699629ex99_1.htm",
+    "https://www.sec.gov/Archives/edgar/data/0001178670/000119312525199686/d72540d8k.htm"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

@@ -1,0 +1,17 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Ribopharma AG",
+  "relationship_type": "Acquisition",
+  "confidence": 0.7,
+  "source_authority": "high",
+  "recency": "low",
+  "clarity": "medium",
+  "evidence_summary": "Alnylam acquired all shares of Ribopharma AG in July 2003 for cash and stock (per SEC S-1 filing), making it a wholly owned subsidiary; press releases and Wikipedia describe it as a merger.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013504001018/b49404apsv1.htm",
+    "https://www.wsj.com/articles/SB105752103163937200",
+    "https://en.wikipedia.org/wiki/Alnylam_Pharmaceuticals"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}
