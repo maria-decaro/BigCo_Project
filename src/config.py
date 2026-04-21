@@ -6,6 +6,7 @@ load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 XAI_API_KEY = os.getenv("XAI_API_KEY", "")
+GOOGLE_CLOUD_API_KEY = os.getenv("GOOGLE_CLOUD_API_KEY", "")
 
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5.4")
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3-flash-preview") 

@@ -12,6 +12,7 @@ from src.config import (
 )
 from src.prompts import DISCOVERY_PROMPT, VERIFY_PROMPT, RESOLUTION_PROMPT
 from src.providers import get_active_providers
+from src.safe_links import evaluate_link_safety
 
 ROOT = Path(__file__).resolve().parents[1]
 RESULTS_DIR = ROOT / "results"
@@ -72,7 +73,7 @@ class DiscoveryAgent:
                 provider_citations = result.pop("_provider_citations", [])
                 for item in result.get("discoveries", []):
                     existing_urls = item.get("evidence_urls", [])
-                    item["evidence_urls"] = list(dict.fromkeys(existing_urls + provider_citations))
+                    item["evidence_urls"]  = list(dict.fromkeys(existing_urls + provider_citations))
 
                 output_path = RAW_DISCOVERY_DIR / f"{normalize_company_name(seed_company)}__{provider.name}.json"
                 save_json(output_path, result)
@@ -124,11 +125,8 @@ class VerificationAgent:
                 result = provider.generate_json(prompt)
                 print(f"[VERIFICATION RESPONSE RECEIVED] provider={provider.name} seed={seed_company} related={related_company}")
                 result["provider"] = provider.name
-
-                provider_citations = result.pop("_provider_citations", [])
-                for item in result.get("discoveries", []):
-                    existing_urls = item.get("evidence_urls", [])
-                    item["evidence_urls"] = list(dict.fromkeys(existing_urls + provider_citations))
+                result["seed_company"] = seed_company
+                result["related_company"] = related_company
 
                 provider_citations = result.pop("_provider_citations", [])
                 existing_urls = result.get("evidence_urls", [])
@@ -159,6 +157,16 @@ class ConsensusAgent:
         avg_source = sum(score_level(item["source_authority"]) for item in verification_outputs) / len(verification_outputs)
         avg_recency = sum(score_level(item["recency"]) for item in verification_outputs) / len(verification_outputs)
         avg_clarity = sum(score_level(item["clarity"]) for item in verification_outputs) / len(verification_outputs)
+        avg_safety = sum(item.get("safety_score", 1.0) for item in verification_outputs) / len(verification_outputs)
+
+        # run safety
+        all_urls = []
+        for item in verification_outputs:
+            all_urls.extend(item.get("evidence_urls", []))
+
+        safety_result = evaluate_link_safety(all_urls)
+        safe_urls = safety_result["links"]
+        avg_safety = safety_result["safety_score"]
 
         multiplier = 1.0
         if agreement_count == len(verification_outputs):
@@ -174,25 +182,29 @@ class ConsensusAgent:
         if avg_clarity < 2:
             penalty += 0.10
 
+        if avg_safety < 0.9:
+            penalty += 0.05
+        if avg_safety < 0.75:
+            penalty += 0.15
+        if avg_safety < 0.5:
+            penalty += 0.30
+
         final_confidence = max(0.0, min(1.0, (avg_confidence * multiplier) - penalty))
         needs_resolution = (
             agreement_count < len(verification_outputs)
             or final_confidence < CONSENSUS_ACCEPT_THRESHOLD
         )
 
-        all_urls = []
-        for item in verification_outputs:
-            all_urls.extend(item.get("evidence_urls", []))
-
         return {
             "seed_company": verification_outputs[0]["seed_company"],
             "related_company": verification_outputs[0]["related_company"],
             "final_label": majority_label,
             "final_confidence": round(final_confidence, 3),
+            "safety_score": round(avg_safety, 3),
             "agreement_count": agreement_count,
             "num_models": len(verification_outputs),
             "needs_resolution": needs_resolution,
-            "evidence_urls": list(dict.fromkeys(all_urls)),
+            "evidence_urls": list(dict.fromkeys(safe_urls)),
             "model_outputs": verification_outputs,
         }
 
@@ -213,6 +225,15 @@ class ResolutionAgent:
         try:
             result = resolver_provider.generate_json(prompt)
             result["provider"] = f"{resolver_provider.name}_resolver"
+            
+            # run safety
+            urls = result.get("evidence_urls", [])
+            safety_result = evaluate_link_safety(urls)
+            safe_urls = safety_result["links"]
+            avg_safety = safety_result["safety_score"]
+
+            result["evidence_urls"] = safe_urls
+            result["safety_score"] = round(avg_safety, 3)
 
             file_name = (
                 f"{normalize_company_name(seed_company)}__"
@@ -229,6 +250,7 @@ class ResolutionAgent:
                 "related_company": related_company,
                 "relationship_type": "None/Unclear",
                 "confidence": 0.0,
+                "safety_score": 0.0,
                 "source_authority": "low",
                 "recency": "low",
                 "clarity": "low",
@@ -278,8 +300,6 @@ class Orchestrator:
 
             consensus_result = self.consensus_agent.run(verification_outputs)
 
-            consensus_result = self.consensus_agent.run(verification_outputs)
-
             if consensus_result["needs_resolution"]:
                 resolution_result = self.resolution_agent.run(
                     seed_company_value,
@@ -292,16 +312,23 @@ class Orchestrator:
                     or resolution_result["needs_review"]
                 )
 
+                res_urls = resolution_result.get("evidence_urls", [])
+                cons_urls = consensus_result.get("evidence_urls", [])
+                all_urls = res_urls + cons_urls
+
+                safety_score = (resolution_result.get("safety_score", 1.0) * len(res_urls)  + consensus_result.get("safety_score", 1.0) * len(cons_urls)) / len(all_urls) if all_urls else 1.0
+
                 final_rows.append({
                     "seed_company": seed_company_value,
                     "related_company": related_company,
                     "final_label": resolution_result["relationship_type"],
                     "final_confidence": resolution_result["confidence"],
+                    "safety_score": safety_score,
                     "agreement_count": consensus_result["agreement_count"],
                     "num_models": consensus_result["num_models"],
                     "final_status": "needs_human_review" if forced_human_review else "resolved_by_resolution_agent",
                     "needs_human_review": forced_human_review,
-                    "evidence_urls": " | ".join(resolution_result.get("evidence_urls", [])),
+                    "evidence_urls": " | ".join(all_urls),
                     "summary": resolution_result["evidence_summary"],
                 })
             else:
@@ -314,6 +341,7 @@ class Orchestrator:
                     "related_company": related_company,
                     "final_label": consensus_result["final_label"],
                     "final_confidence": consensus_result["final_confidence"],
+                    "safety_score": consensus_result.get("safety_score", 1.0),
                     "agreement_count": consensus_result["agreement_count"],
                     "num_models": consensus_result["num_models"],
                     "final_status": "needs_human_review" if forced_human_review else "accepted_by_consensus",
