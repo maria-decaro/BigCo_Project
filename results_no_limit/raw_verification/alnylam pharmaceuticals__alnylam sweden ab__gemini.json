@@ -1,0 +1,19 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Sweden AB",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Sweden AB is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc., as explicitly listed in the parent company's SEC Form 10-K filings (Exhibit 21.1) for multiple years, including 2021 and 2022. It serves as the company's regional office in Stockholm, Sweden.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000014/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/investors/investor-faqs",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV14kzYSfUTL9uah-1yLi7CoR3ONyWb9Xi5FcIpAAL8Fhq7RfoD4ZC7h--DOQpURBfskwnKUtA8WfkOmC56zMNE2gJt82hI1RFn7JWbAUAWxNKMxdj8T5szLkQSF0nyF2zcMMdd0hCiepYNauN7M3016bgxLpd2hH3UsE9mbO49-UBjd8-VIJfsQVtsiP2-cCM9slbGg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF6zinKPNqEtyXDjmsPaqiRJrWAFqPLTSN7WoNG7Ow_4PU_vh6030xbbpr7BN5L7NaxiOCjYJlCMdsC2xxS-kgNTwQhn6FbSZvyUMySVyCMjM5uu4U6ZbiosDT2aHdOxqUsAcNdwQ7RXQ8H1a7IpmZtFauVqnr839uoV0B2P7XKMHNMeS0bkChEQ9IC7GGoLhc3iJ_udsiNkY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE92JoamlaY_xrx6TFKPBhiu-MS-3rss8iElSeE2VIIZQYAQz9O1XB6SarqeG7Qgwcf_DkSke8QSKiBVNZ7yVyllAEml2xIr-Zj4BZrFoXO8N_NBuOMYZYcDuS8NulEQA=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

@@ -1,0 +1,31 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Canada ULC",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals, Inc.'s recent SEC Exhibit 21 lists Alnylam Canada ULC as a 100%-owned entity in Canada, which is strong official evidence of a parent-subsidiary relationship. Alnylam's Canada website and investor materials also show Alnylam Canada ULC operating as the company's Canadian office/entity.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm",
+    "https://www.alnylam.ca/contact-us",
+    "https://investors.alnylam.com/faq",
+    "https://www.alnylam.ca/sites/default/files/news-articles/amvuttra-canada-press-release-12-16-2025.pdf",
+    "https://www.biotech.ca/news/alnylam-canada-ulc-receives-positive-recommendation-from-canadas-drug-agency-cda-for-the-public-reimbursement-of-amvuttra-vutrisiran-injection-the-first-and-only-rnai-therapeutic-for-th/",
+    "https://www.porphyria.ca/sites/default/files/2024-10/Alnylam_Act_Patient_Brochure_w_PG-AHP.pdf",
+    "https://www.canada.ca/content/dam/hc-sc/documents/services/drugs-health-products/drug-products/drug-product-database/label-safety-assessment-update/lab-safety-rep-rap-eval-etiq-05-2023-eng.pdf",
+    "https://ayondo.com/en/releases/US02043Q1076/alnylam-pharmaceuticals/oxlumo-lumasiran-injection-now-reimbursed-in-canada-for-the-treatment-of-primary-hyperoxaluria-type-1-ph1-in-pediatric-and-adult-patients-20250702C9531",
+    "https://fr.benzinga.com/news/france/general/alnylam-canada-ulc-remporte-la-recommandation-de-remboursement-de-la-cda-pour-amvuttra-dans-la-cardiomyopathie-attr/",
+    "https://alnylampolicies.com/en-ca/privacy",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312525061427/d899808dars.pdf",
+    "https://alnylampharmaceuticalsinc.gcs-web.com/static-files/66c22862-4f85-45e3-84d9-4c58d38057af",
+    "https://www.cda-amc.ca/fr/vutrisiran-0",
+    "https://investors.alnylam.com/node",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867021000024/alny2021q210-qex103.htm",
+    "https://www.sec.gov/Archives/edgar/data/1447028/000119312512479696/d443535dex993.htm",
+    "https://alnylampolicies.com/"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

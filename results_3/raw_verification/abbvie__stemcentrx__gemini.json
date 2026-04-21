@@ -1,0 +1,22 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "Stemcentrx, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "AbbVie Inc. completed the acquisition of Stemcentrx, Inc. on June 1, 2016, for approximately $5.8 billion in cash and stock, with potential milestone payments of up to $4 billion. The transaction was structured as a merger where Stemcentrx became a wholly owned subsidiary of AbbVie. Official SEC filings (Form 8-K and Form 10-K) and AbbVie press releases confirm the completion of the acquisition.",
+  "evidence_urls": [
+    "https://www.abbvie.com/content/dam/abbvie-dotcom/microsoft/investors/8k-stemcentrx-closing.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1551152/000155115216000108/abbv-20160601x8k.htm",
+    "https://news.abbvie.com/news/abbvie-to-expand-oncology-presence-through-acquisition-stemcentrx-and-its-novel-late-stage-rova-t-compound-for-small-cell-lung-cancer.htm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHkTJuVcsAgSd3TmtD314OWWxBfVO_cSl2tZWnRi-I3GU6Agi54e3ztog2__fZo96fY_XH9EndbkAZrPs_TMGd203wrl-s3ZqrSY0JZ418YPq8u9hMj4LBleJcsNnr7ycQInEGy_Ac3jypJHOlsGWREsbRI0ubRM1BJnMy5UiVztSToqfNGcZkDQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU5A3gH6iaFZyBV6wMwVRNgP1OE6gi0owVT30ZBP-t9sElkcIU5ZTAMCKjWHkS-hAIb8lmk_170X42kDNh1WI-BsMm1C61aSYf84ZxamUKfuYBfUHuuT3Kce2S2iJxhjTWK5kE38f6ZtYrqZddCf8Cu5Iuxxn-Zn8mtfOpWT0qiO5kNEUFBUDsEafhAUY_Jg1JdzEFdmjoFZKeeQ17gB4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5avLt6gzTfpTmrNUR1eEyOgBPLngmW9aKUUFp3N-MaDn--SKpV_TlpB8JPTMwZqZ-WuCWIV3LDFz4FylD8EBbEpjT_Fo5gDxAXhNwLjwM6acUtUN0KnFaNfm40gK8VQLchqbMxkPK3esyRCTC-jKTVtkaTnA0sWFiRn3eYSn7XmBLzTQktGAGotfxQQq9iRc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpC98r1NqxBaC6lrYN1h76WQrMxxHLqSU_s5l_4JD8F_Sqch3DkFVMYtPR1U94TYZA6yvtGKyCFIa80AbUDfOic6UR2djNw7K195UdrxgrCcfuQhYuFdLlx3SiG1M23hWHIciDYvmaoUOvISXZV0ioyPopEcBlTnrhMKWHRpYv4iINoiCtu70K5w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDyiIt_6ABS6MAg4v1nVOozt0P3lRl7qX_QH-si-JXvuAUBj0dD8exK4-Mh_kpH2qN3hEheJ1xeeZcvUsc3847mN-UgZF162HfozZpt4-zms3BQ3q59Aw3XZWeL2CgQdbceqHxCPKU6da07rAh35Rm3gvBJQxt-wWzoviwlotYqxW1joZanI0Gv_rheBCGla4oqIE="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

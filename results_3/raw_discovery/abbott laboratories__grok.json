@@ -1,0 +1,61 @@
+{
+  "seed_company": "Abbott Laboratories",
+  "discoveries": [
+    {
+      "related_company": "Exact Sciences",
+      "relationship_type": "Acquisition",
+      "confidence": 0.95,
+      "event_year": "2026",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Abbott completed its acquisition of Exact Sciences in March 2026 for approximately $23B enterprise value. Exact Sciences became a wholly-owned subsidiary focused on cancer screening and diagnostics.",
+      "evidence_urls": [
+        "https://abbott.mediaroom.com/2025-11-20-Abbott-to-acquire-Exact-Sciences,-a-leader-in-large-and-fast-growing-cancer-screening-and-precision-oncology-diagnostics-segments",
+        "https://www.prnewswire.com/news-releases/abbott-completes-acquisition-of-exact-sciences-302722046.html"
+      ]
+    },
+    {
+      "related_company": "St. Jude Medical",
+      "relationship_type": "Acquisition",
+      "confidence": 0.9,
+      "event_year": "2017",
+      "source_authority": "high",
+      "recency": "medium",
+      "clarity": "high",
+      "evidence_summary": "Abbott completed the acquisition of St. Jude Medical in January 2017 for ~$25B, establishing leadership in medical devices. St. Jude Medical became a wholly-owned subsidiary.",
+      "evidence_urls": [
+        "https://abbott.mediaroom.com/2017-01-04-Abbott-Completes-the-Acquisition-of-St-Jude-Medical",
+        "https://abbott.mediaroom.com/2016-04-28-Abbott-to-Acquire-St-Jude-Medical"
+      ]
+    },
+    {
+      "related_company": "Alere",
+      "relationship_type": "Acquisition",
+      "confidence": 0.85,
+      "event_year": "2017",
+      "source_authority": "high",
+      "recency": "medium",
+      "clarity": "high",
+      "evidence_summary": "Abbott acquired Alere in 2017 to become leader in point-of-care testing and advance its diagnostics business. Alere became a subsidiary of Abbott.",
+      "evidence_urls": [
+        "https://abbott.mediaroom.com/2016-02-01-Abbott-to-Acquire-Alere-Becoming-Leader-in-Point-of-Care-Testing-and-Significantly-Advancing-Global-Diagnostics-Presence"
+      ]
+    },
+    {
+      "related_company": "Ross Laboratories",
+      "relationship_type": "Subsidiary",
+      "confidence": 0.8,
+      "event_year": "1964",
+      "source_authority": "high",
+      "recency": "low",
+      "clarity": "high",
+      "evidence_summary": "Ross Laboratories was acquired by Abbott in 1964 and remains a key subsidiary for nutritional products including Similac and Ensure.",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/Abbott_Laboratories",
+        "https://www.abbott.com/about-abbott/our-history.html"
+      ]
+    }
+  ],
+  "provider": "grok"
+}

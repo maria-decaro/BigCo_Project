@@ -1,0 +1,23 @@
+{
+  "seed_company": "Abbott Laboratories",
+  "related_company": "Ross Laboratories",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Abbott Laboratories acquired Ross Laboratories (then known as M&R Dietetic Laboratories) in 1964. Following the acquisition, Ross Laboratories became a wholly owned subsidiary and was integrated as the Ross Products Division of Abbott. In 2007, the division was officially renamed Abbott Nutrition. This acquisition brought major brands like Similac, Pedialyte, and Ensure under the Abbott umbrella.",
+  "evidence_urls": [
+    "https://www.abbott.com/about-abbott/history.html",
+    "https://ch.abbott/en/media/news-media/abbott-nutrition-ohio-heritage.html",
+    "https://www.sec.gov/Archives/edgar/data/1800/000110465905007565/a05-3882_110k.htm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfgC3MYqbnU4MYhKb_YTxDSWRKWHTRfcyQeXMIjuqVwbQCVE1QQisWKBGbxxupXioHgiPv72UJ6vyM5hgFT1-6wjXnIuYvfLhujoWVP0C9Wrf1W7u1Xn3IywDMp8u7k1Bl_7DpWOZYtcWJ1LE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSbrnbd0Sv9nz8mE3MZHygmaF5hmfkPnwdPB5Ix1gvcslO0Ntq0DPdEogNrneULPK7kb4wbhFpWRRcx_9FgFkqk-HfmFavOb1U6yzW8uQA--PqB_s9ZKs537NxEOqZ3DdRPBzI-igQFWsgUXkY-G_6IszExIoTALGZU7STJO1wrm0G5gqZf8zQhH7esc-vaiBuff3qz8ObMisWnwQeJo6H7RQCl7wFxOCscxRm2m1ovJrlgwz7-9dwuG8XDQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcH6QGbP0s5MK-GCHGEKd4tgcIwJ1dPNT8Z3qlcQ5_p3ge-I_DdaSBa8Y2TXSgQVitWZ_DrmnFDjvfQKVoF1qDs_dYmH2U8BXFWIkSvI136bgyMOtGMD8zUhyxDY-Ak_DlY7udezPIAX5d4W9estBRSuJxVTL2GHr5oh0eRw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE94mGatCOdXEitdPZZHu0sNQ0qlXWdkVpTJ1gqT30RRF6I4RFlbyft9KEp9RFU8KTJcyyWaQrD4atRmqaDgf9giGxsGvBYTtDdNr5Cla-TsePb-2ovqJxhAGvtsbsaEIq8dl2z",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9m4XSPB26brPnNk6V5Bs4K8NmIajAOdRFYSxsR9VLBH38etNFYlisUQ5yItsNbwzL-6jmgPl1CJTJI0kIRnBxxfx72TBnkM2fGOX5Lg3tGIozPX1L62axhmbHfEL6yONJPKzHI4iFTiO51skMWbatAULUUa3OKIEMIlA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2FIoP9KGnOSZiXfGnqsksWmz5AehHcNeRmEZl6kKk0ifw3BAoV9fDL0AqRuULq8_AX_QW-I0CEMQZE-IbPG80ZEz_O2A6mpQJ1FfRqzGs5Kg40jpON4dOy2cFPkw1cinbeYZLwQ=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

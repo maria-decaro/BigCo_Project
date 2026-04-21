@@ -1,0 +1,16 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "Stemcentrx, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "AbbVie acquired Stemcentrx in 2016 for $5.8B in cash/stock plus milestones, later integrated as AbbVie Stemcentrx LLC.",
+  "evidence_urls": [
+    "https://news.abbvie.com/2016-04-28-AbbVie-to-Expand-Oncology-Presence-Through-Acquisition-of-Stemcentrx-and-its-Novel-Late-Stage-Rova-T-Compound-for-Small-Cell-Lung-Cancer",
+    "https://www.sec.gov/Archives/edgar/data/1551152/000110465916116276/a16-9837_1ex99d1.htm"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

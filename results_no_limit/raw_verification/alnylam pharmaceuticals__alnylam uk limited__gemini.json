@@ -1,0 +1,21 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam UK Limited",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam UK Limited is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals, Inc.'s SEC filings (Exhibit 21.1, Subsidiaries of the Registrant), which list Alnylam UK Limited as a subsidiary organized in the United Kingdom. Additionally, the company's official website lists the UK entity as a regional office and hub site.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000008/alny-ex211_545.htm",
+    "https://www.alnylam.com/contact-us",
+    "https://fintel.io/doc/sec-alnylam-pharmaceuticals-inc-1178670-ex211-2022-february-10-19033-289",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgoMgpSpYl-sRCxqgOZo1zLYdhVUHPgHJDlDlCxg0M46r10B2cgBT4WLeIq72Xpf7k0Isb1Wa-tE15V7E4uR971X8XkpJ-Y5YodonqBQJPAlyERnPL2B4AgtH-BspA2Af8pcHE_uqyhSODlgjj7EMfVysfeXuRnRt5bOewBZ13hBq2WPw6zYVYHVqAn0G7MBYa17uAQhM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcxAgm6lkuNkSVVBxz5y1U7bajfNKU1eKuCtYi_KYZpMZPW1-dn_w-EXGlrqstmAgBq4sJakZ6IatjfAs4QCn_E7MqvMvD5t194CFO7A9psBSQal4q3GiqnR58FmtXggWhLoNs0qoAFLbDsyA14UwpKrDC_WwWD4dIqDjQ3fDaPY5jw_KUkAGyVBO4kHzH7wVYDfEb2dpLfpYW",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBAyec0DLxuMy2MYqNkK2SP0mx8rts7F7WLCFuFGTlawa6NckbN-WynKDpiBoSWHzzrB6QR88rcdhf8CmFFOKAVEkyv0L8tEDzaT451bAwbbMtfSvyfbS0eclP2CLMqpd0UC_f-kFARufzhE1iRphKHJAvFJz91tKFVQkTDDLj80XufXplJ1lREGWl_yE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp3AA7ekswlDo90wJevvVAahw6Or4N2zm7yUbdcIYYHGGlwYIMo63RKFhE12XPnuqFUL7bQmK0KbR9oGJ-dvJo6aJKYjFl_clXtMJTBu0ehl9wUUo51rW617C1FqS7cN9PkA2eWb79fp3S7J7dTzYDy6NeTX4FH6L8jJR1tb_mYGiNBx3ppmiAoZDUqAsA_wA="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

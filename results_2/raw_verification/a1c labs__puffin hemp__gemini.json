@@ -1,0 +1,21 @@
+{
+  "seed_company": "A1C Labs LLC",
+  "related_company": "Puffin Hemp",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.7,
+  "source_authority": "medium",
+  "recency": "high",
+  "clarity": "medium",
+  "evidence_summary": "A1C Labs LLC and Puffin Hemp are closely linked through their founder, Dr. Emek Blair, and shared intellectual property. A1C Labs LLC is the assignee of patents (e.g., US Patent 11,690,809) related to methods of treatment using cannabidiol, which are hosted on the Puffin Hemp website. While they share a common owner and address in Wellington, CO, there is no explicit public evidence of a formal acquisition, merger, or parent-subsidiary structure between the two specific entities. They appear to be sister companies or separate legal entities under the same control used for different aspects of the business (IP holding vs. manufacturing/brand).",
+  "evidence_urls": [
+    "https://www.puffinhemp.com/wp-content/uploads/2023/07/Patent-US-11690809-B2.pdf",
+    "https://dremekblair.com/",
+    "https://www.puffinhemp.com/",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe-QUB9qwHqrg5nN1YY0RbcqzeO08id1a3-6HL8YC17BDJ6TB3H7SqxGDGWw6_j7nQKlQ89uZDsRIW2X4088jcZLHOm5vU6v8YyL2q76Gj-_iP3LOAQtMLm6p7f6m-6auQZBhP9mbQeFdKdtNGSTTlDtdwOC9cRw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAVixbKWuE26yetoPu0OTJCCnfn_4vJxmp2CmgVFmP5gec-kI8GUbDTOm9HSrfDybHFZcL1VN1jZG4KamdbN6jsNiYv3H_yvcahi5NJpNXxht96QW7UaRdu57orCc9cI8SWCjwQqBf6l3YONcN2AEwp2LaIdiYG4HB83o=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPUJMn9tzhNRJdoHpMVFfayXLixLYSGH3XZwQE_APoPUiWLyVIQyodokDtajIYQaDknVaB_EnHforkT4DcQTLbuk-Al2LtR5VxFGAjTYMoe71AWnCSh1GLfurhF4ssJStI_e529MuPfc3x_shJi1uhGBQOAF4qWauuaIU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFucbS6xeloT9PsGxlb5PSvPdj3uq6Q0V76CuHuhcPfN-YKizenaR7PSNHhEyk6fqMX0_elpTb4ak2rAUStjiC1sQ-RUGOF9l1zPVkcE1BeGbY5p3iR8-d0MxU8hWDGr6VbKw_vX1jirA57NQL3Y5ErpzTcw2nG0NnPrE0="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

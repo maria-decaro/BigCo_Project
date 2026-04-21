@@ -1,0 +1,21 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "Landos Biopharma, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "On May 23, 2024, AbbVie announced the successful completion of its acquisition of Landos Biopharma, Inc. The transaction was executed via a merger agreement where Landos became a wholly owned subsidiary of AbbVie (specifically through AbbVie's subsidiary Bespin Subsidiary, LLC). Landos' common stock was subsequently delisted from the NASDAQ.",
+  "evidence_urls": [
+    "https://news.abbvie.com/2024-05-23-AbbVie-Completes-Acquisition-of-Landos-Biopharma",
+    "https://www.sec.gov/Archives/edgar/data/1785345/000119312524145880/d824335d8k.htm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQRJ1vjsdU_v7vEOsL6MDgCp5l6OpzuXbzjAVwgU8RlxaGKptahLYd7BsCcIR-BsKi2SCcIxgO9mZ2om9WRmtOINqvWcz010xGodXDjkNA3krj-P86t-AcmsPA-ND335j3gj_VJfDUns5m6BW-s3tq3lMHiaNNMBTYi3PqYYtemmXyvPklf8eKABedbwQc",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyLnObp7jxpQPxgFKPHTsM9M7WRt-U3ELTr4Qow-OpViseVw9uN_tEGNhNoiCB_20hrFhy_LdaNA3afmNef06TQp9ztM7eSwgqZfwsCS4bNbhX1MIC4beS_K3y3bnno5Y3EPUbQsiNwWX12Cr14i2QQDEZBiwnh1y_Y2oSWcU88XzqcHBUJmy1MVmS9cBljVRq9KfNvsd-m9u9XC1jkW7mUpJ_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf1oanJfp_f0tPTWHNvgqLqkYjS1JY98ZxFmC-ihiYhS6iddqnHFkadqSpQsCaR3JxuD3TEZZg7yid42CD0406_Rn0YDQGtmDx0vN9MCby0YejyZWv5KdIqMg0EdS9khHjcqnV_N3HyS1QZImBxVQlqBeagqrGg-959wAfti9BB1m0Q5b8HeUJ-TYxuQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeRjUjaPK3dOsGobbJKsNvlh7p93jLR-gS_4cM3aFHx-m0z5poXxdodwE1WDIHdpVOK8dWQSJ-A9Bd0tzQUZ_JiGhdRrqFC3q1VkBnJllvNLkTgkf7hdpc8p6mwGkcGtiNTKbsLhG56Fzn-4iYaAoxxP1_VgN6yOqfSMJdzD30bzgFRoRnyFSvhLg5ZoxSN44_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ5ChDfSf4FOU0TqhUmTwqgokjM73u33QbJKhIRCIklwFGMym0Yy2je9lkrUpHRdCaSC8aLsiyv6KAQSLSUlt-KYac4KPU541Bn99UNXF5r6R3VL2y-fwwC6tAtY7oazwFeSgM4hHfhwsbQwO1sS7k467A6Snsg9uWRRVNeQwY4hmDWlYAxVbqfqyk_vYXxwdyXWj0soOZ0S5iM_PQxVMANe_7Rzpu9vQj"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

@@ -1,0 +1,34 @@
+{
+  "seed_company": "Acadia Pharmaceuticals Inc",
+  "discoveries": [
+    {
+      "related_company": "CerSci Therapeutics",
+      "relationship_type": "Acquisition",
+      "confidence": 0.95,
+      "event_year": "2020",
+      "source_authority": "high",
+      "recency": "medium",
+      "clarity": "high",
+      "evidence_summary": "Acadia acquired all outstanding shares of CerSci Therapeutics in August 2020 for $52.5M in stock plus potential milestones, adding non-opioid pain programs.",
+      "evidence_urls": [
+        "https://acadia.com/en-us/media/news-releases/acadia-pharmaceuticals-acquires-cersci-therapeutics-adds-novel",
+        "https://www.sec.gov/Archives/edgar/data/1070494/000119312526072519/acad-ex21_1.htm"
+      ]
+    },
+    {
+      "related_company": "Levo Therapeutics",
+      "relationship_type": "Acquisition",
+      "confidence": 0.9,
+      "event_year": "2022",
+      "source_authority": "high",
+      "recency": "medium",
+      "clarity": "high",
+      "evidence_summary": "Acadia acquired Levo Therapeutics in June 2022, obtaining worldwide rights to ACP-101 (intranasal carbetocin) for Prader-Willi syndrome.",
+      "evidence_urls": [
+        "https://acadia.com/en-us/media/news-releases/acadia-pharmaceuticals-announces-phase-3-development-candidate",
+        "https://www.biopharmadive.com/news/acadia-prader-willi-trial-levo-deal/652931/"
+      ]
+    }
+  ],
+  "provider": "grok"
+}

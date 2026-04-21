@@ -1,0 +1,21 @@
+{
+  "seed_company": "10xBio LLC",
+  "discoveries": [
+    {
+      "related_company": "Leios Therapeutics, Inc.",
+      "relationship_type": "Merger",
+      "confidence": 0.95,
+      "event_year": "2024",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "10xBio LLC rebranded and transitioned its operations to Leios Therapeutics, Inc. Official press releases from Leios Therapeutics state that the company 'formerly operated as 10xBio, LLC'.",
+      "evidence_urls": [
+        "https://www.leiostherapeutics.com/",
+        "https://www.leiostherapeutics.com/newsroom",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmbnft5oEc2OFAAjUaXKkSldVbLCQBR4mE47Lj91EaN9uDGV-DWAMo0n4bdNMOQDPyq0rc1ru-g_c-8U-S4-iQXsZmEt7yGsAIDUtirpZuy8GqIuYzJVNfCQ=="
+      ]
+    }
+  ],
+  "provider": "gemini"
+}

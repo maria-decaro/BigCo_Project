@@ -1,0 +1,16 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Switzerland GmbH",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Switzerland GmbH is listed as a 100% owned subsidiary of Alnylam Pharmaceuticals Inc in multiple SEC Exhibit 21.1 filings (Subsidiaries of the Registrant) and appears as an official location on the company's website.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000156459019003022/alny-ex211_545.htm",
+    "https://www.alnylam.com/contact-us"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

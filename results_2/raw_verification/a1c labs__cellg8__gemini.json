@@ -1,0 +1,18 @@
+{
+  "seed_company": "A1C Labs LLC",
+  "related_company": "CELLg8",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "A1C Labs LLC is the legal entity and assignee for patents related to the CELLg8 technology. CELLg8 is a registered trademark and brand for a proprietary liposomal delivery system developed by Dr. Emek Blair. Patent filings (e.g., US Patent 11,690,809) explicitly list A1C Labs LLC as the assignee and CELLg8 as the associated technology/trademark. Both entities share the same principal (Dr. Emek Blair) and location (Wellington, CO). In this context, CELLg8 operates as a brand or business unit under the corporate umbrella of A1C Labs LLC.",
+  "evidence_urls": [
+    "https://puffinhemp.com/wp-content/uploads/2023/07/US11690809.pdf",
+    "https://cellg8.com/faq/",
+    "https://valimenta.com/cellg8-technology/",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-b7Mxt8WsDnWSNgaDEoh8atfcYFQUOA-PvaI8dCPgs0yLluS5vEsBaij--Uz3z3LRcOeozuH4G4E39sYmm98G8_V84hRF2wHfeVvuiEVyXk6R48hZeJovZ8CAMxjq0yI00kchKk3EkKCLGbCVDyfHYXqUEYXxAhz5ZS0="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

@@ -1,0 +1,18 @@
+{
+  "seed_company": "A1C Labs LLC",
+  "related_company": "Valimenta Labs",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.8,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "medium",
+  "evidence_summary": "A1C Labs LLC and Valimenta Labs are both part of a 'family' of related companies founded by Dr. Emek Blair in Colorado, which also includes Puffin Hemp and CELLg8. While they share the same founder, headquarters location (Wellington/Fort Collins, CO), and intellectual property (such as the CELLg8 liposomal technology), official reports and patent filings describe them as separate, independent entities. There is no evidence of a formal acquisition, merger, or parent-subsidiary relationship between A1C Labs LLC and Valimenta Labs specifically; they appear to be sister companies or affiliates under common ownership.",
+  "evidence_urls": [
+    "https://www.usmanufacturingreport.com/valimenta-labs",
+    "https://puffinhemp.com/wp-content/uploads/2023/07/US11690809.pdf",
+    "https://valimenta.com/our-story/",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhpLheCWUQCrwfTHD5cIBCTRw3s4ETClRNfv71jVDYpYGhjVTIeIxXEiiX6e3X-NYsHxQRMXhJtcKHM3PdDpqEx4itgyhGGOeBk0EDJZUhQ2CzFzR1kfMu-2cYdjV-0ygYDFEeyHlqSoz6w8V9wLBXTrpkOBrAYZVBpA=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

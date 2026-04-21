@@ -1,0 +1,21 @@
+{
+  "seed_company": "Acadia Pharmaceuticals Inc",
+  "related_company": "CerSci Therapeutics Incorporated",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "On August 24, 2020, Acadia Pharmaceuticals Inc. closed an agreement to acquire all outstanding shares of CerSci Therapeutics for $52.5 million in stock, with potential additional milestone payments of up to $887 million. The acquisition integrated CerSci's non-opioid pain program, including the lead molecule ACP-044, into Acadia's clinical pipeline.",
+  "evidence_urls": [
+    "https://acadia.com/media/news-releases/acadia-pharmaceuticals-acquires-cersci-therapeutics-adds-novel-pain-program-to-portfolio/",
+    "https://www.biospace.com/article/acadia-pharma-acquires-cersci-therapeutics-for-52-million/",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi37RV-W9UFUBk6Hnbj-hDLUMIVat5PX7C_U28alD0Fe0bYIShw312Y-P-SAt02AK2T281EOc4T_xtE7erRm48z6kMvYEvdYuUCXxWeTOXobXY4oL0XnaGEt18K_vCOfaMnHV14W3wBbIxEZzZ9PYN99Q-eJPjtBgU4zYmKFFc_saEga2M41xuhrl_STo6J9ZgW3cegoMwY-536_X_vQ-Tlyno531Q",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4S-Vr6ZLAhqrSu9gspxSB2L9PyAXrHhcO3HR3gYl05EqQU5OTV_OxfhAnlC4jqOyGX3b6TBcRRYrEyvWjdrdSPWwpCcBv4KpLmMjbvekjpOKlxlv4VfQsmnX4mtEGFdC7aQuyp7x7lMdtf9Id5UDKRBjkpT8aZQ_8Cd7tRQIgnMrusyolS9W3Ar331Or3ShhcmL3FFCjMBceBglNqOytlkvmE",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5a3ZyjXXJ949QhMNFcy3a4yXQMuJs-vM-tNkZJ_LrYsApmpX3kioKGuUw6XGGE1yfdB5kRo6-zKWX6584H3Iypqc4m5VlOg4FwNuwN1wsmz-_vU2s8QEd7pToyt9szwWrTEKvtK69HsRmfpm-tGTPon0HL-8uuZawra0LxqPmrf7y9gWObLEH-EOCTx3YQ0CQmDC3H1w=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrQV0ZKgk_Zvu-D_QqOdSGW7a_GMaT4jbvLapuoF0q-WLqR4W3b6h2XCrJN_m1ZLUhOqv56UkZN28GEgV31eGe2FiH0jc0b4Bwq8sZ6f6ez0UCNIfxHRuqvfYe49jWX45BpYWQ8OVf96DwSfwzXC8Ya6QLVcofUCtZUENL8dx6cMFWtbXy9oHc3k7xngBWBQlR_enhhXNdZol2v1jnR0MK-YkVrMuIHjo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvfeDvmbBV15zIHt_Zx8g1p2RrlYstllvNA6hZF9TxMFjH1Oj7EMvX-srzCVuMKvFLokziiz0FvYxwmUz0BGvNEZYAryLwKcOP9Syp2_mx47RlpagUaowpcasgoQudkcBsn45blGu_62eF5gYUzKGTHqzkly8ZEmIin103_2KMGwjsTLF8vlUyZy7XRU41gPh8uodUOzuL_Uh1T4YDCws="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

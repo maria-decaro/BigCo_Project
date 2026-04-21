@@ -1,0 +1,21 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Japan KK",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Japan KK is a 100% owned subsidiary of Alnylam Pharmaceuticals Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals Inc's SEC filings (Exhibit 21.1, 'Subsidiaries of the Registrant'), which list Alnylam Japan KK as a subsidiary organized in Japan with 100% ownership. The company's official website also lists Alnylam Japan KK as its Japanese office.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000007/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/contact-us",
+    "https://www.alnylam.jp/who-we-are",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7-IXZamS4tWalgNaF1bo4nm3TlOMZTUF8hsHUOr9A9Yi0hFymQkKeSUbP35Rc8KXQvyxYgVLWxk6CRVFjO2F_wNbcQL1Zvjzncy9zcm3dyuKsd-vEJI8abeJKgUUJA22jApUrKUyzX01S_V6fY4mx7ZQULisxnPEQToSQNabHzrnJu8241__eh-cmdnL32LTgCXeMSeY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgjxkFhsowakEhRTnDmMnr2Bjzk5vZ94ILqma6TQOH1UMosFMiGo3Q8gZncdPkFDNi0XQl1KThGWxvEUknLSlV15gyBtwll8zywFP_k7L8-1Fz3zq5R4hN7s4Sbt-n0MfNnx0JKVSfGaq8yH41_7XzkRoowao_flbipEq6PbgW5l_v3Cfw18RQEO3DVL-_YwExaWDB1Z9pI4Ve",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6rfEM2bmGgVZ5jjP90yz9ek1Jv4Q6gUCQkEYxN1gVJSq8_bmA0UKsHIucQvRXadoapy_qtVvNTurfHpbd-SgSXDjChPmbfzHDRjvyN2zW7y8G-PHFatM9il2Z2KWxcVFdARDW0OoWDnmxIyMlVcZf03Ow5hu6lF4xz_kWj04fd9z7nqTxwsO2pGCWwSg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERq2JaKjeLvCSDBaEtgT1AbP_GlIQD1ZbLOcC33JFfUhx96rbWPMna1Gj7fvgtfODCyCQWD8qwuy6VMKg25OsiGyn7TnVo8srJhPT6YhZXBP4HD1lcYvxN0Z29vU2tftKMC-Ai--RW9CVHdvMJRSQBrDre39oY0MKJ0ndhd3pv_Wv5_KonkznvYfKzUdjV-3M="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

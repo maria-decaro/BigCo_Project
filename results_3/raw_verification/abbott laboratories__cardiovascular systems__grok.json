@@ -1,0 +1,16 @@
+{
+  "seed_company": "Abbott Laboratories",
+  "related_company": "Cardiovascular Systems, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Abbott completed its acquisition of Cardiovascular Systems, Inc. (CSI) on April 27, 2023, making CSI a wholly owned subsidiary pursuant to a merger agreement.",
+  "evidence_urls": [
+    "https://abbott.mediaroom.com/2023-04-27-Abbott-Completes-Acquisition-of-Cardiovascular-Systems,-Inc",
+    "https://www.prnewswire.com/news-releases/abbott-to-acquire-cardiovascular-systems-inc-301742551.html"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

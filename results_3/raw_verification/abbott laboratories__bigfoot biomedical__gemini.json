@@ -1,0 +1,28 @@
+{
+  "seed_company": "Abbott Laboratories",
+  "related_company": "Bigfoot Biomedical",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Abbott Laboratories announced a definitive agreement to acquire Bigfoot Biomedical on September 5, 2023. The acquisition was officially completed on September 22, 2023, at which point Bigfoot Biomedical became a wholly owned subsidiary of Abbott. The deal integrated Bigfoot's smart insulin management systems with Abbott's FreeStyle Libre continuous glucose monitoring technology.",
+  "evidence_urls": [
+    "https://www.prnewswire.com/news-releases/abbott-completes-acquisition-of-bigfoot-biomedical-301935683.html",
+    "https://abbott.mediaroom.com/2023-09-22-Abbott-Completes-Acquisition-of-Bigfoot-Biomedical",
+    "https://www.bigfootbiomedical.com/abbott-to-acquire-bigfoot-biomedical",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNu_bkyBkfuAQfrTSCGK39xdhFZW2rFxgboA6_IMQ8f7tP9se-ijhtsw0wYzykZ_U9tRKjdAhBvWNvB-l38yWoecfd3JCD6bUdY7yNX8RMZMuR6ayIu9AoBAG2ezcbzbhQgCgHjJA_FUe--BTmQNsakz648cOf4tUB65JzI6tYOFzNJupLfcTMTIeqIFYhurZ7xG4bvbLN2uCZ6HAB_f5qE1jzlg0gVSlhNDRk1hbLS1X0h7mNkwiyB0wsmGkF8D1zuOpkNjswLwgdcl5Qg7LjHsk1tFkcbL_A8385dFHufswAzsuO9mRsw7iba7Bkdg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD27lAAeFNWGs6W5EYJrJ57uITVBcbvsVzc8ZYN_x9QU1s6cpKnZaJuyfjYP2QDzVxF5AYcFYnCjp6oF_zhy98abRnEaRRGQiMBhBAlpaFA21XOOmKIFXPgv-jYlmXA6Y7CYOQ3l3-GmD_4Qhw3hDICANTNTzko_gu2qFv9u4YDLfD-PbHzw9giOw8oQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGYQO0qPjW83U_GTtwdb6LWeX2gnv95gs3yXVy-L5oUY-HYu7tKwMTad_NqXWho8bWXfi8yWKjDcYHmpMHzBAKfKlObwKQkiXsrjELVBTmmul9M7RCa6FlDM2pAD56r0CY6DEcxNUtBP7Cuu-7j1QdO-P2cUAiFzxzvDBskNy-13oHgwBldM35OxdbEzCxvE12eMMv",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3Qvj3a0f262m3QtPFY2dYGmc5qVj_Btifbj92DJJhugqSyXFl8KkovarlLSVREqVGVvw-5YykTaiUWxCvKQAsWsLrlUC732dZaqBe-4v1fgoJ7zWSUblQiW-hOYTgc-WHN9oS11JthsiW8ftszmKcvkOskcp-Th4YOaB9NNI8JcM60V2TLi8pt9XJSQv7tXKyYfo57J2yhC3Dr1oMYNtGmZX5dA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjN0b9ZDavKS7Ntr5QzlgeqLGqeKSZloH00ymDAGHs1JcJwTJs2LEhpSXRoqdlD8499TIzxUFCxy4sYFqRx04A5aLH1XERkQx0Kot0L0TgqYeqUwuOWk4DH7EVWubetTYrYKk3ZAbAq4KivFMdJmwcFwud7htf6TxRc4xc7lHkvqHsYu53BCKVLEMhfB2umSpoSmROTd18_qJH6GqdluXp0G8m",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEemfPGC4TWkvMnrQHgd-i-WO_jrvUSq84I6BjeFUTUtViZGio33sUyMFNvohHprVAM7J5GyZUZk9SegFFfZRgz0vpMmP-Xe0GElydI7xC6MxUzC9NmoaPOmVc8SHLFkCuyReD2JO_bzNfyZPl9V0ASOIm1s8t3ocC_ifEVBdGY4LadjbGsm74uKPIujtECXKuVvnn4",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzM80NrKaXzZot6XXrR92vFssLYj79iYlGEK5-MT3N_Qd9E1V3EXJeTowSd0npVw17zQTvZcpUgOXtfACoZtrc8cvzw-7v-TXy9TXl_I4zLC-98-whjd82ETDuwg7nApSYsZylsOEYC6ftbn05kBdCM8Uqc-5aHoobFXV3PkRmqbSHis9-JQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE24fh24vK2g_K7GqKeadi-RjAnKXTuIRkDAOuCr5zFKXWzUlKDGROWWs3HFUZ0pvafMHEauz4Frj76RYh-oT5bLJXhy3qD3nTf_w9iijnUYxMzJSSyivz8tkUbLq70O9nHe4RiM0EPsFI8LQBeaqOFP20JZz4A4dT42NSXWXlO2DpIsOOpGjYLDumWS1cVUNnLybb742rmDlcwBXDus-_Vi_J0qRW28Ego7otJDjQIY-ZUqE2iRSSFO_yMXJVVowZ5HhKhZWtbdJARgQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIEDHdr-WrA8zEDV9zbz6u-_U5USVN_iTub1nntLGSfw4RyCMTPCUQVT3ICinHSlUY4u1G4RbLY-UQCAuONojwPMqn0hlnKM7PE-R8LnafB3Ltt6ZG-VkMRSIJ1enpBdNdHmiRFCd4Ix6ECbKQTNx_Fm9xiRnXdVopFxciUKNNTK23_PaPXKSxthI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoXzLuZeOZpy4iSsK6dKf3AiPth0vjNY50u1_OJAHd5V56H7Xm0QYEMaA6LCAPHjvqo7I8gmirl9d_knEutUrZCDmmZ37BtaacmcRYEaYp8DBPpgnod9Sr755MpXsqrH9WiN1PcI72bOA0qcBcn6I5kH1u7CYvPk_a17zwrIw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoFdmVCYIO87ICn3bqUmAfkIha7MAlK2XQ0E8bEfsQnRoMtLsODBeHDkCM8qUzYQrDKxwCr09CxVEZGJLA8qQWki3pupjJB_zxVt-u83YJtU5eJ95s62v0zY_LlABlgcAIPmxuWT9dBN2uK5q8YAEr7iink1FyjE_1slht2PbAWJwgC2ATgP_9tjScLovWjqh6HMlz9KisDzfVglLegUII"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

@@ -1,0 +1,32 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Taiwan Co., Ltd.",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals, Inc.'s SEC Exhibit 21.1 (Subsidiaries of the Registrant) lists Alnylam Taiwan Co. Ltd. as a 100%-owned subsidiary in Taiwan, which is direct official evidence of a parent-subsidiary relationship.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm",
+    "https://alnylampharmaceuticalsinc.gcs-web.com/static-files/66c22862-4f85-45e3-84d9-4c58d38057af",
+    "https://www.sec.gov/Archives/edgar/data/889519/000175272424271128/vg_bailliegifford.htm",
+    "https://www.itcn.org.tw/sponsors/",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312525061427/d899808dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867023000005/alny2022q4exhibit1046.htm",
+    "https://www.sec.gov/Archives/edgar/data/874015/000110465913016208/a12-28450_110k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312523194715/d448801dex991.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013506001651/b58496ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013506000280/b58707b5e424b5.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013508005476/b71141apexv10w1.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013507001526/b63620ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1706431/000119312523095234/d114623dars.pdf",
+    "https://www.globaldata.com/company-profile/alnylam-pharmaceuticals-inc/locations/",
+    "https://investors.alnylam.com/faq",
+    "https://www.sec.gov/Archives/edgar/data/1706431/000114036125014316/ef20047565_ars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312523089638/d418223dars.pdf",
+    "https://www.sec.gov/files/investment/13flist2024q1.pdf"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

@@ -1,0 +1,154 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": " start_thought\nThe user wants to verify the relationship between AbbVie Inc and Capstan Therapeutics.\nI need to determine if it's an Acquisition, Merger, Subsidiary, or None/Unclear.\nI will search for news regarding AbbVie and Capstan Therapeutics.\n\nCommon relationships in biotech:\n- Licensing deals\n- Strategic investments\n- Acquisitions\n\nLet's search."
+          },
+          {
+            "text": "{\n  \"seed_company\": \"AbbVie Inc\",\n  \"related_company\": \"Capstan Therapeutics\",\n  \"relationship_type\": \"Acquisition\",\n  \"confidence\": 1.0,\n  \"source_authority\": \"high\",\n  \"recency\": \"high\",\n  \"clarity\": \"high\",\n  \"evidence_summary\": \"AbbVie announced a definitive agreement to acquire Capstan Therapeutics on June 30, 2025, for up to $2.1 billion in cash. The acquisition was officially completed on August 19, 2025. Through this transaction, AbbVie acquired Capstan's proprietary in vivo targeted lipid nanoparticle (tLNP) platform technology and its lead asset, CPTX2309, a Phase 1 in vivo CAR-T therapy candidate for autoimmune diseases.\",\n  \"evidence_urls\": [\n    \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDZZrK1vzXRUcLAsXZet9W8RambPjwcvZbzJ4tpYFQsbZdRLUIswhIdN1TO_XEcTK_40_tQo_wTDUlZfc1b9NADzvKl3PQ-Ua7Yn_RAjnm1TRf8iA5pI9Jg3tvf_SlTz9vFbEBzBiqVHMzote3p7VhnjGA5CclqYrYAOYChCra2bXtHpL1Gr6WqVTcVknCYYIq2w==\",\n    \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG_uv_rqUuECmQpeDeFWFGBcI4mmNyUbMGVXYI-SeuZ44fHm40R-m6JVSkHpRu4mVycgKwMgWed9PS4Kir-QKWjp_99WBlHZ7qJ7tObEOwi97kQQalyyzHedUH1L8BOAhFF63Yyd_tFtpZCFWDNoUwURIBOeEsONl5Pl7baHI-i5AddHbocxoSwP3W5jqttebyrIx9WXpkrkjJMO2nF01KCRXBsCoeuLm5O-PA28-ktRBcvLRHshhWZ3Bt9b9zyajvV7n2xwGVRBBJy-XtnuglBys==\",\n    \"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZVxBT-dS_MV7GzUVe1Mq-nt4_Bn8ddg5nDc8bmsQWbHcvdmvLtICk1OZ1teH6y9mlSjQH-shOZkbDPOAaX7Exl7nmzyXTnvmVdlb9wPha122zT7Fd94NWMOAT8NJzrYCDKdbP8yg79rXOciATfvA6wZZIDoyECY5NwEQwifJvIj5TXzwYKJfaQfWWHJd_ODZm8GhS0A==\"\n  ],\n  \"needs_review\": false\n}",
+            "thoughtSignature": "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"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0,
+      "groundingMetadata": {
+        "searchEntryPoint": {
+          "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpFP2Wxl7t3r-T08EpnqzrAkR5A-I7vNqjIVACx0NYdguQw_q6H5lMeuoD_L28fE76YDEhUdrB2z98uJQ-Y_W7oQeaTWm5yM1tVw1bATz8TY0yO2T02KHJ6p6yxDApsIndAYyyCUE1GRSzq6HM-oRehOSWD-vY8cYcchBGrxg2WuvsKd7fBjTnhYJ3d9EEimWjeQSszrGOn7Ci3cEdL92yRgv_p6T-MQ-G4wDx\">AbbVie investment in Capstan Therapeutics</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS5XPLureDvZ1xHEcjua_H5HGGkUCT-5BUHMU9RVQ0IEqY0-OgjYZkpW1dDYVtmuMmKHMi_WG5AbhDK7amzFgAYYAk6hF8Wm8g08kysJZwToQ2HskmywY0PDx3mR0ctGLyRHPqr31Ys6O0bBvjv7XRPZ0PkO9o4btvY43DEB-CvLxIBWe_kyh6DWnMyEq5x2UAEC3xEpiblMHR7J88im_4ISS6MT7GCjRX58gmaPKj2W3rgcjj8jUn8_El5JumPO_GDl7hcYvC-NF6e4AsLQ==\">AbbVie Inc Capstan Therapeutics relationship acquisition merger subsidiary</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcDUAgPOXW95Guvj0WWz1f9tDEEfdJwYIyS3RgFcB4uLkp2CPZTGQhxxUUm53wUQGiYKgeL5gQvCEQLMSqT2GHP6BdVU3dYJaaHUYWyQKn-TrCAje3_-Cml39qeO1TbvWe1EAxpVjsDrJx57JUB5T2XPpsBqsQ5U4BcNbzjFZMIou-rW5qhmxu8tek9PWoORS4keprsau42Wun9O0TpUqeR2DCOE-y7e7E2A==\">Capstan Therapeutics AbbVie partnership</a>\n  </div>\n</div>\n"
+        },
+        "groundingChunks": [
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMXjZYl4yMydbXJJLa-ZJH9lelpkkzQ_4Wp8zB2k46k-REbeXNJn-3mI-1WDuZgYi9iaFPPPPphiqqJwFi4wPFuExP-1EX70E3uBRJxENVSXPzemv7-PduVON4vzQWLiQvmAcv5yT0y6QtwecO1lhX7AlAOsMNWAoz64hrJz86Pfu5f72rxvmRWSfS9Dxs1-zns6VLZr92EC9OGB3mbqR3hwC8io2T2vTgOSlqYWbwx9DbKZCP4BS58WAUuDGf1saiEqWq",
+              "title": "ropesgray.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHJe2nmO3lTy7vN2mPcUMd8gvnm3jFWE9xXiblx8TITI7celRyYi9Wvi7lE9AdZ4WXMtx3Pv9aeWazLs_gYrYwh6_skGmsjFziRNi6AeUaKzuKBbswjC8kCRJ30eUVg9Gb9wUEKV3fONtdKiKoqrisNTr45rNYHCNQsXLNwGwD6RLl6x-OpYCbAtVE49zT3g==",
+              "title": "upenn.edu"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfsqdE4HMeMJ8fLrIlyePcWsgwBTW0X7LbPYzWUBgRVgKYNbDB7wMnoHc-NntwyUkOtUdEHP74X3W241ULsweiDf7A9GCPopENzpCHVaQn0StqTXB8vHC3N5Tri1N8kcAwU5Y5qxGTkryukA==",
+              "title": "abbvie.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG_uv_rqUuECmQpeDeFWFGBcI4mmNyUbMGVXYI-SeuZ44fHm40R-m6JVSkHpRu4mVycgKwMgWed9PS4Kir-QKWjp_99WBlHZ7qJ7tObEOwi97kQQalyyzHedUH1L8BOAhFF63Yyd_tFtpZCFWDNoUwURIBOeEsONl5Pl7baHI-i5AddHbocxoSwP3W5jqttebyrIx9WXpkrkjJMO2nF01KCRXBsCoeuLm5O-PA28-ktRBcvLRHshhWZ3Bt9b9zyajvV7n2xwGVRBBJy-XtnuglBys=",
+              "title": "abbvie.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNNpeS91r4aXoDqpP9M7eDMjOKaY_A92ToePmQJZK0oG7djGO8kx1vxmb3IVSXw4a_WZ-8zbK6cztGgco6faenmy6JhrNsCO975MLAnK3ppV4JRSr0W533rs-83Q6LzRf1FhjSz5UA5ndOp9VLOY4kEFpBK3i_iPVSH-QJwJGS6ukPrz0YYpnwMC8miD2Ks_cq7mHeZLiMwluq91sE_6AwMu6OWYInTZsJQjj2QqZTyxCyDBukfw==",
+              "title": "cooley.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq8Njl4yd4A5wgr9p0W46rP2E4Sz3W3uIOfA_qo5Ubc9omsMrBmPQ8quUwiUAwW3LddP5aa9knYcbEZgN6CbYvL6GPpRhuL5vy4cQQivsmkrBTrb9cJzgntSQHciMsSr8K2WGPaR9_vzd3RVSDcyegZe5Ksi1UXITaS73IXHNYKNgTGFcPuq7HLW0lEdRBX11oV6ryOm45Y_ScdLaa5sAXpKz6JIOPyeIVDwVw46ZOiHuZN858s0u3SO1jbGaz_A==",
+              "title": "europeanpharmaceuticalreview.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC77d79Xn9c_48wiVf0B-KCWQ_AwTgrCBzw3u3xiCeKOfu_mxoWRwkytkGClUkZo77POuhfWeKCt5fVZafimo9Wfx4fvKn2qsduMn0zdMFNMFcp1YreLQJMRSCOjDAIN1NTl0V5TX2wd9nh_IqqeGC-lotgGvaX4VNlNdaCpeW7UCekLgbZ0Uv_IobycvCED0FzDU2V3IAbD4grSrVTjctPEClve4L3RkVcWCvyhREzQ==",
+              "title": "medcitynews.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZVxBT-dS_MV7GzUVe1Mq-nt4_Bn8ddg5nDc8bmsQWbHcvdmvLtICk1OZ1teH6y9mlSjQH-shOZkbDPOAaX7Exl7nmzyXTnvmVdlb9wPha122zT7Fd94NWMOAT8NJzrYCDKdbP8yg79rXOciATfvA6wZZIDoyECY5NwEQwifJvIj5TXzwYKJfaQfWWHJd_ODZm8GhS0A==",
+              "title": "biopharmadive.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFem5ZWTk4bfnUdehp0w1RM9cQVe1zqB2iCgvoSoYxULiO0wDHyz1cvi4GvdKVUjJnrn3s4C3DIzxWQpR4_dnA-rUR9UnmecpMyIlp0n-nn2IyPX7aVtFgveK5wL0exndNk_IfJ47EpeMUh1Q00BcyyI96MHhJc5kRqUXb4B1jQ9-WgCysl4o28_79uZpw_",
+              "title": "mergerlinks.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUfBH7HzX0AD1EcMV9AjceCg1QDI8h4asSL_IsNsx2wFfyoxwc9bBrrPgqiUPe3kjfmrihvzumpk8Hmpv0-40xkEE3lqFUWL4K3fZWQYPRrIXY14bkBeRBg15EhwRpv3dA3vIG49PUqUjxQERvEAr5Cohuhf1Q5hyha0CZSw==",
+              "title": "racap.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDZZrK1vzXRUcLAsXZet9W8RambPjwcvZbzJ4tpYFQsbZdRLUIswhIdN1TO_XEcTK_40_tQo_wTDUlZfc1b9NADzvKl3PQ-Ua7Yn_RAjnm1TRf8iA5pI9Jg3tvf_SlTz9vFbEBzBiqVHMzote3p7VhnjGA5CclqYrYAOYChCra2bXtHpL1Gr6WqVTcVknCYYIq2w==",
+              "title": "abbvie.com"
+            }
+          }
+        ],
+        "groundingSupports": [
+          {
+            "segment": {
+              "startIndex": 283,
+              "endIndex": 300,
+              "text": "- Licensing deals"
+            },
+            "groundingChunkIndices": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 341,
+              "endIndex": 708,
+              "text": "Let's search.{\n  \"seed_company\": \"AbbVie Inc\",\n  \"related_company\": \"Capstan Therapeutics\",\n  \"relationship_type\": \"Acquisition\",\n  \"confidence\": 1.0,\n  \"source_authority\": \"high\",\n  \"recency\": \"high\",\n  \"clarity\": \"high\",\n  \"evidence_summary\": \"AbbVie announced a definitive agreement to acquire Capstan Therapeutics on June 30, 2025, for up to $2.1 billion in cash."
+            },
+            "groundingChunkIndices": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              0,
+              9
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 709,
+              "endIndex": 769,
+              "text": "The acquisition was officially completed on August 19, 2025."
+            },
+            "groundingChunkIndices": [
+              10,
+              8
+            ]
+          }
+        ],
+        "webSearchQueries": [
+          "AbbVie investment in Capstan Therapeutics",
+          "Capstan Therapeutics AbbVie partnership",
+          "AbbVie Inc Capstan Therapeutics relationship acquisition merger subsidiary"
+        ]
+      }
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 358,
+    "candidatesTokenCount": 748,
+    "totalTokenCount": 3372,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 358
+      }
+    ],
+    "thoughtsTokenCount": 2266
+  },
+  "modelVersion": "gemini-3-flash-preview",
+  "responseId": "--LnaYLjCKiljMcPgvuJCA"
+}

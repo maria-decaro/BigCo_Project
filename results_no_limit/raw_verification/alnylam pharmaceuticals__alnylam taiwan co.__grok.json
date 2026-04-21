@@ -1,0 +1,17 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Taiwan Co., Ltd.",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Listed as 100% owned subsidiary in Alnylam SEC Exhibit 21.1 filings; maintains official localized website under parent company.",
+  "evidence_urls": [
+    "https://www.alnylam.com/alnylam-taiwan",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000156459019003022/alny-ex211_545.htm",
+    "https://fintel.io/doc/sec-alnylam-pharmaceuticals-inc-1178670-ex211-2022-february-10-19033-2648"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

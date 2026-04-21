@@ -1,0 +1,38 @@
+{
+  "seed_company": "A1C Labs LLC",
+  "related_company": "Pulpo LLC",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.82,
+  "source_authority": "medium",
+  "recency": "medium",
+  "clarity": "medium",
+  "evidence_summary": "Available evidence supports that A1C Labs LLC and Pulpo LLC are separate legal entities. The strongest cited linkage is indirect: a patent assigned to A1C Labs LLC reportedly references a CBD product from Pulpo LLC, which suggests possible commercial collaboration, supply, or licensing. However, no official corporate records or authoritative filings provided here establish an acquisition, merger, or parent-subsidiary relationship between them. Because the relationship evidence is indirect and not dispositive, the correct resolution is None/Unclear.",
+  "evidence_urls": [
+    "https://puffinhemp.com/wp-content/uploads/2023/07/US11690809.pdf",
+    "https://patents.justia.com/assignee/a1c-labs-llc",
+    "https://www.coloradosos.gov/CCR/Upload/NoticeOfRulemaking/ProposedRuleAttach2023-00682.pdf"
+  ],
+  "needs_review": true,
+  "_provider_citations": [
+    "https://www.coloradosos.gov/CCR/Upload/NoticeOfRulemaking/ProposedRuleAttach2023-00682.pdf",
+    "https://www.coloradosos.gov/pubs/business/fileAForm.html",
+    "https://www.coloradosos.gov/pubs/business/helpFiles/LLCintro.html",
+    "https://www.coloradosos.gov/biz/emailEntitySummary.do?masterFileId=20071017054&nameTyp=ENT&srchTyp=ENTITY",
+    "https://www.coloradosos.gov/biz/FileDoc.do",
+    "https://www.coloradosos.gov/CCR/Upload/AGORequest/Redline2023-00682.pdf",
+    "https://www.coloradosos.gov/pubs/info_center/training.html",
+    "https://www.coloradosos.gov/CCR/Upload/NoticeOfRulemaking/ProposedRuleAttach2020-00959.pdf",
+    "https://www.coloradosos.gov/notary/pages/public/remoteNotaryList.xhtml",
+    "https://coloradosos.gov/pubs/business/FAQs/entityNames.html",
+    "https://www.coloradosos.gov/pubs/charities/instructions/consultants/registrationLine.html",
+    "https://ptacts.uspto.gov/ptacts/public-informations/petitions/1555296/download-documents?artifactId=gzhvS0HITK8nVl1Mbsf6zsjvlNZzQPKUzjtQBECRpXtgDuQ8Waz13k4",
+    "https://patents.justia.com/assignee/a1c-labs-llc",
+    "https://www.coloradosos.gov/pubs/business/fraudFilingsGroupMembers.html",
+    "https://www.coloradosos.gov/pubs/lobby/opinionsComplaints.html",
+    "https://www.coloradosos.gov/pubs/bingo_raffles/licensees.html",
+    "https://www.coloradosos.gov/CCR/Upload/AGORequest/Redline2020-00959.pdf",
+    "https://ptacts.uspto.gov/ptacts/public-informations/petitions/1536902/download-documents?artifactId=Iq9kEKvoB6FLQyid1T1H9lRUhbty9_EFU841_CVr4MpRHDVMLMrXHOo"
+  ],
+  "provider": "openai_resolver",
+  "safety_score": 1.0
+}

@@ -1,0 +1,30 @@
+{
+  "seed_company": "10xBio LLC",
+  "related_company": "Leios Therapeutics, Inc.",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.93,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "medium",
+  "evidence_summary": "Current official Leios Therapeutics website states that Leios Therapeutics, Inc. 'formerly operated as 10xBio, LLC,' and Leios hosts prior 10xBio press releases and materials for the same lead asset 10XB101. This supports a rebrand/name-change or continuation of the same business, not an acquisition, merger, or parent-subsidiary relationship between two separate companies.",
+  "evidence_urls": [
+    "https://leiostherapeutics.com/",
+    "https://leiostherapeutics.com/press-releases/10xbio-announces-data-from-interim-analysis-of-phase-2b-clinical-trial-showing-superior-efficacy-of-novel-drug-for-submental-body-contouring/",
+    "https://leiostherapeutics.com/press-releases/10xbio-announces-the-completion-of-enrollment-in-phase-2b-clinical-trial-of-novel-drug-for-submental-body-contouring/",
+    "https://leiostherapeutics.com/wp-content/uploads/LeiosTherapeuticsCorporateWebsiteDeck.pdf",
+    "https://platform.dkv.global/mind-map/firms/24119/",
+    "https://jakkgroup.com/",
+    "https://www.crunchbase.com/organization/10xbio",
+    "https://www.linkedin.com/posts/john-dobak-m-d-13bb25a_10xbio-llc-has-been-rebranded-as-leios-therapeutics-activity-7430698567297830913-2ppI",
+    "https://cdek.pharmacy.purdue.edu/org/56966/",
+    "https://www.city-data.com/business-entities/Anaheim-CA-0.html",
+    "https://app.dealroom.co/companies/10xbio",
+    "https://trial.medpath.com/organization/630e13c89b14bb58/10xbio-llc",
+    "https://www.linkedin.com/in/robingarner",
+    "https://10xbio.com/wp-content/uploads/10xBioNonConfidentialPresentation.pdf",
+    "https://www.ipd.gov.hk/hkipjournal/28082020/Patent_28082020.pdf",
+    "https://vwinfoundation.com/wp-content/uploads/2020/04/Goldman-MD-CV-Apr-2020.pdf"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

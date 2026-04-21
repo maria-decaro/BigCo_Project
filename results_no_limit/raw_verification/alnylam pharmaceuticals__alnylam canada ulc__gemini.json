@@ -1,0 +1,20 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Canada ULC",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Canada ULC is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc., as explicitly listed in the parent company's SEC Form 10-K filings (Exhibit 21.1, Subsidiaries of the Registrant). The Canadian entity serves as the regional operational arm for Alnylam's business in Canada, established in June 2018.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1172340/000117234022000028/alny2021q4exhibit211.htm",
+    "https://www.alnylam.ca/about-alnylam",
+    "https://www.biospace.com/article/releases/alnylam-announces-health-canada-approval-of-amvuttra-vutrisiran-the-first-and-only-rnai-therapeutic-for-the-treatment-of-cardiomyopathy-in-adult-patients-with-attr-amyloidosis/",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHt4SECNZR2orIOFc1HejKP3zhpNcpVx2P2ZZuveesYC2FKX5YRnkJMFdnLGO_Rj7vcW5OOYJJFHfZEsfRJP24qw7Ov6gBfJ2RXvU4Avgw8O6B28I4cEsv_gN22a06o1qhvCi0KiNVp1m0Gl_YMj3fZRwLm1Lp5906GQk6FnvL7FCPb7R0_vbVgNOslHJ9AfCX_qeb9RqlxYA7Xg3QciVwJCWLDgpg3UeD0fY-TO2BD7s-80LEkymD0zqWbtYwZWdLaHFTXXCJypB2b7iX7id9YVwGfPX3spJqdsI_2xySxWNDvTVTUqOxO_BD-S8cLxdHX8Dks6xgF4jmoekjUqTWbTQuX9KVBLVwKQ8Od3R8bvQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw0JSO8i1UPErrpZ0H8xc95WlpSJEbivfFOFESH0qD77AtSVZuzoI6CG60g30djspPVSXbWl_zfQaQiWhzAsh07EqV06FttLWD1KGPaEhCvGHSsJnc4O1NmGo6tRGXeEeQARceBSrv4Vt7zWCQd6_TF6H-fuF7ZOT91FT77TKV8uO9l9KYZBLIvE4pn4ltmKysgB8gGC72TiEPyRbKNq9VnjYtpO-44AwOAY7CV7DqsgaTokId8HqiSm-Z-Qu3l0ViCCGcpVlh-Yx6WYqAbUhnIeAEM8EbXYoQTY59y3tQlfSARDbEgc0Bb05YTpPUZgXc66a9WrIWoimPs3R8rYvwj3W1OZ1oObTIIGrqGg331hPU",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv7H-kdT0uQEGfgH0TGuIup5_ACBGfb0oef6YOEXx3fBtidmDAfMuTDTJ_Rgkh3tF6M3ZBSw0zeMYxyGJC54kLJwekp23PSc3MhkfWIFICpfc="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

@@ -1,0 +1,18 @@
+{
+  "seed_company": "10xBio LLC",
+  "related_company": "Leios Therapeutics, Inc.",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Leios Therapeutics, Inc. is the successor entity to 10xBio, LLC. Official company press releases and the corporate website state that Leios Therapeutics 'formerly operated as 10xBio, LLC.' This is a corporate rebranding or name change rather than an acquisition, merger, or subsidiary relationship as defined by the rules. Both entities share the same lead asset (10XB-101) and leadership team (e.g., CEO Ted White and Executive Chair John Dobak).",
+  "evidence_urls": [
+    "https://www.leiostherapeutics.com/",
+    "https://www.biospace.com/article/releases/leios-therapeutics-and-bnc-korea-announce-strategic-collaboration-to-accelerate-development-of-10xb-101-in-south-korea/",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQyEcIhyPGRRUWaBsQt3RxRgAtnWTPgCoet003DByAQ3YPTDyLlWRqBEX3_Z0pS43Dx2NPSmpjZuI0TPeXg3QihGwG6EgytzqYdtvDGZSRLQTa6fClQ_Z5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXsOAkccMy3J_9RV8P8HpSDKBI4kQND5BI069ffZZ-0OLhwuH6qY_DngLdRIIubo2nR0due65Hum998xYtOaD9jK1z9emhPNMNNP2crp3BmOkMERv8UIn76nK6iUorEeHQ7C5OGYxXYwSFCSkdloFy7soGJhFLaRes-3a3Abvh0lgqmhjUCr91S7pLP4AXNmBJXSrC"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

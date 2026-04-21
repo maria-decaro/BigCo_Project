@@ -1,0 +1,16 @@
+{
+  "seed_company": "Acadia Pharmaceuticals Inc",
+  "related_company": "CerSci Therapeutics Incorporated",
+  "relationship_type": "Acquisition",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "ACADIA Pharmaceuticals acquired all outstanding shares of CerSci Therapeutics in Aug 2020 for $52.5M primarily in stock plus potential milestones up to $887M.",
+  "evidence_urls": [
+    "https://acadia.com/en-us/media/news-releases/acadia-pharmaceuticals-acquires-cersci-therapeutics-adds-novel",
+    "https://www.sec.gov/Archives/edgar/data/1070494/000119312520229278/d89886dex991.htm"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

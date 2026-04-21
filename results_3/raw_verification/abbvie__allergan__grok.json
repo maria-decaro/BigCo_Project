@@ -1,0 +1,17 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "Allergan plc",
+  "relationship_type": "Acquisition",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "AbbVie completed its acquisition of Allergan plc in May 2020 for ~$63B via scheme of arrangement; Allergan is now part of AbbVie per official sources.",
+  "evidence_urls": [
+    "https://news.abbvie.com/2020-05-08-AbbVie-Completes-Transformative-Acquisition-of-Allergan",
+    "https://www.abbvie.com/allergan.html",
+    "https://news.abbvie.com/2019-06-25-AbbVie-to-Acquire-Allergan-in-Transformative-Move-for-Both-Companies"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

@@ -1,0 +1,18 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Brasil Farmaceutica Ltda",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Brasil Farmaceutica Ltda is a direct subsidiary of Alnylam Pharmaceuticals Inc. According to official SEC filings (Exhibit 21.1) from 2021, 2022, and 2024, Alnylam Pharmaceuticals Inc holds a 99% ownership interest in the Brazilian entity. The company also maintains a dedicated Brazilian website (alnylam.com.br) which lists the São Paulo office as 'Alnylam Brasil'.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000031/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com.br/contato",
+    "https://fintel.io/doc/sec-alnylam-pharmaceuticals-inc-1178670-ex211-2022-february-10-19033-633",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoMFXJ-EpinKaCMvS995unJC4KadDPE5T0AX42O1djFAjHiL0uGnR4ee4AKvcE4LIdPZmgaA167zW4tmkyJb02gztzFu3mTD8yTUaZ2UKCMWBQbGolWBDLGrmAQ8FTD88YAh48YmBMSnjZsnamovFSBE16fanHfxcheHFezHhM3_Gt2Hh1nf1MWkmf_107jAZwRAoTrPGnr4zV"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

@@ -1,0 +1,32 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "Allergan plc",
+  "relationship_type": "Acquisition",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Official AbbVie press releases and AbbVie SEC filings state that AbbVie completed its acquisition of Allergan plc on May 8, 2020.",
+  "evidence_urls": [
+    "https://news.abbvie.com/2020-05-08-AbbVie-Completes-Transformative-Acquisition-of-Allergan",
+    "https://www.sec.gov/Archives/edgar/data/1551152/000155115221000008/abbv-20201231.htm",
+    "https://www.sec.gov/Archives/edgar/data/1551152/000110465920111687/tm2031835d3_8k.htm",
+    "https://news.abbvie.com/2019-06-25-AbbVie-to-Acquire-Allergan-in-Transformative-Move-for-Both-Companies",
+    "https://news.abbvie.com/2020-05-05-AbbVie-and-Allergan-Receive-Clearance-from-U-S-Federal-Trade-Commission-for-AbbVies-Acquisition-of-Allergan",
+    "https://news.abbvie.com/news/press-releases/news-type/corporate-news/abbvie-to-acquire-allergan-in-transformative-move-for-both-companies.htm",
+    "https://news.abbvie.com/2020-01-08-AbbVie-Announces-Leadership-Team-and-Creation-of-New-Business-Allergan-Aesthetics-Upon-Completion-of-Acquisition",
+    "https://www.sec.gov/Archives/edgar/data/1578845/000156459020022386/agn-10q_20200331.htm",
+    "https://www.sec.gov/Archives/edgar/data/1551152/000110465920061687/tm2019527-1_8ka.htm",
+    "https://news.abbvie.com/2019-06-17-U-S-FDA-Accepts-Allergans-New-Drug-Application-for-Bimatoprost-Sustained-Release-in-Patients-with-Open-Angle-Glaucoma-or-Ocular-Hypertension",
+    "https://news.abbvie.com/2020-01-27-AbbVie-and-Allergan-Announce-Agreements-to-Divest-Brazikumab-and-Zenpep",
+    "https://www.abbvie.com/content/dam/abbvie-dotcom/uploads/PDFs/allergan/abbvie-elt-press-release-1-8-20.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1578845/000156459019040462/agn-10q_20190930.htm",
+    "https://www.abbvie.com/content/dam/abbvie-dotcom/au/documents/ABBV-AGN-Press-Release-Affiliates.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1698530/000169853024000063/exicure10-k2023.pdf",
+    "https://www.abbvie.com/content/dam/abbvie-dotcom/uploads/PDFs/allergan/abbvie-allergan-announcement.pdf",
+    "https://media.allergan.com/actavis/actavis/media/general/Juvederm-ultra-xc-IFU.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1551152/000110465924035573/tm244274d2_ars.pdf"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

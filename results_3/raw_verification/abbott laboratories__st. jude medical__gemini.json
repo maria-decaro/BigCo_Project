@@ -1,0 +1,26 @@
+{
+  "seed_company": "Abbott Laboratories",
+  "related_company": "St. Jude Medical, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Abbott Laboratories completed the acquisition of St. Jude Medical, Inc. on January 4, 2017, for approximately $25 billion. Following the transaction, St. Jude Medical became a wholly-owned subsidiary of Abbott and was subsequently renamed St. Jude Medical, LLC. The acquisition was confirmed by official press releases from Abbott and SEC filings.",
+  "evidence_urls": [
+    "https://www.abbott.com/corpnewsroom/strategy-and-finance/abbott-completes-the-acquisition-of-st-jude-medical.html",
+    "https://www.sec.gov/Archives/edgar/data/203527/000119312517002626/d321558d8k.htm",
+    "https://www.ftc.gov/legal-library/browse/cases-proceedings/161-0126-abbott-laboratories-st-jude-medical-matter",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHukZR5VxOtNSh9pFIgmexHuPKN62B4uRqE9KGNiudDt-PK2DZgsv2ZAL_YjG8dafw0MuXb7zmiDKaxjG6cCUoT1xvFjgwIZK-UGK3AlY5s6FnQtHK6dNbEz0idS0Adzvw1kYvzlX5sBYPNk_nGE3to7rh76Jhukfa3MdtI4k0ywEc_qSfVakADCnaqVnE9DecQG6wRWdM-UlScOI8KMjJfQhhysPx-P3P-62ZDjX6XObghnx6nIsHP_UcDKA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERZ7WzjC-pVEdH1ddVDVm2d0Ofz0UFdCZth3qWpCvMNpt2EDlmsYloTP-tRprTOFWOE81u0ALuXNh0rUN11jaUCP1xZAmYOXMXX1fP6ToihCrBsp5Rz4uSvjunAftvicASeNNW30ruukl5Divk07YlvDNRq5YN_03_i6AT_2BOS2QAOC9-qsKW3o2uKJDP",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbN90sFVdbTQySv0iOvHyUN1g7zhl1b1Ls3mkSXZKseESrHbkBRjz34QolakpqMRO8QOD43Zwt6V6ngUtYlsC7gGVBOwBNnfmV3xnXKQzJPc3VAEUVmaaj03RqtN8KnXJPbFBl1Yw0ceTVfJpcN4Mm-zKc9mJ6t73EhUOotP9Uf8Zaj5jArfLzFwVy_JwnkaRuyXrN5RspH0V3pNNaXXpK29sY94hp",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG_oQLkA7S6ztDXK9nM0_YKLfd9IV9ZlpiPpGX3fmFGtIHThsgqOngpCL0J2MVpuG_WvbOt_67YOJf0a3P17kz5zFEl01j4fX-gY7BJVGO9GO5tqL6-rCnKDVDyNHKFESgwm0aU4OpKB0kyoT3IC3Y1EBfogSKset-RIXtTlpKCw5WzCs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp0D9moa3UnFVHD2sv7E5p9VkV2ZEY0tQDkoqf6QYyUj3vtGx_Zlcj0S3NK1PD2y6BdFd5MSTgVI7fBDoCYUvbI9CP2Ak2c1G_dSlbnI7X-idWfjdzxx9Tym2n4TpQBFK4tplITDvtrg_EL0_C_AdSz3mnEpTM_r21TjUe2F6YEqn-EQ5NmKO_Ng==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpX1tl7IfZp8MTjObvKPAZ-TJAxPS-UM7V0pn6DtY0Vuun2R9dH1YXxlck3Sc5gr87ggmwZxigvHHd-4YhbTa1EmSuZU8fnCp2t7hD3DRzGbQLMevbtT0PDfX0BcKKtPtJcb3ubcQJUWHyDnPcKGth6yT18v4WdmELBijBuJXlAy0oAC5Hg1dMQF7G1KnzPGxf2w3V65Y=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXVt6-Tqs1eS4k8IvC0a__AvVkMRJTRrKzgllJeqWA1YGbFHQz4Krk2j-v7_Rn57NdLiqfewumOftE_CZYngBkJcI9WAcfd2IuQwXqfDXUwKUg1snUUbk4yqrj6ZfzcbmhnIfg5-zks3dsa1z1XzmslM1OYPDLx0qzSkurLYvCBTLdncEaInxc-5x2MQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5-zLIc5DGnNaCLMNLCKerrbxMOOffqEDhpacKBg7EGGFPr5mBIJr9IquiMGFGwB_IDhah24GRzWtAhlOewNjAqRlf_3-MYe0MJAvOJjOit03TcjMXBg5kdf4XynLqx-y3bJ11rM3IR68aizFVqI4QlPeCnx8m3qDt9ON48WcLb8F-bE76S3hg",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6e9gcGmN_oZRLkV6zgoOscb0FhV8laT5fq2UJBd9L3b1CwkOJATBXVeMUWagAStEhzht3g_eKEbqHUi2pDuh9GrPf0ngLlzt5e9pQABwopb_vnd3UIFDib5dWtOQDDNllkuIVgdTblGZelM3VdUheUXGUhieKRfCncKbMTkw8uqM246oyV4wk8oXlRTiBtgVSJzZFUkdCj0DtNQ-NEfibCSUDJW_ztFtw"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

@@ -1,0 +1,21 @@
+{
+  "seed_company": "A1C Labs LLC",
+  "discoveries": [
+    {
+      "related_company": "Pulpo LLC",
+      "relationship_type": "Subsidiary",
+      "confidence": 0.8,
+      "event_year": "2020",
+      "source_authority": "high",
+      "recency": "medium",
+      "clarity": "medium",
+      "evidence_summary": "A1C Labs LLC is the assignee of patents (e.g., US 11,690,809 B2) for products like CELLg8, which are explicitly described in patent filings as being available from Pulpo LLC. Both companies share the same principal (Dr. Emek Blair) and operate from the same geographic area (Wellington/Fort Collins, CO), with Pulpo LLC functioning as the commercial/operational arm for the intellectual property held by A1C Labs LLC.",
+      "evidence_urls": [
+        "https://puffinhemp.com/wp-content/uploads/2023/07/US11690809.pdf",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBNE0DALJFGpBbZJLwFSNyVlTlkfzPqSqNCqKZum4TipTxPncUr6fAarKS5mSbJsZ-DzKTm-H44jqMjw8vqV3mYnl-OKi50jfP4dBBRZ8Jfwg-VzyFumIuLkZfKkZjOLpBydLllgjXSfVKszthuadmLd8_qjExiRh05w==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8wn7FOI-nYbXES8xWuvP150AbGcnZ5JNOgtqALX4wxfdnwiA1WK52OYi8nsFHQBozDU9idTD3eXQdeBEOyl4v-2-VtSVwFzpAsdn8TzejCOclcYfPw3s4ZK1mKEmNkOL5EJeC_yW9VCViINHpK33-jVDnMRUsSf8jgAs="
+      ]
+    }
+  ],
+  "provider": "gemini"
+}

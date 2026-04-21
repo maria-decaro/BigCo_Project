@@ -1,0 +1,21 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Taiwan Co., Ltd.",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Taiwan Co., Ltd. is a 100% owned subsidiary of Alnylam Pharmaceuticals Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals Inc.'s SEC filings (Exhibit 21.1, Subsidiaries of the Registrant) for multiple years, including 2021, 2022, and 2024. The company's official website also lists Taiwan as one of its global locations and refers to the entity as 'Taiwan Alnylam Co., Ltd.' (台灣艾拉倫股份有限公司).",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000005/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/taiwan-zh",
+    "https://investors.alnylam.com/press-release?id=27886",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJTYCVn89jlSkCJ5Cq4JkeSLMErfgLOk-XFrb6T-LjV7IjcrcpSm2pVLsd2ua_DWULsL5vg_HOI3ye5fA8HQCaTdx6BfhvyhQIiBZQA0V1ZNlwv3p14Z7bI0iYJjdk1kHFnbosNPp0v0uxDDXg-Ra30gv9LPE4HFVUdJz3APsRVb7kdkMK5KBscHmFHqZqFy7v37uYvfc5E4Y=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaIUM9-csO0rKYdf9md6G6EQSdhqpNNIQzKC8GUsL3EF29AOiLSfwbCAtfph_qYLLlaZ-Vv0K7G_hcBpSlkmrtubYkY9GhIyvHo2pSa5ktg1VS7fFcK3RPoUbFkjQwu9tVDyUnAiAsB_qTe6FpQF50XJmdc6jiUrbs5zMfN5qll_YKmzkMNQoN82GO3-0vXbhL2aaPvQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC7yxFyF5w4Iye0wIQ21w_eqBlXUU8bkCkw2-_Xo-JwdgJ7e02wYxYzpROzNFN0x9SWx42sSqGz0J0O6FTlADYUetgZtTq13xDKrXVjDqx6Ku6IWBxKbEXZddg34mN7OdR9FOGkX5LASkHhiEUu9ucBWAdaOT8pe-ITsx5Tas77_0C2kOlZAX4b9C6pO_Q-3CTw642kEiLqss=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3UOjUnYf7c6sgOuIgCQUdFxCGk-bcDHQgJUKsjnBlFEhXD7YTsLXmVCIfvfLATQIjscBDyypu94-t_jwvoUNp7m02T_YtKcgLXGQSp3YqN1lJ-Cl44AS1RbdOZ6IZvJX15hpjMhlnsbvChT4yPOA4HYb9ZyNr4BbglxFEuDAU3ccS9bzn_7A3i1TVdQ=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

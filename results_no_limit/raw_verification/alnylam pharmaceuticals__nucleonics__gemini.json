@@ -1,0 +1,27 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Nucleonics, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "In December 2008, Alnylam Pharmaceuticals Inc. acquired the intellectual property assets of Nucleonics, Inc., a privately held biotechnology company. This acquisition included over 100 active patent filings and 15 granted patents worldwide, which Alnylam used to strengthen its fundamental RNAi intellectual property estate. The transaction is documented in Alnylam's SEC filings (e.g., Form 10-K for 2017 and 2020) and official press releases from December 2008.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1228679/000122867918000019/alny-10k_20171231.htm",
+    "https://www.biospace.com/article/releases/alnylam-pharmaceuticals-strengthens-intellectual-property-estate-through-acquisition-of-nucleonics-inc-patent-assets-/",
+    "https://investors.alnylam.com/press-release?id=12356",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuDAUbMn1iXNBYgdUiJ1bMqGfmPHH90hxw9VpUuaHFNNRXP7Pkrj_8o_LT3HQ-2DTxrBp4IkkP72q06UwaL25qmnN2Q1OxZI-wqQPJN0bvCcwnCSwaAW2KXXXdVbe50Tv3Mra1yi392DfIck0EgHOiB-c692NK2OjugPIMfX4pHwCYRkTZ6prbpr_5UrFgcnILIB4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVI-gi09NdlgcLN-s0O9HZyXM-WIPVVwmWL7KaUzs6KwGbOqptbLC4sKvf5g2OFaxVraOvGUGqHK2kOGqPu8vUcC2UsfJP8mDIOjg15JXIQJDNtXLnIEunyQXXjkmJNf-B1hcHkeB-822lCIrxxcNKuElm0KHdboE2XXHb02ht98isz4PcL2wfQq6W8iU8p_e9wnP8UIAN--fJ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfGvogqCYpD3oxVMYUs2hiQxQ3Up6-_aldf1WOgIchLWwHJ86cAQMC75T6fITcYJ9z4J5Tsu62UrOt3NMtXaOUUkc8xjKdDalV-pgFY25GxZMY127SylqDSv8QZFfl4TFVrDiVjI5WT3WIqd3s9SAj3AK91gDURo9uF9iYXOoPm2xXvHxPZVdftXrvVeqPs8y2Cnk5Yq0Bj4-3",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsTN9zRPZTT9_rTVQi7XFJLqLCVhPhcG9X7tac8CdXNta6vOfsvmvyo642GF0rPiXceISC5UXYL_0M2OYDk9SCPhDuVkK0Q9Rr0q1LtzU3rBEOOsV4KQliEC9l4CL2hQVaWpRNEpq91kPfWAdLg7rWJPb7vTyxgjEpul04pnxDJcT5WOTdjtCqjkjAGyU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH_rgtxf5A4_EKuoLv9z1YoEw6IyCc7nmOSwOUxSdvKtdPAUHoAdy8Q09NrvQRs9ZSnrLQVrdPTAMSkjDpW-6eewSaY3xR_VwwU3Syyq5DFQQNrADImTbdY6otSGGdKkEq6b619qOzYAVsgyxyzrIrXRg8c8JmWEI7woi881uu99mIOhIzRvSbGOAmpvk1gg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgAtJl0mQKeX87o7H87v5qmk09yFilZVcZCJoQmP4a4gSEfsj74EtNVu2icE5RH_bGlh8CD2Ctd3qHDGFBaoAeCVB3noBfWoEs4ZkuWJGYbXRlIrNORSiFEDkJnB927361CC-OoFcGkghymP2MxdZjpp3oW7Aep9zIGK2ehTkeBqKp5joVQfQi3hj8SrH0aA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeoHsQnuCOWFHOxGZ38S1FPoDF3ayLnFZQMzXPjs6kdYmLRN8DRSHED8md8KnJxcL3XFCg047SLRZvwITwWsrbEnWlk92wf3cNCF__BdEkG4pjXonE-PDO5oesrHVLHwd8iLmIZYQT9LTucgx_xHvtrOgB30SGemhvm9Yi7FDwhmoI",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI9dLEQ-fhKs6Hp3BrjwgEo4DgINNpf_bMYbvl35bDxaOzsXfnlA09uNWwN944SOa2zGHNRBSnRYzIsa6GRLAnnGvGSD8BOGpGYdCJ2jC8hmiKdwqp8raNLfO3zuQHeNSMTq4PlEgHWph3HeCPnDgU",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5WPUrXHEe6rUUdTmq88hU1KPXmh3_xPNAlrPKKgxUvyjxCph-oWpLx-wxjkRheGNgIGMLapaTUKBizar34VqiW5UEmL828_RRCIuh0A9IGP_j2C0SD7q5-Ct-DJuaiuqL_4JfG0UCzo2qAI2YNORL0YxH",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKHo-4NeM94kw1GzNO_lRWtooyvY5DxFS76tuZ69f4kqHBZF24nJDKxzU1S1qk6X4EbAFgvw9JKYUQXyR_qC9QnaqPnEesGzjyF6tIuLQE3tm_CpbcFguI_Hoi4romSPLBjXrvmTxeNUchaKlQNOdf4JRb1z2i"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

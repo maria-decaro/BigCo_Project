@@ -1,0 +1,19 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "ImmunoGen, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "AbbVie Inc. completed its acquisition of ImmunoGen, Inc. on February 12, 2024, for approximately $10.1 billion in cash. Following the transaction, ImmunoGen became a part of AbbVie and its common stock ceased trading on the NASDAQ. The acquisition was structured as a merger where a subsidiary of AbbVie merged with and into ImmunoGen, with ImmunoGen surviving as a wholly owned subsidiary of AbbVie.",
+  "evidence_urls": [
+    "https://news.abbvie.com/2024-02-12-AbbVie-Completes-Acquisition-of-ImmunoGen",
+    "https://www.sec.gov/ix?doc=/Archives/edgar/data/1551152/000155115224000007/abbv-20240212.htm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwgkgpHHWmLy-Gmlfx3o5ErKB_Ym62FgaejtPWfHqRLjzQRTRn88QqmM2d2Y6A4xadUQlk36__jjyQ4BYTIvaMB-QNByNOO7wM7V-2GvaYGEXd0d2E0Yf-9FYQ6_yybxcZz-hXRTK9FMVYmhjt-Hm1KPmkmwGBY3tv75nP9a4Fg-X3UCZSIZ8gV2_9rBfKJ-cUVMZQA0Hm4wxCCZhpcJb_3ww=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOxGp8vRkztjSdpmvK5VoUK9Zm5XOaK8FkiOkM04v_yvm0tyb0nffxoPfu7XE6KDZkU3zYUaRBs_F7y-onLMEf2RvyWSTQ8SYu6qaD-R4sQlk001AQS2l1-R6-VB_FwLX5ocwJqBwMh4AoynSRBbKnTv5IM4BcRNGteJEKhZKqdFAn2UEdsjumUnvRNZmXkT5RHIfw4tOpr27ASJGH-K7wRh8MK9rMgyowvcAe",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_WWpY8KppLRoRhIhtsUWYrJkfDdjCVm50-UYczP2JRaELHGxG3RyOtmUZNVJHeB6mxaceDaHwEmA_cdja1uTt-X7eZ_XKXqyp1dNC31X-lHOJ4f-sm39-EAet2pLa7HMG6IJVZiuDEPjEThiRtxSHyW2yjtCksEGkykk5choPFt_l-60xmh8="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

@@ -1,0 +1,58 @@
+{
+  "seed_company": "AbbVie Inc",
+  "discoveries": [
+    {
+      "related_company": "ImmunoGen, Inc.",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2024",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "AbbVie completed the acquisition of ImmunoGen on February 12, 2024, for approximately $10.1 billion, adding the ovarian cancer treatment ELAHERE to its oncology portfolio.",
+      "evidence_urls": [
+        "https://news.abbvie.com/2024-02-12-AbbVie-Completes-Acquisition-of-ImmunoGen"
+      ]
+    },
+    {
+      "related_company": "Cerevel Therapeutics",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2024",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "AbbVie completed its acquisition of Cerevel Therapeutics on August 1, 2024, for approximately $8.7 billion to strengthen its neuroscience pipeline.",
+      "evidence_urls": [
+        "https://news.abbvie.com/2024-08-01-AbbVie-Completes-Acquisition-of-Cerevel-Therapeutics"
+      ]
+    },
+    {
+      "related_company": "Landos Biopharma, Inc.",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2024",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "AbbVie completed the acquisition of Landos Biopharma on May 23, 2024, for approximately $137.5 million plus contingent value rights, gaining the lead asset NX-13 for autoimmune diseases.",
+      "evidence_urls": [
+        "https://news.abbvie.com/2024-05-23-AbbVie-Completes-Acquisition-of-Landos-Biopharma"
+      ]
+    },
+    {
+      "related_company": "Celsius Therapeutics, Inc.",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2024",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "AbbVie announced the acquisition of Celsius Therapeutics on June 27, 2024, for $250 million in cash, acquiring its lead investigational asset CEL383 for inflammatory bowel disease.",
+      "evidence_urls": [
+        "https://news.abbvie.com/2024-06-27-AbbVie-Acquires-Celsius-Therapeutics"
+      ]
+    }
+  ],
+  "provider": "gemini"
+}

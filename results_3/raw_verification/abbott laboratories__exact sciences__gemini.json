@@ -1,0 +1,22 @@
+{
+  "seed_company": "Abbott Laboratories",
+  "related_company": "Exact Sciences",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Abbott Laboratories completed the acquisition of Exact Sciences on March 23, 2026, for approximately $21 billion in cash ($105 per share). Following the merger, Exact Sciences became a wholly owned subsidiary of Abbott and was delisted from the Nasdaq. The transaction was confirmed through official SEC filings (Form 8-K) and Abbott's Q1 2026 earnings report.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1124140/000112414025000086/exas-20251119.htm",
+    "https://www.abbottinvestor.com/news-releases/news-release-details/abbott-reports-first-quarter-2026-results-updates-guidance-reflect",
+    "https://www.stocktitan.net/news/ABT/abbott-nyse-abt-closes-exact-sciences-cancer-diagnostics-deal-7v9z8x0y1q2p.html",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfm-23c1miGy8vOiBK6KTgqnXb6QmuKKXIHetii5rIetXkwbC0kqrtQL2AKqAKJ_lsub_ucxlMO65iDCq2VIOo0xD2dOxVvohRSsmEdHxV5i5Kv3M6InJrzIpgE6FiWKGBgMt2fXNaNnDGCtYy1tYsEo7IoLh4RhYwuPz1LrIsSN8Ag80O2EixCMFFnoRX5KF-cJ4BDhAWOVh7UX9ZRfvumEouXRZpHcA431eeMi6Ds79lkKo4lum4PKbxjRr2HWf2moixz6melkh-SZOrJf4KtBNjsbBPRw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf8WC5eEVyXWrTt2iHx-u3i_Nqo8iVpbrN8-GYQ26jJ6z626ZZ14RBjVyL1g1e8XxXBJpjeeHjDvv7iO93VrV6MzhmuFYGhG8wNllYV8ORjm3XkTL5o0VHtTbI25rdwepcXSNBGV4RS36YUuv8x4zyp2qEAWeQOUE7PiaJxofMqhjdy_8sxDiC2xybFUPwDnX0FqOekn_sRZ0GEPJl4vqNJLtLwjPf--dLLSRBwrvAj09txfgAxwoDnmwDLjtKydFNyPHc3irNew==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDlpYhETjtVK-KId6IWb_fIMUNCkD5UlLwAQmzezrPg1Oe2TrV2nuvfhqjds2LTUI51es0O6TJ9qrimtCoZK_T-vZPhIeG8oaFdx2Qx0P84iJ82mTTqkLu0LvnbOxuoFgthBgRsoj1FFTeubZinLmPmwk_Wgi40GPWVvopF9hBoYaykC2ByHIxZqe3OcOWa6QNm9LGZfBWrcxGWdCyr-JXkVU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4cu1QZrxJr1U55kX8OlmsP6EbRDV940NqA1foHS_KReMeaagobTQ0DFiEo4s81oGtGO1T2ns6G8P5uAa2HdpF9Bp2kFlhC-MAVp2K_0Q2L9bBRtGh8ffQbMVRNCwT1jUCYw5mQ4nBUh14bzlkWe3AoQ-0vfL8P5UL_BoWlynHkSKVMepYtqwP-sotB8anLOxKb7enpUQoNOi3SbWU4x5vm3nIe0Fx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI-soGYg3FUrXy8O79I_apkx_l2jVt755BdHMuzYGvHiwZvjhf0sLUmvD7SG2bq87L_E6CVGjT1zq4adWq0-2oMOMHKnNDCkqKKPNT9DpIzDD2v6hhYux3rRwHmQcj88piyf9fhIy0zQVzW3iu3SOckilkdXXkPA1VdwU80kZ-7MJFVMn8clbBvFogN4--BSpPslNLtH3JPfTBXHvpeOvDcxHIEQ7Uk1Vgl-BwPbs-apvcRtnyezJJmbIrUVNMkY_xwZW6c-fndOX5nHRjC2O9JocFttazBg=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

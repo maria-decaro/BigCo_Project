@@ -1,0 +1,17 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Ribopharma AG",
+  "relationship_type": "Merger",
+  "confidence": 0.85,
+  "source_authority": "high",
+  "recency": "low",
+  "clarity": "high",
+  "evidence_summary": "Multiple contemporaneous reports confirm Alnylam and Ribopharma AG completed an all-share merger in July 2003 to advance RNAi therapeutics.",
+  "evidence_urls": [
+    "https://www.wsj.com/articles/SB105752103163937200",
+    "https://www.bioworld.com/articles/470166",
+    "https://en.wikipedia.org/wiki/Alnylam_Pharmaceuticals"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

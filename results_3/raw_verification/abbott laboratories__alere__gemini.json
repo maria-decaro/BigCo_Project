@@ -1,0 +1,25 @@
+{
+  "seed_company": "Abbott Laboratories",
+  "related_company": "Alere",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Abbott Laboratories completed its acquisition of Alere Inc. on October 3, 2017. The transaction was valued at approximately $5.3 billion in equity value (plus the assumption of debt), following an amended agreement that lowered the price from an initial $5.8 billion. Upon completion, Alere became a subsidiary of Abbott, establishing Abbott as a leader in point-of-care diagnostics.",
+  "evidence_urls": [
+    "https://www.abbottinvestor.com/static-files/84687679-064e-473d-998a-78480347686b",
+    "https://abbott.mediaroom.com/2017-09-29-Abbott-Acquisition-of-Alere-Set-to-Close-on-Tuesday-October-3-2017",
+    "https://www.sec.gov/Archives/edgar/data/1145460/000119312517124391/d377484dex991.htm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG67eagPXQeyrAfzLQISLe-ZLNmew80VD5fRxyaJBFO7cHEixXpCywr3Pn7XtLyEB0XBltP5mDMLHUruuyifJF4fR-knFrvUD5LfkfhRCFil5O0vpIiHp2u8_-44lILcOrBROyiU1qip2QaXUtJGZidAUnqBjpuePd9VRajnVMJdRlFeUdakzPoe8fo",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEirRIoT_PzryD9Xapd1eCwaw2qprENiYx3QdnTwd6vw4BjmJTlSmPkWtTeJjJhTp2Kto2m09G4kHi_tJkTH9BATQu70_rp0qcVeOt_cMyzltggQ-Pw66pzy9X_4MRAF94Q1RKGCaifSBJ-zKnhNo9iY0SexFYWU11tz88XlMMyrRPwN61Xa7383yRhYojsVcgweaX_7rigXr1wbUV_DDfRZAb-gsU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeOAoQsQ0MOVmzrxOHanPpx1i1v8Pfd8kxP-_RNHCoypaRvmhZ9aCSiAkd2y3FE-FSkQoqmM2VngVapLOe9y-JdpQPmsWS56FpACKn-c5xn2GJIo__KGr6iHWopKsAHz6dpN10y08NKr812rdWbgNJ6BCSjIoxnhX0kiMwx64kvZMoeq50pvPLFnNCfp4cjKaN-di1tK2tmkvrepXtlWOsUV10jvB-OYQxqR1OM_drYYMcNva9",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIPqlX8AuNFZ0Q5t4f8nPSOqePMrnPdp73PmXwxCtMueHXz80FKLxxptlJ6k1PNtoMzjbHJU8lIMkNbX1uIgVinucfraGAgyCrOmzdj0eETwN-LMwj97Rxuv382015fdn3_iIUNQy3FTp5YRMiNCK-pYbgo74048fi9UZ-D91mbtyDehzVJV15HkWB8pnFrNUKjt5AfaOoeHI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH67FumqrpSznfemqAHR-59ruOGdt6JFguXNFGGwN4LCQAGXSvzWycLrqrUckr4bJ-nS3HIl2iV6XYj9blYrYVM5yCMAfEhf19fZu405XAQ0MkDdHnA4Zybcam8AE8KsFB0lUUwrrZH5aYJzaJbDdAROUHQKQ9Qk_y1xzhWBZqfiC5qT7aLcj06L-VX_rUqVjHgYB4ciEtULaekLLEsR1L6J1ycr4upcPA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGodP0fMnre1bor1l45v6JUVxT15vg-p5RRh1E8GznPDS-AMtCWC5CElYk1Ps4SYcRE6QogWx0EsanwSWsbKxhaUlBdfRKZqxHEC4Ox0OrkbP5Vziv1eFQ99teXD24CEMOshqsiM3Xyqqzi8JFAUU6vlHVgnNc4z8v-AT3658VwW7hTOwHcVNcD0yeNKQPaZ8zSfUIWyb55IVu_Hq6SmKgYA0Zp4FoTOEl1eOD_bJ5nRT1l0eU2gzI-KvliUaGaK77m5hRmXHH0B70aJmqGYq0Lo1XCvumX69iTkq4x",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkHlbm0cmgXGq6sk5QoNhaZ9zzFjV7Q47f58tkcAzT7py-GfIeTwqcaaDQeLzT6Ata5lOALXyYF7rKCN8djMA_K0e2nVx0MltpvR7OS0SLBwtJy_AvPJSpY8wuddqI4lWnhCvn_MTcETOQq40KE1-l3RQS5JhQ355fqAcHLWfBMrKkF_dhcLbozWQscJhdvoTJ7yJfZEZuXaRNgwfS",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHS2WebsTEMlKrHqTMdZqc5HH-I2O-qDkAQ8WL3OPh0hSXumSDgGqkqC7Q5zRAgk2tgg1EgtpBs0z0WMV4B1stXf2CPuSHiTi3f2EcZYARanuxk9Q86v-nPriotPEIRpeeW7vzZUUbrscX8mBqLQlKuSCn7nFwhGb1Ovhzc6QDZqE9NJZvZ0WR"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

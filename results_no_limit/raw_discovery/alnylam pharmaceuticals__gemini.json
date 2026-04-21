@@ -1,0 +1,112 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "discoveries": [
+    {
+      "related_company": "Ribopharma AG",
+      "relationship_type": "Merger",
+      "confidence": 1.0,
+      "event_year": "2003",
+      "source_authority": "high",
+      "recency": "low",
+      "clarity": "high",
+      "evidence_summary": "Alnylam Pharmaceuticals merged with the German biotechnology company Ribopharma AG in July 2003 to form Alnylam Holding Corp. Ribopharma became a wholly owned subsidiary as part of the transaction.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1251920/000119312504030741/ds1.htm",
+        "https://en.wikipedia.org/wiki/Alnylam_Pharmaceuticals"
+      ]
+    },
+    {
+      "related_company": "Sirna Therapeutics, Inc.",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2014",
+      "source_authority": "high",
+      "recency": "medium",
+      "clarity": "high",
+      "evidence_summary": "Alnylam acquired Sirna Therapeutics from Merck & Co. in January 2014 for $175 million in cash and stock. Sirna Therapeutics is maintained as a wholly owned subsidiary.",
+      "evidence_urls": [
+        "https://www.fiercebiotech.com/biotech/alnylam-acquires-investigational-rnai-therapeutic-assets-from-merck",
+        "https://www.sec.gov/Archives/edgar/data/1251920/000125192022000014/alny2021q4exhibit211.htm"
+      ]
+    },
+    {
+      "related_company": "Nucleonics, Inc.",
+      "relationship_type": "Acquisition",
+      "confidence": 0.95,
+      "event_year": "2008",
+      "source_authority": "high",
+      "recency": "low",
+      "clarity": "high",
+      "evidence_summary": "Alnylam acquired Nucleonics, Inc. in December 2008, primarily to consolidate intellectual property related to RNAi therapeutics.",
+      "evidence_urls": [
+        "https://tracxn.com/d/companies/alnylam/__p_f_X_W_vjp5ROSROSqgcH6SbqwFQw84kI8EjmXJxw6Ok4REEPzV4hRr0Kg2FDd9bZvv_0rIvQqpW_a_kWV6QSlgFjpejcXA2gmi401w6sR01LgPFz1mv6Vs1US9N1xn-1uqXPTD8Iow-e863VRjY2NjUPiZbcVFAvZfIeseFUSgTYJMg=="
+      ]
+    },
+    {
+      "related_company": "Alnylam U.S., Inc.",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": "2002",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Alnylam U.S., Inc. is a primary domestic operating subsidiary of Alnylam Pharmaceuticals, Inc., as confirmed in SEC Exhibit 21.1 filings.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1251920/000125192022000014/alny2021q4exhibit211.htm"
+      ]
+    },
+    {
+      "related_company": "Alnylam UK Limited",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Alnylam UK Limited is a wholly owned subsidiary based in the United Kingdom, frequently cited in legal settlements and SEC filings.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1251920/000125192022000014/alny2021q4exhibit211.htm"
+      ]
+    },
+    {
+      "related_company": "Alnylam Europe AG",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Alnylam Europe AG is a wholly owned subsidiary incorporated in Germany, serving as a key entity for European operations.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1251920/000125192022000014/alny2021q4exhibit211.htm"
+      ]
+    },
+    {
+      "related_company": "Alnylam Japan KK",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Alnylam Japan KK is a wholly owned subsidiary established to manage commercialization and clinical development in the Japanese market.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1251920/000125192022000014/alny2021q4exhibit211.htm"
+      ]
+    },
+    {
+      "related_company": "Alnylam Securities Corporation",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "A wholly owned Massachusetts-based subsidiary of Alnylam Pharmaceuticals, Inc. listed in official SEC filings.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1251920/000125192022000014/alny2021q4exhibit211.htm"
+      ]
+    }
+  ],
+  "provider": "gemini"
+}

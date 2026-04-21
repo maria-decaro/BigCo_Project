@@ -1,0 +1,17 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "Celsius Therapeutics, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "AbbVie acquired Celsius Therapeutics for $250M cash in June 2024 per official press release; Celsius is now part of AbbVie.",
+  "evidence_urls": [
+    "https://news.abbvie.com/2024-06-27-AbbVie-Acquires-Celsius-Therapeutics",
+    "https://www.abbvie.com/celsius-therapeutics.html",
+    "https://www.prnewswire.com/news-releases/abbvie-acquires-celsius-therapeutics-302184570.html"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

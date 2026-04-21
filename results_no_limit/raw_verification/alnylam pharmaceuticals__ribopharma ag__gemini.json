@@ -1,0 +1,24 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Ribopharma AG",
+  "relationship_type": "Merger",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "In July 2003, Alnylam Pharmaceuticals Inc. and Ribopharma AG completed an all-stock merger to create a leading entity in RNA interference (RNAi) therapeutics. According to SEC filings and official press releases, the transaction resulted in the formation of Alnylam Holding Co. (now Alnylam Pharmaceuticals, Inc.), with Ribopharma AG becoming a wholly owned subsidiary operating unit in Kulmbach, Germany. The merger was accompanied by a $24.6 million private equity financing round.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1228679/000095013504000904/b48834a1sv1.htm",
+    "https://www.bioworld.com/articles/438313-rnai-companies-ribopharma-alnylam-merge-raise-246m",
+    "https://www.forbes.com/2003/07/07/cx_mh_0707alnylam.html",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3h_YjARqUj_0CJdrddgKIDAXhumEQAX3w74h4Uu5tnFTYg_P2_5eP15N0WP-MLmtKc-lW2HElYyy1VIME87vmwznuKXNPYEjJiR8-2UCva05EHAEvJsUORrl6mwvD9cBt2Fs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE8yre9uEcZ_biLfuD_myDDSSeIaIkmgdtAu4DMOraZ_t6fA1l41PiEadtyOF_x20lSyf1jJAYO3_7nIpYsXpVIvQHoC31VsEclMEq9Yvf4L0lUVK4_pdEkZ7ZhNuLRvDKloixZQI_KPu-cwbC2rqhU9LemCllAq0wz6x72lOMVdLVHHxZbwCARbPntAIcei5djb5RsYDVvau8oiVXnw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmBRu1ISPnGwEqW_ZDgevxkvzi2BCxcTnI0Z6b3kJ9sF18FjFtJA5GqDr1fcsROwNfjP11sC9uKFO4qiI-Zn9R1ColANnja38MW_twkGEuRrWdZN0T1QJhFvrO6XmaJ-UrrRRigDEgpBANWNSQuFdW",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwMu0Qkzni5siSQUNelX5DVTIphbq7QD_w8DN24NP-vEGPHVrZ3HRueGJpenVTe9DAAPH9KPjQ8mDZ_vLrPOVmV5M3zrSPzKK5kempbmkrE-gSWzx3Avyd0pIPi-WlT7-daPP9UDMrIpFD7pkXE4kTSoG7RBRaOcFWN3I=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm5_0FstEVl6W9Uc09tBCaywfNH3_TWgUVaVCpdkQCCRSemnIyBjTjuDvzqRqEvdwlTjSiVngWA0oB_pJvas9Tl7eOwgtBjgB5Z0pu0ryWt-fw0FB9G3KnxsoMOQ-pyw6xIeWzRfkzHzL1mp1m0JR-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMQz3AffLfWY9cmJfk_SHNEd19CF4rFFZJc7JaJtUDoQoWTRtROTXMmxv_MsPKIKOZuQ8WfaU48siDiBKEDYe4Sq37z0SFIAGqKlAFrdLpKfFtBvg7liA-Vw1mU5ycgW4hyaAJ-iDPUyyjZMM0vSk8QuAGTe9NKi0SoP5C-QA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZIVQYU-UGUfVlfVe4UR8Rfb1NVhgk0GyJ1MUB7AxdckuQZZ41rEwD8SJKUeL0mb0ySHr9kw1ZJZoomxE1sr3CpfCRW9a4BgAEx78zeAxKXNluVLpD4BddS2OC78HyEkNqUjXJ0vbX-BLZVHkF55nVrx7lLxpVZCNscspN9uar"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

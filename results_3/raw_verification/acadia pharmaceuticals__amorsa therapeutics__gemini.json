@@ -1,0 +1,17 @@
+{
+  "seed_company": "Acadia Pharmaceuticals Inc",
+  "related_company": "Amorsa Therapeutics Inc.",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Amorsa Therapeutics Inc. is listed as a subsidiary of Acadia Pharmaceuticals Inc. in Acadia's official SEC filings, specifically Exhibit 21.1 (List of Subsidiaries) in their 2022 and 2026 annual reports. Additionally, patent records show Amorsa Therapeutics as an assignor to Acadia Pharmaceuticals, further confirming the integration of their intellectual property and corporate structure.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1070494/000107049422000014/ex-211.htm",
+    "https://fintel.io/doc/sec-acadia-pharmaceuticals-inc-1070494-ex211-2022-march-01-19052-4467",
+    "https://patents.google.com/patent/AU2015343083B2/en"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

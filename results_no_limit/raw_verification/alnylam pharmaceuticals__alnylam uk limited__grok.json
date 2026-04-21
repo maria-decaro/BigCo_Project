@@ -1,0 +1,16 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam UK Limited",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam UK Limited is a 100% owned subsidiary of Alnylam Pharmaceuticals Inc per SEC Exhibit 21.1 subsidiary listing and UK Companies House significant control filing.",
+  "evidence_urls": [
+    "https://fintel.io/doc/sec-alnylam-pharmaceuticals-inc-1178670-ex211-2022-february-10-19033-2648",
+    "https://find-and-update.company-information.service.gov.uk/company/08871372/persons-with-significant-control"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

@@ -1,0 +1,26 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "Celsius Therapeutics, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "On June 27, 2024, AbbVie announced the acquisition of Celsius Therapeutics, Inc. for $250 million in cash. Under the terms of the agreement, AbbVie acquired all outstanding equity of Celsius, a privately held biotechnology company specializing in inflammatory disease therapies. The deal was centered on Celsius' lead asset, CEL383, an anti-TREM1 antibody for the treatment of inflammatory bowel disease (IBD).",
+  "evidence_urls": [
+    "https://news.abbvie.com/2024-06-27-AbbVie-Acquires-Celsius-Therapeutics",
+    "https://www.prnewswire.com/news-releases/abbvie-acquires-celsius-therapeutics-302183935.html",
+    "https://www.fiercebiotech.com/biotech/abbvie-sweeps-inflammatory-focused-celsius-250m-cash-summer-heat-wave",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA_yUw5yhKkyMwY5hybURARG_Yj-36sQrVbC4gpLGD0TnIBq4CFqiNN5VGDZfSY6u442Svb4u3y8u1fO5FexmTRYFkqk7by0m8FAhtoCyq7V7-4p6ShOzX396Ih1nY_INR-1Geo9G9IW0nKVQuSVV6W8SChRiSbW571p9mFkmKS0Tw",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVocI4bNFAZI5JZzP5T3WJv8uXXhT551wOF94W0OV0a-ra-wle9FaSXIJhxnkMhXUnmTKHXRk7KGjET2AldZ7GPbjKjCFjha2rYs7qmVlmCsRDRxTW2JkXNgLZT1qHdITxJQbqhind5-Q98sgqP_aytYobERW6G9sNE-d8HZNtE0_jCdkBXeevNXOvPlo2yfeZavnXa1VDaNPGjZ67kSqiU7edpX6CHpwo2SFWt9_e-0cS7g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7qjRLPakn0rQpJCLzta_kWB-i-UGNBiPsqwgIfJEQYr234m65Y8aRtlBBR_ZGYTRhCJ7GIx-OQeZmsqKEDWIT40ThMD7OgFmM73dRPZYxZeP-xXWwa2o99-C__3gWF9C0yvm9yAATfvUvNZekWTSdCJ5-pgsqXkT4U3pa0ggO8SNBHg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErOks3MiV0fha1E0CvuNg7bo-ALnvrAxWlht-yk9igxs6rCY0k4Cc4n5FPHUl_CpWeL0jYfr83nRVFYg_sXGcGFeE03rfHqoJFZkVHXDT53vq-Q6xe19SEfcydlLTIqJl8H2KpiI8h9npdS5KRt4kkJjPfajwZeQ5wMMQh4v1YHTisuSvn1-4xKrFw28EJtg0DQW45GTf0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKKJhfh6PH6t_12OeDoDymrrEXiPfvPmpYsPBct4Z9A7FHh7JdMKvWkNFXXgtkr_JYgn70TmLTIVd5A92YlHPX_tU21HK6k9hEvPaGOnJqQDMWzvBjf7nbDYHzZY8dxmLkGnI_-Kcqf1RpIhBP2odDCQUohPt1wc2bvj_3kNM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMW_gNKoAtKr62quUAlc_tYraKogT4G2lHzD03Zp91axlHPgC9PDoMM3eeoXF0T0fVqvPc4_MgBptaRoz_SLhH8W2DFXncnlIncRwYA4mZskttKwsJ4D5oXGx9l_WgspJLhX79YvsGdvRMIqnPrMcI9qLlr-anxkR_PtR4ArvVutytmx48XQgqnJUM7QUcBvUf",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUsUWJIldIUaTwd0dpuOrCQIB6QTOATjZfUmjApUHtr0yvocWDJ2rMkcjKw6Blqlh3SBK2bV_BAArnKlxx9pcPVITErRNOysRBTYe_INmQuLc9Uy0NfZcyH52dqMPsshU1Pgy_EvJmoPH79Wc2ZSNC4vL-WlpM4T5wFvbbol-pTvjgq44SasmxvDJHqf4co8snkXLxQFNwWeM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjJ_cC5mEj72THF7u0oys_eKZNVCT7CbY1nwfeiG1eZvR-jwCceKFYDx2QDY_QTZVxFf0_imPjm_MCNCQlbpvs5oD0LSp8ZEAukXtFllDtQy5FvBHIWFkjhPd3cCNZ9zTYEP7yuTTGiZ_RDOHL4Sx4XpxaK06bftMz62Kpf6iTgqaYHWaqtE4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxCytWH_xNPUtB201WDqiV9qnDrovsjKbp-mI9iSQw07CKehQzNxEgIp_9lKK_TxHTnR2VIBt5-nR1YB4ql2mmhYMQ5gUVGQdzLJLwcthK_RtytFkbpvRcyya8thTeyKYfiOErMRJY0Ta_BHTDgdDT42MLyozMC9oGUc6P0HOyStqGJkge"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

@@ -1,0 +1,17 @@
+{
+  "seed_company": "Abbott Laboratories",
+  "related_company": "Exact Sciences",
+  "relationship_type": "Acquisition",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Abbott completed its $21B acquisition of Exact Sciences on March 23, 2026 per official press releases and SEC filings; Exact Sciences is now a wholly owned subsidiary.",
+  "evidence_urls": [
+    "https://www.prnewswire.com/news-releases/abbott-completes-acquisition-of-exact-sciences-302722046.html",
+    "https://www.exactsciences.com/news-events/press-releases/abbott-to-acquire-exact-sciences-a-leader-in-large-and-fast-growing-cancer-screening-and-precision",
+    "https://www.abbottinvestor.com/static-files/0956bb8a-8371-41a1-ba6b-0c4f4362e915"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

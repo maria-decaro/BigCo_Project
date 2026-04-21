@@ -1,0 +1,17 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam U.S., Inc.",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Multiple SEC filings and 10-K reports explicitly list Alnylam U.S., Inc. as a 100% wholly owned subsidiary of Alnylam Pharmaceuticals, Inc., formed in 2002. No evidence of recent acquisition or merger.",
+  "evidence_urls": [
+    "https://fintel.io/doc/sec-alnylam-pharmaceuticals-inc-1178670-ex211-2022-february-10-19033-2648",
+    "https://investors.alnylam.com/sites/default/files/pdfs/2023-alnylam-10k.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013504001018/b49404apsv1.htm"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

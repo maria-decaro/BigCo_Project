@@ -1,0 +1,24 @@
+{
+  "seed_company": "Acadia Pharmaceuticals Inc",
+  "related_company": "CerSci Therapeutics",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Acadia Pharmaceuticals Inc. acquired CerSci Therapeutics on August 24, 2020. The transaction involved Acadia acquiring all outstanding shares of CerSci for $52.5 million, primarily in Acadia stock, with potential milestone payments of up to $887 million. Following the acquisition, CerSci is listed as a subsidiary in Acadia's SEC filings.",
+  "evidence_urls": [
+    "https://acadia.com/media/news-releases/acadia-pharmaceuticals-acquires-cersci-therapeutics-adds-novel-pain-program-to-portfolio/",
+    "https://www.sec.gov/Archives/edgar/data/1070494/000119312520228811/d15115dex991.htm",
+    "https://www.fiercebiotech.com/biotech/acadia-adds-pain-meds-to-pipeline-52-5m-cersci-buyout",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9xnKRw3l49JOoM5qnFmZV8gYhP-8qD-xlBPaCabaiYnyLEcjeeDcdVZ8sPhxYuHBa3eKGqrXKxWJT-vw7NUznc-tOnCWtruGzcfvsIEQLC8hdcVM-y6lne1B7qGKAuTZsgYktS32SxXhfe9oFElW91hfzdd2JZWtRfmQeo3sA0vgdwvq4532P8riDpmwS4mvLnzUnij4LJxzNVQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6ZC768F9zmh08ZzaGI_JJ5u2wjTeuMdr9Aiuc7kq2buI2cnM7DDBCmzPThyQjfIMjmk2f-Iq5Z5KyPwjrAvBJ1nc-8Vc8EKFm717ixW8_HBYyIWZMCBD6wX3tpWPRSrdkwjDt766H-oloITSyUvnMaUXY21vZ3LS_TN5yrGwMsazT9aD46kDIpiEbT_av1stOa-Oyr9CneuEluwhp_INrk8NXXko=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHnQuywjKh08PwS6JXvczasKm8umEY_2bC6JSqj22aLSPtruxIfjtv8DGaEBo9TjOh0zFNe-gj39MeqsGTCWS1_FarTTxeNDcEt2DupvyLLO3FqV9D77VDsA9ZqILvdzB-JVQtIGuJ-P7-EVXDDKFF0tQB164dOyYFr5XcB0_5C8wnuEB1XW_O-smkqDE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp4MS1tPBv6agRR3zJkifUCvaRSAXyc40NREjwJDPkOj2lxMn3H-o0fV3xC4vZXs6uBN-Ryn4cuaWbjze2VsujeazgCVrbKLq9ljWtLjyj9tM975aqHw4W3qb2Fh3A27URpY6GOtundxyYQCGR0HpV3K38iNRYNdNssi02on5pg9iktqEQ_5GPg3NVqGcgKVyUHOr8uPreT8zygX8514iZz2U=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsOoG2XwtbMQ15m-BFrFIBqH21RI1Ces0CQIQdUiY9K5bzjoXe7aQyX7pPSh0hwAJ4G7flGOpYfC5Z_hCcMtYz7gP4UpCnoSbcKxmwmywiC16D_lewaclswuCRO0MLGF6HICevIYXGaw70_oxH9D7aPNiiMyLeoPhaf8i53EBOcDPm4EqdPR9bZhVpOcgd435k7s7sBlmOf-48jlZqGexuVSAZtJQ0L3OQ3-Q04m4ZJ0X5o-ILrjC2tJQDLvb8S7IRT0_QGOinnttzXpE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAeBzzDiz0RtvabsRCvKVDig4QKJdtPYVQpvP7ziTWcK1rvbPMGAEBNEJXxfX8VyZzxEClDN2FDrhVMnkcoEnFfARADCgvlL1I-AcWBgiVzvcCUwGdMwarL0tvJq8jnfiS41SjOxPkWP2BB7YMylGdyWGbazrOXWvOeSsYgYC0lrDxrv_sBpN76f16QOD3OP71CO6ZfQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUqi2aatObQO8NCj0K7YM5iXrKQv6xOwycUzOs7IHpa2C3FA1BaArLVxdtVJvJsUqaNANJqElKk_JtdWwXrHWQ2BMpjvwInnOaTbG6cXhVcy3zLVv-SeaQkpmUi8r9EfdkIIQihUh9K8xGUggBReJPdKBJcYawQSbViLb8pj-y33ThcC7ByLBSe4KNjtIIY-X59j6yxTas5psjiImh82QDL74zcBF2xQ=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

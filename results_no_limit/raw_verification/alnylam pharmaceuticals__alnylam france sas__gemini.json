@@ -1,0 +1,22 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam France SAS",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam France SAS is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals' SEC filings (Exhibit 21.1, Subsidiaries of the Registrant) for multiple years, including 2020 and 2022. French corporate records (SIREN 818 575 730) confirm the entity was established in 2016 and operates as the French commercial arm for the parent company's RNAi therapeutics.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000008/alny2021q4exhibit211.htm",
+    "https://annuaire-entreprises.data.gouv.fr/entreprise/alnylam-france-sas-818575730",
+    "https://investors.alnylam.com/static-files/8066572e-0771-477d-895c-74676629994c",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFrVkICFi5ANnWpxY-3yQeChicXHyg3q0oSC2cypcPttnoapoygOU5i35DAhnFhvDx70krPvCcANWLvfh3L32K1a5gvDkmYzilVB4kW8cKJChU28hZlWuMxlFDo7CoI7AusdxiNFyL0A0GHwrd1HaYj5Yr3dLZGnDJ3oS3XOOvEMJ_HAskSe6KQcwsdB9sywJk0LJTTXQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEryYNSDHMfRyl_ykLsBTqeJPNomGMmzqbAVAaXq5vGwjbK1ACPaOUybsg2Bh-uigNvquARyn2ZwviGiVfE-JqIA5q_zb5d8Dc2dV5MUxKVWf46BRa4z_Pky7_4NHBLZTdM4Cxt6n4dhjpfU983-W8OWsuCkjzD9jLRlhFW_oIN3aM2rcjZpq81l8hR_wxUF1sV7nKIv_ISFSC-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGwOK0BRS46iM2aiNbTl0gg-5VYWaHJh0x4RBM1ZzHtGZBMfULo0knTfKPvSh3SB1dWMm8ZEW9jNA19IbvvBYhMPF-bQE9PKYzF8oJEHCpQt8U5nEQ0rhxaNttIIlFOPzwKbzY3LXM2-C5P_I0W9kNdWGHEoFGLGa9t4A0xMIGCtkeopuSSx1b7s42tA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ9eyEPJhSgQzXXryzBSVO4LKRDuWXJ0r0z3UHYjpOU6tl829qMX40CjKV_YwRvoriS6c4WV7steviAl6UGeSWsrjKqtXSYZyd55dSXhySiRg5aEQjg1PTMbEni-_ufC145zR385J8dLmeSa4AZpAPzZ43v0Vub5uE7yZmZ_yxpmj06JDZtyXsy-k8YEkyc0ZMlAkXj5kaxnaA",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUtmkIOAVmkk9ThAPFZ1ignfTjI9TDQItmz8lJNvkUTij47aJtggsLYBL5i3agLF4XTIZU-z2pi1ohtkRKe2w7sVPHaenVIf9qPF8CKIdm1y2MnFqYsG9Ab7tZJNJjS8XNRF6YOjqe1O_vLa1-kIsb"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

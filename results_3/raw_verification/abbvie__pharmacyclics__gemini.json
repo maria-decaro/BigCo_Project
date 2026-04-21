@@ -1,0 +1,19 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "Pharmacyclics, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "AbbVie Inc. completed the acquisition of Pharmacyclics, Inc. on May 26, 2015, for approximately $21 billion. The transaction was structured as a tender offer followed by a second-step merger, resulting in Pharmacyclics becoming a wholly owned subsidiary of AbbVie. Official press releases from AbbVie and SEC filings (Schedule 14D-9 and Form S-4) confirm the completion of the deal and the subsequent status of Pharmacyclics as a subsidiary.",
+  "evidence_urls": [
+    "https://www.abbvie.com/media-center/news-releases/abbvie-completes-acquisition-of-pharmacyclics.html",
+    "https://www.sec.gov/Archives/edgar/data/1551152/000119312515122144/d896472d425.htm",
+    "https://www.prnewswire.com/news-releases/abbvie-completes-acquisition-of-pharmacyclics-300088545.html",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVpC2i_akxJaTiKLiNNuiFDePI_PRpI5d5l35cIQOesapsDczTv1FU3KuKturXZ2VBfNQopsRbWVbk0CosHGa01CVajcw0JQyQ36TgrH7c47puKQJHbSVqpAc18ISVkjoyeA_EARXtrgX0HQ_NOM9iGEdyGABmVxJwV82nwkAxtbMnQz5BE_0vHLS4-DtLG2O_BfC9qOUNMmhLka23GxUNpvfhzDg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl7sSuhEzMXBuhbXELrgXbhdz2pgpmPbjxL5WeRfGEYjAKz7VqD8D1I7TA1GrS73p5H6QO22IKnYkB-Ltl6HERAArAiMVPGLnH9RXdUm5j4ZBW27Uw3Zy-Jlr6JKM0T3jYcqvcOOtTNalaGHoT3PBg87BU55dL34xvIo_WEutwsDqnw0NTEg1G1G-VB9ck"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

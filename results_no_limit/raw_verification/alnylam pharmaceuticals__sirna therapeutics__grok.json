@@ -1,0 +1,16 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Sirna Therapeutics, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "In January 2014 Alnylam acquired Sirna Therapeutics (a Merck wholly owned subsidiary) for $175M ($25M cash + stock); transaction closed March 2014 per official press release and SEC filing.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312514008836/d659666dex991.htm",
+    "https://www.biospace.com/alnylam-pharmaceuticals-announces-closing-of-previously-announced-acquisition-of-merck-and-co-inc-s-sirna-therapeutics-inc-subsidiary"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

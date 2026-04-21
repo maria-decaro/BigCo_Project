@@ -1,0 +1,16 @@
+{
+  "seed_company": "Acadia Pharmaceuticals Inc",
+  "related_company": "Levo Therapeutics, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Acadia acquired Levo Therapeutics in June 2022 for $10M, gaining worldwide rights to ACP-101. Confirmed in official press releases, SEC filings, and listed as subsidiary.",
+  "evidence_urls": [
+    "https://acadia.com/en-us/media/news-releases/acadia-pharmaceuticals-announces-phase-3-development-candidate",
+    "https://www.sec.gov/Archives/edgar/data/1070494/000095017024021473/acad-20231231.htm"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

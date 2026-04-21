@@ -1,0 +1,31 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Germany GmbH",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.98,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Recent SEC Exhibit 21 lists Alnylam Germany GmbH as a 100%-owned entity in Germany under Alnylam Pharmaceuticals, Inc., indicating a parent-subsidiary relationship.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm",
+    "https://investors.alnylam.com/sites/default/files/pdfs/2023-alnylam-annual-report.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013506007385/b63139ape424b5.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013506000280/b58707b5e424b5.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000162828025047345/alny2025q310-qex102.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013509001458/b73445ape10vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000008/alny2025q1exhibit991.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000038/pressreleaseforcmapproval.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312517342673/d495806dex991.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013505004675/b55527ape10vq.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013505006490/b57597ape10vq.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312523089638/d418223dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000119312524083479/d787426dars.pdf",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013505003341/b55263ape8vk.htm",
+    "https://www.sec.gov/Archives/edgar/data/1447028/000119312512479696/d443535dex993.htm",
+    "https://www.sec.gov/files/18-04959-e.pdf",
+    "https://www.sec.gov/Archives/edgar/data/872589/000110465924051965/tm2412500d1_ars.pdf"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

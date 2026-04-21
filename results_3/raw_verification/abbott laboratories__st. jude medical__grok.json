@@ -1,0 +1,16 @@
+{
+  "seed_company": "Abbott Laboratories",
+  "related_company": "St. Jude Medical, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Abbott completed its acquisition of St. Jude Medical in January 2017 for ~$25B; St. Jude became a wholly-owned subsidiary per official press releases and SEC filings.",
+  "evidence_urls": [
+    "https://abbott.mediaroom.com/2017-01-04-Abbott-Completes-the-Acquisition-of-St-Jude-Medical",
+    "https://abbott.mediaroom.com/2016-04-28-Abbott-to-Acquire-St-Jude-Medical"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

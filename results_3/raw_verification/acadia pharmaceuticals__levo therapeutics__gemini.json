@@ -1,0 +1,26 @@
+{
+  "seed_company": "Acadia Pharmaceuticals Inc",
+  "related_company": "Levo Therapeutics, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Acadia Pharmaceuticals Inc. acquired Levo Therapeutics, Inc. in June 2022. The acquisition included the worldwide rights to develop and commercialize ACP-101 (intranasal carbetocin), a drug candidate for Prader-Willi syndrome. The transaction was confirmed in Acadia's official SEC filings (10-K) and press releases, noting a $10 million upfront cash payment plus potential future milestones.",
+  "evidence_urls": [
+    "https://www.sec.gov/ix?doc=/Archives/edgar/data/1070494/000107049424000021/acad-20231231.htm",
+    "https://ir.acadia.com/news-releases/news-release-details/acadia-pharmaceuticals-announces-phase-3-development-candidate-acp",
+    "https://www.biopharmadive.com/news/acadia-levo-acquisition-prader-willi-syndrome/652856/",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXVTthxm_vQQe0D6RISkYxs64vwXDB3RE40y1mPHligufo9e_vSvXdUqhLfMll16UgD56MbHkV2TQMVcf1yBP1-oCQXLY0rg-69GFBofo7E5bAoY0AX9nbhgfbqwj1CMCtqGCsFDfTPRkwiJShsSCGIXXzjIajJlRzWcC0O8QSBPgG0rlLIdk5ZZfLL6kV1Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8tnQy60oR3y8gzPs40Uajf-i5p5HJ1vkrJAuMBJ-DZ5QcpnR01C0Qk170uo0oOCYZRRQ-8A5VOkFRt6ZtZ0XQDAdAItA92o6pHk4Rtk4r6BC1CpzpGmBdVWP2CPnc6pd0ZeDFLj6VljcCmujxnI5ZuxBWzJP8RjJv913Mqu11gDq6payOjGxPDZD7OEBkEC8ZX02J7A7d0UB4xlC7GOQsvPuWJeA8sly4ZhxiElJ8gqRnJpy3hAsoiHMUG4IGFpCvwhQs_n_iaSzG0JyEFA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu3nN3C1hMkUqL6pawgtj4dCcbtqIAKFA5aOFjWDV7jNUvmsleIOFqa-GYHhIEDH5yO9FWVZFcMktksSQp0k-ytNZ_P5hgpA2YxnZFqwUEUruejMSS-r0Mh0daEFelCwRrfLpiSEDtwlpaBya9AQGjDlESR0vCrI6ItHqGgoVPZjV4RAUSOoDK0jIKxw6LahaNQ7OL7g_bXyRyvfxjCgY_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtLQQe9x3-LNCMVFs_JftYD-SZEEtGUL4Hcj7YwF5ZWKcuNcCFBGYxoP-bIWjf6UtgFO-L6qYWr2s_63-a4A64KhTVeKvAMDr3LwF2_bu8h9BMWqzazWZguVfVBT3KTOh2WFfoVIssl6dYpE0xt_GElC8SMWBGL_OB_HM3oB21AIUmcfLZH06T1EUKEehDsPwc6Dd0v2JDLYtmm10xyv1JhJ8kDv1veQZxCajNaSlSvXJ46kICsppKzP3TRVE87KVz1jFtvZ0EYW8pBJI0B5l9RCRBu1umVNDyBbL_tL1pnYFNhIM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3FIjy4b-bxbn22rmk-cHsGtTvX5wYMV_2ARUb9TCHXcQjdO5YZ-_RJYVGnXKAHZsdx7E-Vtyy6Hsl9ApIUF7kKdXFzqljbLgdKROtPhxAUG7Rk7RrRMLYNfTfdvmGqbP-unXUD5WkW6SSIhoJtmmsf6qsq95zeqlFy-ltWwLoa8GD2LXoRu_hvse7T_5qcw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGLK-Dnz_5zd5aB5xuxi3VWFQjs_zRG2B35PjBOxgI-QtcA0pF3nsFGEzmXTtRhXzKIGEk6Si-I_6v6lpUMqSOSo8qumxopsmIPPvKbImpunx5XOpIgi6G4UO7U-XVieApNKsNWYHTj-dJVUeiam2Y9UadXoomYdFJWAV7zGplHUp5CLk7rjp_FXhZBOS8sk9VsF1y_S8gJojSsiZ9flH65UDwSgQR",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP3fwteaKVpoAEDtYjphD-Jczp8kjzJgJV--DYDo02wAjYeO4JDgWhTcWDxRWLZWMAxVpx1__ouG88STHI0CGDu7mhQWgYm4itw0lQiNf44z7AgArRHQyrMvrUGIg_KhPirZbaPy02WmRbjtE3eTMlfVpAWLj03XWUkkGD8lQAtEcKCQt6AnN3wnDht1g-GmX8LWr0RmjLyYldYDQAlTsiukQyPPkCnXRS7Df7UkSA-jRjP546gR8E9ZkP8dnIBjfvRT5GfKWDefYspvlr5_BnvnNlyTlvnBY0Ka0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdv5Dvsq7zD19p1R4iUns8zsvy-JRHuKneHoQK6_5-i_LllZdFCp_yg9I-vU0Qt6uQ4yaZfamQOPqc7tpyS_59uDVGIpqz2Ta6Sc-QFPfmgt5FUo7gsCVNP4HZ_GR02Om7nyul6GZOftplz-3WywaJ-hT0qAjk2-cP6Cv3LpecefG0hYCm9WNEAV9egytotEoA0ONimWdm6tEKciCBdsJm-9HXiLgrskYy_Z79H0jZaFHYkMYEDtqfZsK2geHN",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET-qCnZ6phNfl7xexr3g55tnQzVRbu60tlmR8qDE064qey1eiF2dA13AtVoquktFDpZBP0Pek5A7quAXsMg1Zmk0UEwU_7YN52MlAPBY9LPUBEoxUP1nPLhDLkSYN1q4udenG9F30FX9sPLbZZIeX9iRJQ1ZPOwukNNS3r94vy7RrvA9lO3_CqaLpa6zLZAI5rJOeTIgLgbU47DxFMnmjpTxjlel_Hga302IZwmQKKPoSnDwITq-asEnYtT-qmRg2zx887iETWko1CJ9Uui0_O0G4VPBu025khaLTOPclY3I9V7mwbMHf-F5lmxYO17NjT_g9jpdHAwqIJCjLuMve_zxwFOpqJitfBRrEzQn9ifMuvtN1--BvPpteq-04h5ux_oJn7lPw5hg4JXE-M_hVx1lcrrcVHpkoLPXDVmt1qBI78_przWA1UrZRY"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

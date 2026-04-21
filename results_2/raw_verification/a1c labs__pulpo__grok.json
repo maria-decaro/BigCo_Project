@@ -1,0 +1,15 @@
+{
+  "seed_company": "A1C Labs LLC",
+  "related_company": "Pulpo LLC",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.75,
+  "source_authority": "low",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Patent assigned to A1C Labs LLC references a CBD product available from Pulpo LLC suggesting possible collaboration or licensing. No press releases, SEC filings, or official records indicate acquisition, merger, or subsidiary relationship.",
+  "evidence_urls": [
+    "https://puffinhemp.com/wp-content/uploads/2023/09/CBD-Patent.pdf"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

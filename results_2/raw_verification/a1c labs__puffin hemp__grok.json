@@ -1,0 +1,15 @@
+{
+  "seed_company": "A1C Labs LLC",
+  "related_company": "Puffin Hemp",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.4,
+  "source_authority": "low",
+  "recency": "medium",
+  "clarity": "low",
+  "evidence_summary": "Patent for CBD blood sugar technology assigned to A1C Labs LLC and hosted/promoted on Puffin Hemp site indicates affiliation or IP ownership, but no press releases, SEC filings, or official announcements confirm acquisition, merger, or subsidiary status.",
+  "evidence_urls": [
+    "https://puffinhemp.com/wp-content/uploads/2023/09/CBD-Patent.pdf"
+  ],
+  "needs_review": true,
+  "provider": "grok"
+}

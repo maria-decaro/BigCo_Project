@@ -49,6 +49,33 @@ def score_level(value: str) -> int:
     return mapping.get(value, 1)
 
 
+def normalize_urls(urls: List[Any]) -> List[str]:
+    normalized = []
+    seen = set()
+
+    for item in urls:
+        if isinstance(item, dict):
+            candidate = item.get("url", "")
+        else:
+            candidate = item
+
+        if not isinstance(candidate, str):
+            continue
+
+        url = candidate.strip()
+        if not url or url in seen:
+            continue
+
+        seen.add(url)
+        normalized.append(url)
+
+    return normalized
+
+
+def clamp_01(value: float) -> float:
+    return max(0.0, min(1.0, value))
+
+
 class DiscoveryAgent:
     def __init__(self) -> None:
         self.providers = get_active_providers()
@@ -59,9 +86,22 @@ class DiscoveryAgent:
         for provider in self.providers:
             print(f"[DISCOVERY START] provider={provider.name} seed={seed_company}")
 
+            if MAX_DISCOVERIES_PER_PROVIDER is None:
+                max_items_target = "all plausible"
+                max_items_instruction = (
+                    "- Continue searching until no more credible connections exist."
+                )
+            else:
+                max_items_target = f"up to {MAX_DISCOVERIES_PER_PROVIDER}"
+                max_items_instruction = (
+                    f"- Continue searching until you reach {MAX_DISCOVERIES_PER_PROVIDER} "
+                    "credible results or no more credible connections exist."
+                )
+
             prompt = DISCOVERY_PROMPT.format(
                 seed_company=seed_company,
-                max_items=MAX_DISCOVERIES_PER_PROVIDER
+                max_items_target=max_items_target,
+                max_items_instruction=max_items_instruction,
             )
 
             try:
@@ -73,7 +113,7 @@ class DiscoveryAgent:
                 provider_citations = result.pop("_provider_citations", [])
                 for item in result.get("discoveries", []):
                     existing_urls = item.get("evidence_urls", [])
-                    item["evidence_urls"]  = list(dict.fromkeys(existing_urls + provider_citations))
+                    item["evidence_urls"] = normalize_urls(existing_urls + provider_citations)
 
                 output_path = RAW_DISCOVERY_DIR / f"{normalize_company_name(seed_company)}__{provider.name}.json"
                 save_json(output_path, result)
@@ -130,7 +170,7 @@ class VerificationAgent:
 
                 provider_citations = result.pop("_provider_citations", [])
                 existing_urls = result.get("evidence_urls", [])
-                result["evidence_urls"] = list(dict.fromkeys(existing_urls + provider_citations))
+                result["evidence_urls"] = normalize_urls(existing_urls + provider_citations)
 
                 verification_outputs.append(result)
 
@@ -165,7 +205,7 @@ class ConsensusAgent:
             all_urls.extend(item.get("evidence_urls", []))
 
         safety_result = evaluate_link_safety(all_urls)
-        safe_urls = safety_result["links"]
+        safe_urls = normalize_urls(safety_result["links"])
         avg_safety = safety_result["safety_score"]
 
         multiplier = 1.0
@@ -204,7 +244,7 @@ class ConsensusAgent:
             "agreement_count": agreement_count,
             "num_models": len(verification_outputs),
             "needs_resolution": needs_resolution,
-            "evidence_urls": list(dict.fromkeys(safe_urls)),
+            "evidence_urls": safe_urls,
             "model_outputs": verification_outputs,
         }
 
@@ -227,9 +267,9 @@ class ResolutionAgent:
             result["provider"] = f"{resolver_provider.name}_resolver"
             
             # run safety
-            urls = result.get("evidence_urls", [])
+            urls = normalize_urls(result.get("evidence_urls", []))
             safety_result = evaluate_link_safety(urls)
-            safe_urls = safety_result["links"]
+            safe_urls = normalize_urls(safety_result["links"])
             avg_safety = safety_result["safety_score"]
 
             result["evidence_urls"] = safe_urls
@@ -314,9 +354,17 @@ class Orchestrator:
 
                 res_urls = resolution_result.get("evidence_urls", [])
                 cons_urls = consensus_result.get("evidence_urls", [])
-                all_urls = res_urls + cons_urls
+                all_urls = normalize_urls(res_urls + cons_urls)
 
-                safety_score = (resolution_result.get("safety_score", 1.0) * len(res_urls)  + consensus_result.get("safety_score", 1.0) * len(cons_urls)) / len(all_urls) if all_urls else 1.0
+                weighted_denominator = len(res_urls) + len(cons_urls)
+                if weighted_denominator:
+                    weighted_numerator = (
+                        clamp_01(float(resolution_result.get("safety_score", 1.0))) * len(res_urls)
+                        + clamp_01(float(consensus_result.get("safety_score", 1.0))) * len(cons_urls)
+                    )
+                    safety_score = clamp_01(weighted_numerator / weighted_denominator)
+                else:
+                    safety_score = 1.0
 
                 final_rows.append({
                     "seed_company": seed_company_value,
@@ -352,13 +400,24 @@ class Orchestrator:
 
         return final_rows
 
-    def run_for_all(self, seed_companies: List[str]) -> pd.DataFrame:
+    def run_for_all(self, seed_companies: List[str], output_path: Path | None = None) -> pd.DataFrame:
         all_rows = []
 
-        for seed_company in seed_companies:
-            print(f"Running pipeline for: {seed_company}")
+        total = len(seed_companies)
+        for idx, seed_company in enumerate(seed_companies, start=1):
+            print(f"Running pipeline for: {seed_company} ({idx}/{total})")
             rows = self.run_for_seed_company(seed_company)
             all_rows.extend(rows)
+
+            if output_path is not None:
+                partial_df = pd.DataFrame(all_rows)
+                if not partial_df.empty:
+                    partial_df = partial_df.sort_values(
+                        by=["seed_company", "final_confidence"],
+                        ascending=[True, False],
+                    )
+                partial_df.to_csv(output_path, index=False)
+                print(f"[CHECKPOINT SAVED] {output_path} rows={len(partial_df)}")
 
         final_df = pd.DataFrame(all_rows)
 

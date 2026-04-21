@@ -1,0 +1,16 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Canada ULC",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Canada ULC is listed as a 100% owned subsidiary in Alnylam Pharmaceuticals Inc. SEC Exhibit 21.1 filings and maintains active operations as the Canadian entity.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm",
+    "https://www.alnylam.ca/"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

@@ -1,0 +1,17 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam U.S., Inc.",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam U.S., Inc. is a 100% wholly owned subsidiary of Alnylam Pharmaceuticals, Inc. According to SEC filings (Exhibit 21.1) and the company's 10-K reports, Alnylam U.S., Inc. was formed in June 2002 as the initial corporate entity and became a subsidiary following a reorganization when Alnylam Pharmaceuticals, Inc. was incorporated in May 2003.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1274494/000119312522034175/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/sites/default/files/2024-02/2023-alnylam-10k.pdf",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqOjwCg9dokahMiY7tzM8xvBmN6_k4-IM2KDRiq5jmB_lu-txIZvWkECNgXMpNJSirBAkEzhvFoeqDhfdKQ-zVbrVFlIl3NeX5_B9oTpxhTR1d76ci4EZUEplszJkKBG7ymCYgCKTc5UofYWn-DKdS_9ljC-IQNMk60zFt0SQ-wVHQZx-nI_eJn20eidbTvrorcQcmLwNSyfKQ"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

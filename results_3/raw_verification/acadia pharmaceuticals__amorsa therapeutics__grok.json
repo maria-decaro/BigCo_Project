@@ -1,0 +1,15 @@
+{
+  "seed_company": "Acadia Pharmaceuticals Inc",
+  "related_company": "Amorsa Therapeutics Inc.",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Amorsa Therapeutics Inc. is explicitly listed as a subsidiary of ACADIA Pharmaceuticals Inc. in official SEC Exhibit 21.1 filings.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1070494/000119312526072519/acad-ex21_1.htm"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

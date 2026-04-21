@@ -1,0 +1,21 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Italy Srl",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Italy Srl is a 100% owned subsidiary of Alnylam Pharmaceuticals Inc. This relationship is explicitly documented in Alnylam Pharmaceuticals Inc's SEC filings (Exhibit 21.1, Subsidiaries of the Registrant), which list Alnylam Italy Srl as a subsidiary organized in Italy with 100% ownership. Additionally, Alnylam's official website and transparency reports identify Alnylam Italy Srl as its Italian affiliate and satellite office located in Milan.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000014/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/investors/frequently-asked-questions",
+    "https://www.alnylampolicies.com/contact-us",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPGrGkva3fpuRls_ejkEjALeE-_X9HoT7zU3IGeM1t9i92h-OErBUYuZT8cT4x5zD34VMRKe9lWsE86H5c4e9awC_Kt9PntzSwzil-zjW-VkybLSWSW0rZywryVw15C8fQc7_4kybknJzqTGmPJVKsbxwbrgYbGUj6gmenOY2Ll3OBrPxkGK6s0dQ58oy1yDSRIA7w3xM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9An9vKTEvCUdq-0k0tVqzA_rZi9n3es6WmcadAKWKhs2GUyuykzL404SKsc3cdB7w-HkR13oeXzY1jzsZcF6WUFigD8COsJrPmOVI_0rB1u0pznW8gz_B93iYz55SMoaugDvOPej_FIheI_s20a3zmqJQaLFU9Laf-Ix--4o6M0E9w-J2hr_5SjFbIz6rHUn3xzTJGCyPxsHy",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnNcJKKsE4xF_rosNttfDRPIa0bxOmfuAUrMt8sVQsdl0Q72vTmXnwiY2mYqCibQel68TGqke5pB1IOJRPVNk2kLM6drXn8cfoTcG7nyXUkaM3hPlwgoBxahGWpjOyr-afpN8FFpyHh7EQj0gSMnGIcI7mpSk7y4AO_6jJeUbj3t_SmUO8UdVGHltvi9Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGww-t3onmq5j6ylexg5ofNL-KBU0Euh8_OpuTlhICUBqwQIIyUel2ALowmGQq2EEcEQx0r9Arw0_fuaVRhi2ZUJAz06BtsgeIpwOV8s6HOQMmtC_nHCrXlob6WT_xGkCf1ALwnrPeyMXkINsl6ws8xZWQDv0yd0O_FlJw-ZULht36rrigYiLsu1Dk37McaUD8="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

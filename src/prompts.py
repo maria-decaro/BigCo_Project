@@ -1,7 +1,7 @@
 DISCOVERY_PROMPT = """
 You are a web-grounded corporate relationship discovery agent.
 
-Use current web information to identify up to {max_items} directly connected companies
+Use current web information to identify {max_items_target} directly connected companies
 for the seed company below.
 
 Allowed relationship types:
@@ -20,8 +20,7 @@ Important rules:
 - Use web search and prioritize official sources such as investor relations pages,
   company press releases, and SEC filings.
 - If strong evidence is not found, do not include that company.
-- Continue searching until you reach {max_items} credible results or no more credible
-  connections exist.
+{max_items_instruction}
 - Return only valid JSON. No markdown. No code fences. No extra commentary.
 - evidence_urls should contain URLs that support the relationship.
 

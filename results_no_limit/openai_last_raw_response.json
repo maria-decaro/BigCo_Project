@@ -1,0 +1,262 @@
+{
+  "id": "resp_0446a175f68334860069e7e9fab814819ab678e929dd7cf82e",
+  "object": "response",
+  "created_at": 1776806394,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1776806402,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-2026-03-05",
+  "output": [
+    {
+      "id": "ws_0446a175f68334860069e7e9fb53c4819a9eb214cd096f0343",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "site:alnylam.com Nucleonics patent assets December 2008 Alnylam",
+          "site:sec.gov Alnylam Nucleonics patent assets 10-K"
+        ],
+        "query": "site:alnylam.com Nucleonics patent assets December 2008 Alnylam",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1706431/000095017023005118/vir-20221231.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1706431/000095017022002295/vir-20211231.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1178670/000095013506001651/b58496ape10vk.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1505512/000119312524102892/d769294dars.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1479615/000095017025029129/sln-20241231.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1706431/000119312523095234/d114623dars.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1479615/000119312526092591/sln-20251231.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1178670/000119312525061427/d899808dars.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://investors.alnylam.com/press-release?id=12981"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/874015/000110465910010939/a09-34643_210k.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1113481/000111348119000005/mdco-12312018x10kxq42018.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/vprr/1202/12027055.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/879407/000162828024002382/arsfiling10-kproxy.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1706431/000162828025023291/R12.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://investors.alnylam.com/press-release?id=14271"
+          },
+          {
+            "type": "url",
+            "url": "https://investors.alnylam.com/press-releases"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1528115/000095017024036408/annx-20231231.htm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ws_0446a175f68334860069e7e9fd6c10819ab5f7375540fa3af0",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "open_page",
+        "url": "https://investors.alnylam.com/press-releases"
+      }
+    },
+    {
+      "id": "ws_0446a175f68334860069e7e9feab5c819a8846e78fe4ec95aa",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "site:sec.gov Alnylam acquired Nucleonics intellectual property assets 2008 10-k"
+        ],
+        "query": "site:sec.gov Alnylam acquired Nucleonics intellectual property assets 2008 10-k",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1178670/000156459018002152/alny-10k_20171231.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/vprr/1001/10011459.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/vprr/0901/09010546.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/874015/000110465910010939/a09-34643_210k.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/879407/000162828024002382/arsfiling10-kproxy.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1505512/000119312523126978/d492192dars.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/vprr/0901/09011436.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/vprr/0901/09011701.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1447028/000119312511158553/d20f.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/874015/000110465912014567/a11-31030_110k.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/879407/000156459016030217/arwr-10k_20160930.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/874015/000110465908051496/a08-18933_110q.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1447028/000117184314001457/f10k_032714.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1479615/000095017025029129/sln-20241231.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1399529/000139952919000005/a2018drna_10k.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1178670/000115752309003613/a5959539ex99_1.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1178670/000119312513065475/d440212d10k.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1178670/000119312514060913/d653396d10k.htm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_0446a175f68334860069e7ea0071f8819a97bba939e57a2584",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\n  \"seed_company\": \"Alnylam Pharmaceuticals Inc\",\n  \"related_company\": \"Nucleonics, Inc.\",\n  \"relationship_type\": \"Acquisition\",\n  \"confidence\": 0.93,\n  \"source_authority\": \"high\",\n  \"recency\": \"medium\",\n  \"clarity\": \"high\",\n  \"evidence_summary\": \"Official Alnylam sources and SEC filings state that in December 2008 Alnylam acquired the intellectual property assets of Nucleonics, Inc. This is best classified as an acquisition of assets/IP, not a merger or subsidiary relationship.\",\n  \"evidence_urls\": [\n    \"https://www.sec.gov/Archives/edgar/data/1178670/000156459018002152/alny-10k_20171231.htm\",\n    \"https://investors.alnylam.com/press-release?id=12981\"\n  ],\n  \"needs_review\": false\n}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "in_memory",
+  "reasoning": {
+    "effort": "none",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 0.1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [
+    {
+      "type": "web_search",
+      "search_context_size": "medium",
+      "user_location": {
+        "type": "approximate",
+        "city": null,
+        "country": "US",
+        "region": null,
+        "timezone": null
+      }
+    }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 19384,
+    "input_tokens_details": {
+      "cached_tokens": 4352
+    },
+    "output_tokens": 342,
+    "output_tokens_details": {
+      "reasoning_tokens": 145
+    },
+    "total_tokens": 19726
+  },
+  "user": null,
+  "metadata": {}
+}

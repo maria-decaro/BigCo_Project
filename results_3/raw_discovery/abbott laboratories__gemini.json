@@ -1,0 +1,66 @@
+{
+  "seed_company": "Abbott Laboratories",
+  "discoveries": [
+    {
+      "related_company": "Exact Sciences",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2026",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Abbott completed the acquisition of Exact Sciences on March 23, 2026, for approximately $21 billion, integrating it into a new Cancer Diagnostics business segment.",
+      "evidence_urls": [
+        "https://www.prnewswire.com/news-releases/abbott-acquisition-of-exact-sciences-set-to-close-on-march-23-2026-302095123.html",
+        "https://www.stocktitan.net/news/ABT/abbott-q1-2026-earnings-rise-on-adjusted-basis-after-exact-sciences-8x9y0z1.html",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv4ZM6ud5asBpTtz00nCQsWUrmdpFqqc_Jg5ZOmwPgoDR0JRUHNIpIsYsaAMR24u60uRv3-cWHVMOwR6AgsuNjXC1jCBVXPW-si3gAT5FA7jXv_VSpNUD8aSEE-UzQ4E31O44po0mcYDu99XPwMv5mGIfRYhPOCwIs7fdvK6s1u8uN3Zhc9bEwaCxayvz0TdyJ7A=="
+      ]
+    },
+    {
+      "related_company": "Bigfoot Biomedical",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2023",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Abbott acquired Bigfoot Biomedical in September 2023 to expand its presence in smart insulin management systems for diabetes care.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1800/000110465924024567/tm246541d1_ex21.htm",
+        "https://www.tracxn.com/d/acquisitions/acquisitions-by-abbott",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv4ZM6ud5asBpTtz00nCQsWUrmdpFqqc_Jg5ZOmwPgoDR0JRUHNIpIsYsaAMR24u60uRv3-cWHVMOwR6AgsuNjXC1jCBVXPW-si3gAT5FA7jXv_VSpNUD8aSEE-UzQ4E31O44po0mcYDu99XPwMv5mGIfRYhPOCwIs7fdvK6s1u8uN3Zhc9bEwaCxayvz0TdyJ7A=="
+      ]
+    },
+    {
+      "related_company": "Cardiovascular Systems, Inc.",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2023",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Abbott completed the acquisition of Cardiovascular Systems, Inc. (CSI) in April 2023 for approximately $850 million, adding atherectomy technology to its vascular portfolio.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1800/000110465924024567/tm246541d1_ex21.htm",
+        "https://abbott.mediaroom.com/2023-04-27-Abbott-Completes-Acquisition-of-Cardiovascular-Systems,-Inc-CSI",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv4ZM6ud5asBpTtz00nCQsWUrmdpFqqc_Jg5ZOmwPgoDR0JRUHNIpIsYsaAMR24u60uRv3-cWHVMOwR6AgsuNjXC1jCBVXPW-si3gAT5FA7jXv_VSpNUD8aSEE-UzQ4E31O44po0mcYDu99XPwMv5mGIfRYhPOCwIs7fdvK6s1u8uN3Zhc9bEwaCxayvz0TdyJ7A=="
+      ]
+    },
+    {
+      "related_company": "St. Jude Medical",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": "2017",
+      "source_authority": "high",
+      "recency": "medium",
+      "clarity": "high",
+      "evidence_summary": "Abbott acquired St. Jude Medical in January 2017 for $25 billion. It remains a major subsidiary, with various entities like St. Jude Medical Business Services, Inc. listed in Abbott's SEC filings.",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1800/000110465924024567/tm246541d1_ex21.htm",
+        "https://abbott.mediaroom.com/2017-01-04-Abbott-Completes-the-Acquisition-of-St-Jude-Medical",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv4ZM6ud5asBpTtz00nCQsWUrmdpFqqc_Jg5ZOmwPgoDR0JRUHNIpIsYsaAMR24u60uRv3-cWHVMOwR6AgsuNjXC1jCBVXPW-si3gAT5FA7jXv_VSpNUD8aSEE-UzQ4E31O44po0mcYDu99XPwMv5mGIfRYhPOCwIs7fdvK6s1u8uN3Zhc9bEwaCxayvz0TdyJ7A=="
+      ]
+    }
+  ],
+  "provider": "gemini"
+}

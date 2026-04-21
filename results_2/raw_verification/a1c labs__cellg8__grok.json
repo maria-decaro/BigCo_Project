@@ -1,0 +1,17 @@
+{
+  "seed_company": "A1C Labs LLC",
+  "related_company": "CELLg8",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.5,
+  "source_authority": "low",
+  "recency": "medium",
+  "clarity": "low",
+  "evidence_summary": "Patent assigned to A1C Labs LLC (Wellington, CO) references CELLg8 liposomal tech invented by Dr. Emek Blair, founder of Valimenta Labs (same address, operates CELLg8 brand/tech). No press releases, SEC filings, or official statements on acquisition, merger, or subsidiary status.",
+  "evidence_urls": [
+    "https://puffinhemp.com/wp-content/uploads/2023/09/CBD-Patent.pdf",
+    "https://cellg8.com/about/",
+    "https://www.valimenta.com/cellg8-technology/"
+  ],
+  "needs_review": true,
+  "provider": "grok"
+}

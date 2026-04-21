@@ -1,0 +1,34 @@
+{
+  "seed_company": "Abbott Laboratories",
+  "related_company": "Ross Laboratories",
+  "relationship_type": "Acquisition",
+  "confidence": 0.97,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Official Abbott history states Abbott's 1964 acquisition of M&R Dietetics, the business that became Ross Laboratories/Ross Products. SEC filings then show Ross Products as an Abbott reportable segment/division, indicating the subsidiary/division status followed from the acquisition. The most precise parent-child resolution is Acquisition.",
+  "evidence_urls": [
+    "https://www.abbott.com/about-abbott/history.html",
+    "https://www.sec.gov/Archives/edgar/data/1800/000104746906002258/a2167223z10-k.htm"
+  ],
+  "needs_review": false,
+  "_provider_citations": [
+    "https://www.abbott.com/corpnewsroom/strategy-and-strength/NBA-bubble-to-cancer-testing-2022-univants-winners.html",
+    "https://www.sec.gov/Archives/edgar/data/1800/000104746906002258/a2167223z10-k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1800/000091205701006039/a2035109z10-k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1800/000104746904005498/a2127912z10-k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1800/000091205702007043/a2066561z10-k405.htm",
+    "https://www.sec.gov/Archives/edgar/data/772197/000119312504040619/d10k.htm",
+    "https://medicines.abbott.com/our-biologic-heritage/",
+    "https://www.sec.gov/Archives/edgar/data/1800/000104746904005498/a2127912zex-21.htm",
+    "https://www.abbott.com/en-us/nonexistingpage",
+    "https://www.sec.gov/Archives/edgar/data/1800/000110465926033079/tm268709d2_8k.htm",
+    "https://www.abbott.com/about-abbott/our-heritage/promise-for-life-the-story-of-abbott.html",
+    "https://www.abbott.com/en-us/corpnewsroom/products-and-innovation/everyday-innovators-world-of-technology",
+    "https://www.sec.gov/Archives/edgar/data/1800/000130817926000066/abt014387_arsa.pdf",
+    "https://www.sec.gov/Archives/edgar/vprr/0301/03017609.pdf",
+    "https://dam.abbott.com/en-pk/investor-relations/Annual-Report-2016.pdf"
+  ],
+  "provider": "openai_resolver",
+  "safety_score": 1.0
+}

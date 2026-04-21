@@ -1,0 +1,18 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Germany GmbH",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Germany GmbH is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc., as explicitly listed in the company's SEC Form 10-K filings (Exhibit 21.1, 'Subsidiaries of the Registrant'). The German entity serves as a regional arm for research, development, and distribution in Germany.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000031/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/contact-us",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQiSPnQrxVqL6KK--OEVCM4MajlYEPXOtpMFsuRO0DF06T0b2jhYX7w6DZpO1SUnRmgvRw6-NB4lC1zvzK5OxduAZop5m94P2ZeMXsJRM0IVHvmgEzYXfpZ7VnucG7WgFfzCvj_6eavpUCjYtPAt8N0M8qwXQx21aktY6JDybM2XJIlTuR_HvMsnnoQjuyhh9MpczKRf4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8bnBk8uWfv3OLdSvWFdf3nmPKeC-XsudjPqLg2AMgFmhs7ILcpZTiY95my3LyCBP83-qGOkC5_N_uIwKrqxDy1T4Py4VPZuBGxkcWMGoGvu0EOkNmSImFfSHcLzhG25NMJVrm-ja7XhjUTSVjquj8WyllvU9BoX1qTOslN9r3lRD4G6IrGznLMNajlXiRlXI="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

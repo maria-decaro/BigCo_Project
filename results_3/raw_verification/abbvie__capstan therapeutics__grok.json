@@ -1,0 +1,16 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "Capstan Therapeutics",
+  "relationship_type": "Acquisition",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "AbbVie announced definitive agreement to acquire Capstan in June 2025 and completed the acquisition in August 2025 for up to $2.1B, with Capstan now part of AbbVie.",
+  "evidence_urls": [
+    "https://news.abbvie.com/2025-08-19-AbbVie-Completes-Acquisition-of-Capstan-Therapeutics",
+    "https://news.abbvie.com/2025-06-30-AbbVie-to-Acquire-Capstan-Therapeutics,-Further-Strengthening-Commitment-to-Transforming-Patient-Care-in-Immunology"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

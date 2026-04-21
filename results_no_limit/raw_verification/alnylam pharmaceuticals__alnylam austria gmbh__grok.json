@@ -1,0 +1,17 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Austria GmbH",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Listed as 100% owned subsidiary in multiple Alnylam Pharmaceuticals SEC Exhibit 21.1 filings (including 2024) and has dedicated official page on alnylam.com",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm",
+    "https://www.alnylam.com/alnylam-austria",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000156459019003022/alny-ex211_545.htm"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

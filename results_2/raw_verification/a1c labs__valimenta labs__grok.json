@@ -1,0 +1,16 @@
+{
+  "seed_company": "A1C Labs LLC",
+  "related_company": "Valimenta Labs",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.75,
+  "source_authority": "low",
+  "recency": "low",
+  "clarity": "high",
+  "evidence_summary": "No evidence from web searches, company sites, press releases or official sources of any acquisition, merger or subsidiary relationship. Valimenta Labs is an independent privately-held liposomal supplement manufacturer founded in 2015 by Dr. Emek Blair.",
+  "evidence_urls": [
+    "https://www.valimenta.com/",
+    "https://www.valimenta.com/about-us/"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

@@ -1,0 +1,20 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Europe AG",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Europe AG is a wholly owned subsidiary of Alnylam Pharmaceuticals, Inc. It was originally incorporated in Germany as Ribopharma AG and was acquired by Alnylam Pharmaceuticals, Inc. in July 2003, subsequently being renamed. SEC filings (Exhibit 21.1) consistently list Alnylam Europe AG as a 100% owned subsidiary of the registrant, Alnylam Pharmaceuticals, Inc.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1228679/000122867922000011/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/investors/frequently-asked-questions",
+    "https://www.greaterzuricharea.com/en/alnylam",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeYzOqpg75tzM-lrFrmSvwhybWuJVDC99siB_8LJEbz5WAYVTHY_gYXT-9nKGPKXdfSatcU5pc4iwSzw-qFHoC9W-bw0I6Sj6-m7Vqcz93efmz6b1htswOJKMX2bMEibMz7SxLSwDiUMf_Ob1PkB1Q60CTgmzQ5ba4pjRdoLns3qWFakPn_TtUtFnwMhGM_voICU5ku_c1-Kc8",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFTZ1nJjfG8FTnpVvPG04Da-bp-srFtJ6yGP3ZXmFKyTnDGb8-35iWw8vmNt-WgiYuRuv6YnI3I_dKesxtpeHV6oOvbjMk2IcEYLG0-Suu229Q83DlDKrkM-OknxZZkuJU0oAXpOK_BhtxUvJxqe3ZqWinqV8SCUeHbuJ9M_c0DhPTOA6tA82dtj5-ZmaHwA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0UvuuTDh0AschXXmb2zEHBJAyIZF-f3ZXvKv1P36tqZKCrgLnX6HCQu7n0PXRcS9XVtM6cfqhN7BheAN8dKLcVwrRi4W3gFjdmKGGE7-GMNK0xKvshLT0gkISdg32fjOiGBAozoxu1Ct5xSMz69Knr5SKGdb2MNtPITLrAFz2QzrzOBixIH6SFxarFEPZlXCl2thAoKo="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

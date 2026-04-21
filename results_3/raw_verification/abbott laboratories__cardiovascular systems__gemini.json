@@ -1,0 +1,26 @@
+{
+  "seed_company": "Abbott Laboratories",
+  "related_company": "Cardiovascular Systems, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Abbott Laboratories completed the acquisition of Cardiovascular Systems, Inc. (CSI) on April 27, 2023. The transaction was valued at approximately $850 million ($20 per share). Following the acquisition, CSI became a wholly owned subsidiary of Abbott and its shares were delisted from the Nasdaq.",
+  "evidence_urls": [
+    "https://abbott.mediaroom.com/2023-04-27-Abbott-Completes-Acquisition-of-Cardiovascular-Systems,-Inc",
+    "https://www.sec.gov/Archives/edgar/data/1180892/000119312523121514/d488831d8k.htm",
+    "https://www.prnewswire.com/news-releases/abbott-completes-acquisition-of-cardiovascular-systems-inc-301809173.html",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU2I88Z_4ZWUFjgMk2ykVcRqus1BWe4KjNmOFd2O--emZU0AvJt8POyS_FZ2W3BwroX8NjQh8GLK10E0UDP0FSeE09w5vOYO5QIVDyJlFVXVXSZGMhe33eyIIaCl8AkFQIEh1FCiMqieaTKkGFLDHvvYGXrtlune0oOON0LZbEInPTrka2YNiERA8cIrsZ3bERDxpvYJrd8oLcJ8K5bDo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbORsFbB-BM9CdUzC8AGXu9xmOLkXV6mV2vwmykf9MakD5Yjg6QtStn4BJsmOE3MOA7Z7MZe9PRNwYkr0HK_AS3-DSUdIf59qqh2hD_LJ8-OQXQizo83-6LFOIhhzrvDT4LIL193EYf3qFGw9JmCvxtdzvEdIwsnRM8VRuffhR2aBAtqqi0O--nP5qPdM98m8GxI-hGdHDmRJEwBgDoCyLPCuJDiov3iZIUICq-Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO8YvO7Gqo7zWLQk98xMUt1rg4a0lQV4_AL8AaXqvFuRNIsxwrD_OKoU63v0BegKU6Adexa86mIaBoSeKa0QVjLXoBu4Qt-A-stHrucjjJCXdIj4CKjOy24YbRaraZEAzaJ0LlchWC1t2ErpR7USBvf1FaZY0V-6FzU5irHneGu6ThMR-GN870Ec72dik6xJ8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnCds0aCxYijqTia4EmRDfDzdNrJVIHfD3dzpPAiTwfsBc6meWeufJjtKN_1h--kFJSbAvhyCrB7Y6QHsDMbaXPhBaz-usbf6Ypn-2UHXxZdw1Ey6xusmbgCHkbsIqDU2ronhIy2hgiuQiXKbJ8k3fmQt1bRbyJCK6bLyaGmUT2GmVgL0XOscsAgSHttuVUEI0yvpz6zTYpFDJIDJU4fvBd8bpDO3kaiYEmF-HOv11wcVCj7ZAcg5Z1Cm7Q6DMDPU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVSB9bPDuTqjS7b8-BaRQ5fcj7-yoBWIlkNlDp4X4mllWDuSaKFeeKsGYqvY5MPbBDN12DaelCtsSeaZpVbDuctACRxWnBiLVrzquB_umQUG58W-ene13dftwjzWROboQArQ9uZjOlGyExzp7N9HNcbxmgPionnJlVmPAfuVCiz26-Ui3qz_liKLnie3gG8Ip2N_0SaZgUygh_eIv8fFcpOBhIDubATyKUNVPd5ShpU3o0ozn6gW6I8ENAMBKYFypBha6_9cO-_6iz5T7w5eZ2XAUzJL0KOhSI_XYhooFDiu8wQdhZIGFXDrnXpIgaxIczyqhNdOB2vXjY",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErhOubuYOZETOVv-Wr446_hYC-Gwcm2hQB9n5wkm72zKY0Avu-S2dbzOvDnoY7nMBT6JcXyiH7BVsHqjYM1LthLc7o5N5UCC9T4XWzptQedMGmKGsLOT6OOuIACvErycDKm09Pgp1_-O1xBscdXS2AbUPoWN4_7lPQueZv91EoYprcZSkfd4wNM5u0mMkHiL8GUM9UcF7iFp7fv5rFIQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkIThbowU0gPil1UQ_Adyjw8evKtjg848wjcl8gaE8Kkwecm5p4hM0Gwrs6ijex9R5d1ghg2gkLPbHNTFPIMT-ocebjdVeN5tGj5wVphLHDbRt_7tX8lZgAeSVyNbkuvhppCIkSBLkPEN8BsijNFEZ8Md9E5GQ2g_keHE-ZcF2EXo4",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJz02nEbKaiJDXBP5jCrEyhgs0WJ23-OLpHBHfCBVcPFP9nlB3EDGC-nPzLUz8Pm9kWTMLHkt0egDXU1jmQdLoVCuftd-4A7AnxBPEEY6MgHq3DmbUStXeibYr7dUj5U9MBugpPqYHqqsSKl-LygLmsXZhjm3404OZLrc6_87JfX3T5KYz3AEzFQGngm00p0b35tPr34Mo9Drhfg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_mBaHlLMNOPdx9ciQ-7XrVsIpk8nZpxEGQV_ptEcm4ERTyQ09SfmjFshSvU8cDRC0komjug0xmKTmEZ27AErqvgmRcM1yh7Bll0EqWEWD5kuHy2ON4ccU0BUh8CkN8TlDhapiQyyWPuaRtgi6VFWTWBf4VimcyEJYBePvhN6QqRpJhejXuajwRw=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

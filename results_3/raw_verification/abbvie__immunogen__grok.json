@@ -1,0 +1,17 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "ImmunoGen, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "AbbVie completed its $10.1B acquisition of ImmunoGen in Feb 2024; ImmunoGen is now part of AbbVie per official press releases.",
+  "evidence_urls": [
+    "https://news.abbvie.com/2024-02-12-AbbVie-Completes-Acquisition-of-ImmunoGen",
+    "https://news.abbvie.com/2023-11-30-AbbVie-to-Acquire-ImmunoGen-including-its-Flagship-Cancer-Therapy-ELAHERE-R-mirvetuximab-soravtansine-gynx-Expanding-Solid-Tumor-Portfolio",
+    "https://www.abbvie.com/immunogen.html"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

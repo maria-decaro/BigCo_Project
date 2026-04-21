@@ -1,0 +1,16 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Brasil Farmaceutica Ltda",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Listed as 99% owned subsidiary in Alnylam Pharmaceuticals SEC filings (Exhibit 21.1 subsidiaries list). Official Brazilian site confirms affiliation.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm",
+    "https://www.alnylam.com.br/"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

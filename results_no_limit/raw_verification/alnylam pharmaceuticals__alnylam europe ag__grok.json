@@ -1,0 +1,16 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Europe AG",
+  "relationship_type": "Subsidiary",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Europe AG (formerly Ribopharma AG) is a 100% wholly-owned subsidiary of Alnylam Pharmaceuticals Inc per recent SEC Exhibit 21.1 filings; acquired in 2003.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny2024q4exhibit211.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000095013504002514/b49404a3sv1za.htm"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

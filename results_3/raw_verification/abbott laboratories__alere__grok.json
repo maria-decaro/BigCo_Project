@@ -1,0 +1,17 @@
+{
+  "seed_company": "Abbott Laboratories",
+  "related_company": "Alere",
+  "relationship_type": "Acquisition",
+  "confidence": 0.95,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Abbott acquired Alere in 2017 (announced 2016, closed Oct 2017) for ~$5.3B; Alere became subsidiary per official press release and SEC filings",
+  "evidence_urls": [
+    "https://abbott.mediaroom.com/2016-02-01-Abbott-to-Acquire-Alere-Becoming-Leader-in-Point-of-Care-Testing-and-Significantly-Advancing-Global-Diagnostics-Presence",
+    "https://abbott.mediaroom.com/2017-09-29-Abbott-Acquisition-of-Alere-Set-to-Close-on-Tuesday-October-3-2017",
+    "https://www.sec.gov/Archives/edgar/data/1800/000110465917065654/R13.htm"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

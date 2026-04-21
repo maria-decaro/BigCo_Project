@@ -1,0 +1,20 @@
+{
+  "seed_company": "Acadia Pharmaceuticals Inc",
+  "related_company": "ACADIA Pharmaceuticals GmbH",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "ACADIA Pharmaceuticals GmbH is a wholly owned Swiss subsidiary of Acadia Pharmaceuticals Inc. According to the parent company's 2024 and 2025 SEC filings (Form 10-K), Acadia Pharmaceuticals GmbH (based in Zug/Basel, Switzerland) manages the worldwide supply chain for the active pharmaceutical ingredient (API) of their product NUPLAZID (pimavanserin) and holds various intellectual property rights licensed from the parent company. It is explicitly listed as a subsidiary in Exhibit 21.1 of the company's SEC filings.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1070494/000107049423000024/acad-ex21_1.htm",
+    "https://acadia.com/wp-content/uploads/2025/02/Acadia-2024-Annual-Report.pdf",
+    "https://www.northdata.com/Acadia+Pharmaceuticals+GmbH,+Basle/CHE-435.458.844",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZYs_5GECukTAsmwd9EMTyrvpccV_ZQM-_jZK_yT0Sra6lHaA8iUJtwRcM_qNpNhZnAn0-5W_G0b1cSX8EHExT82mwTLP53q_SIb11lItzM7Gh3CL5FZeb5eXjbC8T1ZvXPOTa_FSevszXk_92785xeGQ67FUbPWlakQ7TZo4g8l32eAjjHABwLjMLwQKkon3liOyg5s5CCB9kVitS01E=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwn2b6XrwpyAtiIOfNk601Tj3YOWKxOdeK-xCcrt8YhF5U70zVl9wt1pv0DCC1xdpiKPW_Co9VP1SX9SPvGzx3fugVe0mmE7GxK2oAR5A5KYNzszs-0ylS6gXBr7ZyFfiQuH-ULUN7h_kCTfbYkG9uGjgwzAvt0LRnR-0EyFmTA6J5BMbKpa_5UaQu2ZpFXnwWE1SWZSrVYvy-tJVfb7EIp1qp-IfMJE6Rk3yFJI_t99jJxlWWxC1Mi5JVXd1h6T5MPyBmXYgu4QrV6C0ILkl2Vtj3Paap7ZZPKAQcwVpVXOursa4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrp7vWj1gnCyIcmyjrGnwDTyLNa-dUwiDFIy2xdjj2Jn52tVWfdAFQTG1klVDxrAaHe6x6VprXFnC1EYKF5ow-TUBfQjj9LW4A8GxWqc9jiIiUH_5TCjvpUcExyXlaUyunzzBXwfdQMdKTMMb_Z_1OIs3fyLkRq7kpLCYohp5G39g="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

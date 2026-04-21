@@ -1,0 +1,16 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "Pharmacyclics, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "AbbVie acquired Pharmacyclics in 2015 for approximately $21 billion via tender offer followed by merger; Pharmacyclics became a wholly-owned subsidiary per official AbbVie press releases and SEC filings.",
+  "evidence_urls": [
+    "https://investors.abbvie.com/news-releases/news-release-details/abbvie-completes-acquisition-pharmacyclics",
+    "https://investors.abbvie.com/news-releases/news-release-details/abbvie-acquire-pharmacyclics-including-its-blockbuster-product"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

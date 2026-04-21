@@ -1,0 +1,22 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "Cerevel Therapeutics",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "AbbVie Inc. completed its acquisition of Cerevel Therapeutics on August 1, 2024. The transaction was valued at approximately $8.7 billion, with AbbVie acquiring all outstanding shares of Cerevel for $45.00 per share in cash. Following the completion, Cerevel became a part of AbbVie and its common stock ceased trading on the NASDAQ.",
+  "evidence_urls": [
+    "https://news.abbvie.com/2024-08-01-AbbVie-Completes-Acquisition-of-Cerevel-Therapeutics",
+    "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000043/abbv-20240930.htm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU3wCsma509MQExmyKCOHha8ZUTVjyHHtUOSBAGWyYui2AgmJKp82v3vfZYeTmuDES35FtjcgqaBFDs4nRpnIGvMQ9zbNz5j-4Xu9fNnSBjuApkmAGkRc49b-8AeP2AKWskDlcq7mPDo6ZvqulNuN3H6Itp4QGjQskCoT4Kbysu6M83ut_hncIhkznXBTt5rhQM_dfc3sanGPig9Apcdqz7vI5bHe_SyEFJMBkVF3zMk4JUfsyPJdvzkpL9lrNgRV34gwWgA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ0BfbkD3zg9ewhMHtnFcUilyg8DQ9bosXycgHMDztLNh4Op2eavUXs9XtfAT_IRzSKn_RfHfCOi2AyXKcr9pzt_N4TtL0lP2A_2-oQIfOJhYvygOGQC3W34S24Qq7AqLuxk8gP7qkKkxeYP7hmBiaVOU1uCFZlBhBCeBwnJdJ2FhryPWyS6ruBEMDxl0EGsnj",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuhBZERK1C8M8TvUAjbj3znRh5ls-cZU851bcHwTDOprRctRIqVm8lLBN84AgH7j7RoJwNGYYpt6GZVFEjVIjWUW6jVDOIl0QQsoEefuEMxnK2NTaTW1Q2MpOgGrVtIB6qX7kyrAhu3kkHuy3NwaPuHFNrBxx9zmyuPwLOtNDb_hYS7SDYigrFR2Cf3us7stvVrKxWD6b4v61dIwp8GEx3OWVUaJ7a",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOcaX8OCnoTNawqKnVBEh9exwE2tVKY5o3uMN1_nt5ssCegcLQXuQCl5_8WjWpZMu_rrQPYVEAcvF0DX9W0OaoAn6j4GfM5q2_DX7SWOx-NjBiIAHy4ugq-DeL8jv1RzC2tr6rqds7rE5on8sxK0VwiLmdxxgGA85Mqji26TwEiv--CNA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk9cV0W5aUluid0lYyJCIKZnKHPK0Om9fxs0QbTBPgtJi1XGXkss1GA4rZA-3aywUkVkb01miZTtPa3DQ4sQHmaQ6D37JoaX7In_iyyzEV2zDpHorIsmnbc9oGJkXDl0Q9MOWMYbq6iRXk56GgSKGbdlguEkc5cYgj25X-yYm_TXbU4gMPTNu0C3D2SAl1sro_JOWzaEZh7f_wziPPcRCB299_JojmFEYkEUjxPBhQq4fIJIcb3SlGjdtbEWy68QZQ6ycpts4rtEgiXSEas7irxnU5KCgiK-aDSc8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTy3k0fonDzioFo6E95dXVdYD9TWTN6f1aKyLHq1D9vV1PrwQ5zENmfrsD5nriy4603wSlQWEsrhk9qCjYOIgQTx5NNCMNaN-Ygu_y3t171ljuaT0gWAGIKbIKeDZAbSqdgcLVo6EdzlNeWXTZDQhjN9QjswHIPUwtd8AEfUef6V8U3wCKYJu0XsOSDfaTcWCcvjdpHifs_jm2nqQ2AQWzZ2dQH07E1YtEbGn-5K-rRdHukGEgDLAB"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

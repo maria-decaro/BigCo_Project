@@ -1,0 +1,21 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Pharmaceuticals Spain SL",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals Spain SL is a 100% owned subsidiary of Alnylam Pharmaceuticals Inc, as explicitly listed in the parent company's SEC Form 10-K filings (Exhibit 21.1, 'Subsidiaries of the Registrant'). The Spanish entity serves as the local operating unit for the parent company's activities in Spain.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000014/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/es/spain",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGEBvX3JGmC85K6e0atqeS9jDEcMtRIBXJAJELS2QmpnxoyAjVHrzbWXgQ281GTH7jYMZwgtlo9nvZmXpd5G-0fsV-D7X2G-Lgwg_07djI976KeKJJ3z-tvtCejzCEXYH9lf4V99RT6gExYZ65iKqdAylEEndu71EcwnP2F95PWuUz1Ut0kUlFZmz8v78zUogqDMADECw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETIA9AV65wlWHALvXjdDs57pe93BS3dRm18hw--AntqVwI2VldVFmZDvBiq6A9W1_nSTg5gdur0GYciVXVLxAoC4Nps1ELtrkywPOyeUFZIH774IJC5s471Q0LIdS6-M55g-DKtGp90DWAtiW5az2xOjrQszEKLSm5sn0Xl8GdIo3onVm8RN0Quloa2fQ9ABL-xcMQnWYX_H27",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKmDS_UxgPaMYqzfJvdcKLsxpzbc7Zavyt4x1gvmuEPqg45psnJEASg49Aq_qNuRNmI8gcDGlZAK9CZFGCm35FOdV2ZxPFgfMCaAhTvkmSNBeieMhj68JFXqqBY-NsbOtqxGwDOp8-otp9STbYgUGtggQbPIpEQrw61VPqf8h9OdKkPJYwXpyDSbivLIA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBGk_l9FWu6Wpn2RICjd2jwyoo_-zyztNU_456Fy9J0OoavGxf_2AF-YkpL-7su12ntTWkbnZp22-vW-ixu5mmONhKe6Zz8SWGcobZScgjIhAul0TFR7GPd-ktUQczsjRe5ayr5ovSnypdXVlyD2ZgjRXEb6lrOFaSoyDX-pD5LAUxXo9vYWImRO_RIywjsPA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrOaSAJ-h_HVwEQugWvimhjiXH2blTEV04-5kQmOCf64q4tcWGxdm7ViI7B5mx7X1Pk-iDXVLl5fa1eM5Z7HkSALkry5eMsNthEciDAFZVhWpm9-TAwEIQqLU9OIVIIOTk"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

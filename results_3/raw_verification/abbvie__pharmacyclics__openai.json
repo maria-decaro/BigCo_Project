@@ -1,0 +1,31 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "Pharmacyclics, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.99,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Official AbbVie press releases and SEC-filed materials state that AbbVie agreed to acquire Pharmacyclics in March 2015 and completed the acquisition on May 26, 2015. Subsequent AbbVie materials also describe Pharmacyclics as a wholly-owned subsidiary of AbbVie, confirming the acquisition outcome.",
+  "evidence_urls": [
+    "https://investors.abbvie.com/news-releases/news-release-details/abbvie-acquire-pharmacyclics-including-its-blockbuster-product",
+    "https://investors.abbvie.com/news-releases/news-release-details/abbvie-completes-acquisition-pharmacyclics",
+    "https://www.sec.gov/Archives/edgar/data/949699/000119312515079014/d885940dex991.htm",
+    "https://news.abbvie.com/2015-10-28-IMBRUVICA-ibrutinib-Awarded-Prix-Galien-2015-Best-Pharmaceutical-Agent",
+    "https://investors.abbvie.com/news-releases/news-release-details/abbvie-extends-exchange-offer-acquire-pharmacyclics-inc",
+    "https://news.abbvie.com/2015-05-26-AbbVie-Completes-Acquisition-of-Pharmacyclics",
+    "https://investors.abbvie.com/static-files/99e52f6b-c073-447d-bb6d-0a5a8513e2a2",
+    "https://investors.abbvie.com/news-releases/news-release-details/abbvie-acquire-cerevel-therapeutics-transformative-transaction",
+    "https://news.abbvie.com/2016-11-03-AbbVie-to-Showcase-Growing-Oncology-Portfolio-and-Commitment-to-Treating-Blood-Cancers-at-the-2016-American-Society-of-Hematology-Annual-Meeting",
+    "https://news.abbvie.com/2015-03-04-AbbVie-to-Acquire-Pharmacyclics-including-its-blockbuster-product-Imbruvica-Creating-an-Industry-Leading-Hematological-Oncology-Franchise",
+    "https://investors.abbvie.com/static-files/ef425968-5c4d-465d-8b21-5573d25b9fb2",
+    "https://www.sec.gov/Archives/edgar/data/1551152/000110465915036257/a15-7010_110q.htm",
+    "https://www.sec.gov/Archives/edgar/data/949699/000110465915026512/a15-8821_1425.htm",
+    "https://news.abbvie.com/2020-05-08-AbbVie-Completes-Transformative-Acquisition-of-Allergan",
+    "https://investors.abbvie.com/static-files/1009e0cb-3792-412d-a333-092fd5cd1e13",
+    "https://investors.abbvie.com/static-files/a68c46a6-d0df-402e-a74f-ee6f8a636ba8",
+    "https://investors.abbvie.com/static-files/aef2f069-cdd3-4ddc-b9e1-84bfd93da504"
+  ],
+  "needs_review": false,
+  "provider": "openai"
+}

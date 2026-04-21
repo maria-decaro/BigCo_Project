@@ -1,0 +1,32 @@
+{
+  "seed_company": "A1C Labs LLC",
+  "related_company": "Puffin Hemp",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.62,
+  "source_authority": "medium",
+  "recency": "medium",
+  "clarity": "low",
+  "evidence_summary": "Current web evidence links A1C Labs LLC to a CBD patent assigned to A1C Labs and shows Puffin Hemp marketing CELLg8 hemp products and hosting studies/patent materials tied to Emek Blair/Valimenta Labs. However, I found no clear official statement or filing showing that A1C Labs LLC acquired Puffin Hemp, merged with it, or is its parent/subsidiary. The evidence suggests product/research/technology association, but the corporate relationship is not clearly established.",
+  "evidence_urls": [
+    "https://puffinhemp.com/",
+    "https://puffinhemp.com/wp-content/uploads/2023/09/CBD-Patent.pdf",
+    "https://puffinhemp.com/wp-content/uploads/2023/09/Liposomal-Cannabidiol-Delivery-AJCEM.pdf",
+    "https://puffinhemp.com/wp-content/uploads/2023/09/Safety-Study-Published-2.pdf",
+    "https://opengovco.com/business/20241618577",
+    "https://opengovco.com/business/20171067709",
+    "https://opengovco.com/business/20248147225",
+    "https://patents.justia.com/assignee/a1c-labs-llc",
+    "https://www.quick.md/quick-tips/are-diy-blood-tests-a-good-idea/",
+    "https://br.investing.com/news/company-news/resultados-do-3o-tri-da-eli-lilly-receita-dispara-54-com-dominio-dos-analogos-de-incretina-93CH-1725761",
+    "https://doctor.webmd.com/doctor/priya-krishnamurthy-3c63b4fa-d458-48f1-b3e3-139191c38ca8-overview",
+    "https://www.sec.gov/Archives/edgar/data/1760764/000121390022004394/ea154535-f1_gmedicalinno.htm",
+    "https://doctor.webmd.com/doctor/gregg-reger-4e6edcc3-775d-e111-ae23-001f29e3eb44-overview",
+    "https://www.hawaiidoc.com/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8627736/",
+    "https://requestatest.com/diabetes-test-carlsbad-california-6971-el-camino-real-92009",
+    "https://puffinhemp.com/wp-content/uploads/2023/09/Canine-Mobility-Study.pdf",
+    "https://www.usmodernist.org/AIAMN/AIAMN-2016-05-06.pdf"
+  ],
+  "needs_review": true,
+  "provider": "openai"
+}

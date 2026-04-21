@@ -1,0 +1,18 @@
+{
+  "seed_company": "A1C Labs LLC",
+  "related_company": "Pulpo LLC",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.8,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "medium",
+  "evidence_summary": "A1C Labs LLC and Pulpo LLC are closely linked through shared intellectual property and leadership, specifically Dr. Emek Blair. A1C Labs LLC is the assignee of patents (e.g., US Patent 11,690,809) for methods of treatment using cannabidiol, while the patent text identifies Pulpo LLC as the source of the 'CELLg8' liposomal CBD product used in the patented methods. Both companies operate in the health and wellness sector in Colorado (Wellington and Fort Collins). However, there is no public evidence of a formal acquisition, merger, or parent-subsidiary relationship; they appear to function as separate legal entities under common control or in a close licensing/partnership arrangement.",
+  "evidence_urls": [
+    "https://puffinhemp.com/wp-content/uploads/2023/07/US11690809.pdf",
+    "https://www.gurufocus.com/news/1564810/orchid-ventures-reports-annual-financial-results-for-fiscal-year",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB-oUWX8Z1KDpOaI1tiD1y5H4YfxU2ICU3m6fMVlgSjbX7nr3ESRVOfLuVGl1kn4yocMqaEHcwD6xEx2qOunTePzyks4boP1Bp49T2WMcHr5hnwtlZEIulR4VjS-Zxcgn04hZuuLhlmdVMRGBFlb_1QUg7Emtha-RAeTQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAf6WmJ4IpoRrB7-hHEtZ4mxWM8o1_ilvvwzTYwzHdpVuaSd8bJ1RDqgqzE3d8h5QqLLqK63jTxy0XCwd2zZFKRiT6T13vKdIS7mFRLnCmsUBDk08i-Fap-NdtaPoPG7nxAHV8VaeUQY5QJ8dVpVJ4QutbhVsqZGIT9g=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

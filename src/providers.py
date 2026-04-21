@@ -11,6 +11,8 @@ from src.config import (
     OPENAI_MODEL,
     GEMINI_MODEL,
     XAI_MODEL,
+    GEMINI_TIMEOUT_SECONDS,
+    GEMINI_MAX_RETRIES,
 )
 
 def extract_json_object(text: str) -> Dict[str, Any]:
@@ -141,9 +143,14 @@ class GeminiProvider(BaseProvider):
 
         last_error = None
 
-        for attempt in range(5):
+        for attempt in range(GEMINI_MAX_RETRIES):
             try:
-                response = requests.post(url, headers=headers, json=payload, timeout=90)
+                response = requests.post(
+                    url,
+                    headers=headers,
+                    json=payload,
+                    timeout=GEMINI_TIMEOUT_SECONDS,
+                )
                 response.raise_for_status()
                 data = response.json()
 
@@ -187,16 +194,28 @@ class GeminiProvider(BaseProvider):
             except requests.HTTPError as e:
                 last_error = e
                 status = e.response.status_code if e.response is not None else None
-                if status and status >= 500 and attempt < 4:
+                if status and status >= 500 and attempt < GEMINI_MAX_RETRIES - 1:
                     wait_time = 2 ** attempt
                     print(f"[GEMINI RETRY] attempt={attempt + 1} waiting={wait_time}s status={status}")
                     time.sleep(wait_time)
                     continue
                 raise
 
+            except (requests.Timeout, requests.ConnectionError) as e:
+                last_error = e
+                if attempt < GEMINI_MAX_RETRIES - 1:
+                    wait_time = 2 ** attempt
+                    print(
+                        f"[GEMINI RETRY] attempt={attempt + 1} waiting={wait_time}s "
+                        f"network_error={type(e).__name__}"
+                    )
+                    time.sleep(wait_time)
+                    continue
+                raise
+
             except Exception as e:
                 last_error = e
-                if attempt < 2:
+                if attempt < GEMINI_MAX_RETRIES - 1:
                     time.sleep(2 ** attempt)
                     continue
                 raise

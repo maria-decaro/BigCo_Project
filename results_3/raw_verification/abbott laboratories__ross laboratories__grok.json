@@ -1,0 +1,17 @@
+{
+  "seed_company": "Abbott Laboratories",
+  "related_company": "Ross Laboratories",
+  "relationship_type": "Acquisition",
+  "confidence": 0.85,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Abbott acquired Ross Laboratories in 1964, making it a wholly owned subsidiary (later Ross Products Division, renamed Abbott Nutrition in 2007) and adding Similac to its portfolio.",
+  "evidence_urls": [
+    "https://en.wikipedia.org/wiki/Abbott_Laboratories",
+    "https://www.dispatch.com/story/business/2014/04/06/abbott-nutrition-s-healthy-heritage/24011568007/",
+    "https://www.gr.abbott/media-center/news/abbott-nutritions-ohio-heritage.html"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

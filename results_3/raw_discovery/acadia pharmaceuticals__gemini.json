@@ -1,0 +1,70 @@
+{
+  "seed_company": "Acadia Pharmaceuticals Inc",
+  "discoveries": [
+    {
+      "related_company": "CerSci Therapeutics Incorporated",
+      "relationship_type": "Acquisition",
+      "confidence": 1.0,
+      "event_year": "2020",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Acadia Pharmaceuticals acquired CerSci Therapeutics, a clinical-stage biotechnology company, for $52.5 million in a transaction that closed on August 24, 2020. The acquisition included worldwide rights to CerSci's portfolio of novel non-opioid pain therapies.",
+      "evidence_urls": [
+        "https://www.acadia.com/media/news-releases/acadia-pharmaceuticals-acquires-cersci-therapeutics-adds-novel-pain-program-to-portfolio/",
+        "https://www.biospace.com/article/acadia-pharma-acquires-cersci-therapeutics-for-52-million/",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTfBC0tQUXhIwLsTQY-YwnpvdUAh0gJjrGNc1bbcP5Tv70N4X6qYQ3Kxd5KexWm1yk_Y9-pypdzhXH7PmdO2_cnMEz13qNAI0G4Rv_k72xHSzy3yOHGF8eetBeFzZWXFOdD9L9hPDldwB0Q-flms1Wcwxi25ExVAs37U94DvpTItGXArIXPv__8mt_bM0tLTghfJHqd1t06iLHTEI=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA2IVO_B3Dr45VARlOG9PjUaw9eKiSOPyhqPcMPuTy3kMD3b6bzHdRxjBJk3RZwKXTIiN8pEmFEDmqDGKEWz1Gj7vY1ZKfk2N2NhXjgJY2Mzf8jndA4JTGKGl9Ygg7opfmwQ-7Bl8OG_hOyyFE4jr1eAZOuA=="
+      ]
+    },
+    {
+      "related_company": "Amorsa Therapeutics Inc.",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": "2020",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Amorsa Therapeutics is listed as a subsidiary of Acadia Pharmaceuticals Inc. in its SEC Exhibit 21.1 filings. Acadia acquired Amorsa in 2020 to gain access to its ketamine-based treatments for central nervous system disorders.",
+      "evidence_urls": [
+        "https://fintel.io/doc/sec-acadia-pharmaceuticals-inc-1134505-ex211-2023-february-28-19416-6541",
+        "https://www.sec.gov/Archives/edgar/data/1134505/000113450522000011/acad-ex21_1.htm",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTfBC0tQUXhIwLsTQY-YwnpvdUAh0gJjrGNc1bbcP5Tv70N4X6qYQ3Kxd5KexWm1yk_Y9-pypdzhXH7PmdO2_cnMEz13qNAI0G4Rv_k72xHSzy3yOHGF8eetBeFzZWXFOdD9L9hPDldwB0Q-flms1Wcwxi25ExVAs37U94DvpTItGXArIXPv__8mt_bM0tLTghfJHqd1t06iLHTEI=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA2IVO_B3Dr45VARlOG9PjUaw9eKiSOPyhqPcMPuTy3kMD3b6bzHdRxjBJk3RZwKXTIiN8pEmFEDmqDGKEWz1Gj7vY1ZKfk2N2NhXjgJY2Mzf8jndA4JTGKGl9Ygg7opfmwQ-7Bl8OG_hOyyFE4jr1eAZOuA=="
+      ]
+    },
+    {
+      "related_company": "ACADIA Pharmaceuticals A/S",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "ACADIA Pharmaceuticals A/S is a wholly-owned subsidiary of Acadia Pharmaceuticals Inc. based in Denmark, as confirmed by the company's SEC Exhibit 21.1 (List of Subsidiaries).",
+      "evidence_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1134505/000113450523000014/acad-ex21_1.htm",
+        "https://fintel.io/doc/sec-acadia-pharmaceuticals-inc-1134505-ex211-2022-march-01-19052-329",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTfBC0tQUXhIwLsTQY-YwnpvdUAh0gJjrGNc1bbcP5Tv70N4X6qYQ3Kxd5KexWm1yk_Y9-pypdzhXH7PmdO2_cnMEz13qNAI0G4Rv_k72xHSzy3yOHGF8eetBeFzZWXFOdD9L9hPDldwB0Q-flms1Wcwxi25ExVAs37U94DvpTItGXArIXPv__8mt_bM0tLTghfJHqd1t06iLHTEI=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA2IVO_B3Dr45VARlOG9PjUaw9eKiSOPyhqPcMPuTy3kMD3b6bzHdRxjBJk3RZwKXTIiN8pEmFEDmqDGKEWz1Gj7vY1ZKfk2N2NhXjgJY2Mzf8jndA4JTGKGl9Ygg7opfmwQ-7Bl8OG_hOyyFE4jr1eAZOuA=="
+      ]
+    },
+    {
+      "related_company": "Acadia Pharmaceuticals Holdings Inc.",
+      "relationship_type": "Subsidiary",
+      "confidence": 1.0,
+      "event_year": null,
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Acadia Pharmaceuticals Holdings Inc. is identified as a Delaware-incorporated subsidiary of Acadia Pharmaceuticals Inc. in official SEC filings listing the company's corporate structure.",
+      "evidence_urls": [
+        "https://fintel.io/doc/sec-acadia-pharmaceuticals-inc-1134505-ex211-2023-february-28-19416-6541",
+        "https://www.sec.gov/Archives/edgar/data/1134505/000113450522000011/acad-ex21_1.htm",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTfBC0tQUXhIwLsTQY-YwnpvdUAh0gJjrGNc1bbcP5Tv70N4X6qYQ3Kxd5KexWm1yk_Y9-pypdzhXH7PmdO2_cnMEz13qNAI0G4Rv_k72xHSzy3yOHGF8eetBeFzZWXFOdD9L9hPDldwB0Q-flms1Wcwxi25ExVAs37U94DvpTItGXArIXPv__8mt_bM0tLTghfJHqd1t06iLHTEI=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA2IVO_B3Dr45VARlOG9PjUaw9eKiSOPyhqPcMPuTy3kMD3b6bzHdRxjBJk3RZwKXTIiN8pEmFEDmqDGKEWz1Gj7vY1ZKfk2N2NhXjgJY2Mzf8jndA4JTGKGl9Ygg7opfmwQ-7Bl8OG_hOyyFE4jr1eAZOuA=="
+      ]
+    }
+  ],
+  "provider": "gemini"
+}

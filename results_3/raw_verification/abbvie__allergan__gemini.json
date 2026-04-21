@@ -1,0 +1,21 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "Allergan plc",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "AbbVie Inc completed its acquisition of Allergan plc on May 8, 2020, for approximately $63 billion. The transaction was executed via a court-sanctioned scheme of arrangement under Irish law, resulting in Allergan becoming part of AbbVie. Allergan common stock ceased trading on the NYSE upon completion of the deal.",
+  "evidence_urls": [
+    "https://news.abbvie.com/news/press-releases/abbvie-completes-transformative-acquisition-allergan.htm",
+    "https://www.sec.gov/ix?doc=/Archives/edgar/data/1551152/000155115220000017/abbv-20200508.htm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkOhCCKSDZX97SFrMow6S2dPffhB2MdieNqvxcxqrvw3t2MAUDKtp3R9Li2xYEbpXheX9-OUxlakE23EOeA5J2C5K7s_3qDWFOcTVvwUINy3-Tj5wQB2XklJ3TL841gA-u6zqET320dIPQbrFRitPi7wQhV8NbOM8tiFOocjuLyhy1qwr2AA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAtEu4eJkKLiJmmL8MNJ6gPn2QmDtfZ52BLf4KqULhuvnxUMciUchVqFS53jkYX2Jcpy0iJq-eb8fbB3RsTXqvri16F8hrd96aqXBQ1LUD71tfPueH-OEPu68JpfQCxTM0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHapNRYZ729ZIgMbXcCX1RnOEOS_WSYCkBSZzKCk-upSwsYFGVgAuW3vtrS62n3a69sATjy8_4D9N_Qkv88etsuuhxKm6tfpsgY-v0e69DrU1vnXPJEdGkaQTlqD_QTVvtawwg_5rSusDdD_eJByrLyK1IPOJUjo04iAYgJ17XWhzNf2jAXlo4y3UfeiiNUFY8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeVP9JReY5ZMQUqoQv__DO5m-4DurKIduP0acu4iw-MyMMw_0oSN-zNyuhlzXBp30la8ikfEWe-BJyfzdMa_pVhulitDzOSlLAC2bZte1TmSmq5S9Q5kZVk3d7uPXok7camKfEF3KLt2wHdKMID053BuaOAY-Tu7DQYbxayPSLhcIj6bX9tKiXp9M4IwE36Ai8srqexA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe39u4skuc4LUyevjdSlDV1VrjKGZH0M1O7ifwY5ss7Dho4eY98luq-j-aIm0Mgqzk8r8euZYCF7IenfSXgXzegtFeFq86YYLBYV4UOg0BHtghpa6KL4hgZlYSOmTO6kC0aSBkikhf2yoLvCA3D7zsYB1-4Ki10W5_rMVeJVdIn4VHafX248QUk96EOwhp"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

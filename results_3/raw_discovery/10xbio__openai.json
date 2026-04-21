@@ -1,0 +1,50 @@
+{
+  "seed_company": "10xBio LLC",
+  "discoveries": [
+    {
+      "related_company": "Leios Therapeutics, Inc.",
+      "relationship_type": "Subsidiary",
+      "confidence": 0.93,
+      "event_year": "2025",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "Leios Therapeutics states on its official website that it 'formerly operated as 10xBio, LLC,' indicating a direct corporate continuation/rebrand of 10xBio into Leios Therapeutics. Because the allowed labels do not include rebrand/name change, this is mapped to the closest permitted category.",
+      "evidence_urls": [
+        "https://leiostherapeutics.com/",
+        "https://leiostherapeutics.com/wp-content/uploads/LeiosTherapeuticsCorporateWebsiteDeck.pdf",
+        "https://jakkgroup.com/",
+        "https://app.dealroom.co/companies/10xbio",
+        "https://leiostherapeutics.com/press-releases/10xbio-announces-the-completion-of-enrollment-in-phase-2b-clinical-trial-of-novel-drug-for-submental-body-contouring/",
+        "https://www.linkedin.com/in/zhaoyingxu",
+        "https://cdek.pharmacy.purdue.edu/org/56966/",
+        "https://www.cbinsights.com/company/10xbio",
+        "https://www.vbdata.cn/newsDetail/6c67508c3c4611eea53d00163e0cb09b",
+        "https://trial.medpath.com/organization/630e13c89b14bb58/10xbio-llc",
+        "https://www.crunchbase.com/organization/10xbio",
+        "https://platform.dkv.global/mind-map/firms/24119/",
+        "https://linkstock.net/10xbio/",
+        "https://10xbio.com/wp-content/uploads/10xBioNonConfidentialPresentation.pdf",
+        "https://www.ipd.gov.hk/hkipjournal/28082020/Patent_28082020.pdf",
+        "https://www.sec.gov/Archives/edgar/data/1651944/000114420419028657/tv522550_ex99-2.htm",
+        "https://www.sec.gov/Archives/edgar/data/1651944/000119312519217016/d759407d424b3.htm",
+        "https://www.sec.gov/Archives/edgar/data/1651944/000119312519175664/d759407ds4.htm",
+        "https://www.sec.gov/Archives/edgar/data/1651944/000119312519215185/d759407ds4a.htm",
+        "https://www.sec.gov/Archives/edgar/data/1651944/000119312519211417/d759407ds4a.htm",
+        "https://www.marketscreener.com/news/bnc-korea-co-ltd-reports-earnings-results-for-the-full-year-ended-december-31-2025-ce7e51d8df8ff126",
+        "https://www.marketscreener.com/news/leios-therapeutics-announced-that-it-has-received-funding-from-bnc-korea-co-ltd-ce7e5bdedf80f620",
+        "https://www.marketscreener.com/news/leios-therapeutics-inc-announced-that-it-expects-to-receive-5-000002-million-in-funding-ce7e5adcdd8df422",
+        "https://www.marketscreener.com/quote/stock/BNC-KOREA-CO-LTD-120976219/company-shareholders/",
+        "https://www.marketscreener.com/news/bnc-korea-co-ltd-reports-earnings-results-for-the-third-quarter-and-nine-months-ended-september-3-ce7d51dbdb81f62c",
+        "https://www.marketscreener.com/news/lexeo-therapeutics-inc-nasdaqgm-lxeo-added-to-s-p-biotechnology-select-industry-index-ce7d50d2db81f125",
+        "https://www.marketscreener.com/quote/stock/BNC-KOREA-CO-LTD-120976219/news/BNC-Korea-Co-Ltd-Reports-Earnings-Results-for-the-First-Quarter-Ended-March-31-2025-50096537/",
+        "https://au.marketscreener.com/quote/stock/BNC-KOREA-CO-LTD-120976219/news/BNC-Korea-Co-Ltd-Reports-Earnings-Results-for-the-First-Quarter-Ended-March-31-2025-50096537/",
+        "https://www.marketscreener.com/quote/stock/BNC-KOREA-CO-LTD-120976219/quotes/",
+        "https://www.marketscreener.com/news/companies/sectors/pharmaceuticals-medical-research-5620000000?p=10",
+        "https://www.marketscreener.com/quote/stock/LIANBIO-128747414/news/LianBio-Announces-Completion-of-Strategic-Review-45939189/",
+        "https://leiostherapeutics.com/wp-content/uploads/LeiosTherapeuticsCorporateWebsiteDeck.pdf?v=2"
+      ]
+    }
+  ],
+  "provider": "openai"
+}

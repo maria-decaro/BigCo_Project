@@ -1,0 +1,22 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Switzerland GmbH",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Switzerland GmbH is a 100% owned subsidiary of Alnylam Pharmaceuticals, Inc., as explicitly listed in the parent company's SEC filings (Exhibit 21.1). The Swiss entity serves as the company's international headquarters in Zug, Switzerland.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000005/alny2021q4exhibit211.htm",
+    "https://www.alnylam.com/contact-us",
+    "https://www.moneyhouse.ch/en/company/alnylam-switzerland-gmbh-1111111111",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCgO_bLdEUaS2wOrfa9Vk6EUHpoEae6OWoXtBVBDAJcieV_8gebybXm_LbZSFOYvBjMJX7lx5GyRzR839YBkGZpzrJhqtABHnznEl_N0KkyNFJgdulEyiJYCtC8-VDpW8tSlFGb-J1yJLgXVKQ3cnSgnn58SuAabpYZnJo3z9L93wLpbm_4tU6fVxGAxwkKA004qmUStk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3HdIb2a0aThmDiBOUcTD_h4VOYmeLJveOoaKSxjSNSuJ39Gmh6m7YanT7PWbj3ZlQlwdgYaCkH2iTtd5UKXYoVidMykd0WQOF5nrws5FzKCfb1mzOKD1fg_OdGmx4yqWrP9i_KqtsdbfMNDVplUYi1ToDfTxo52gYve2vP4g89c8_pkNmx-0OtizlQmc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_LmLahah0Yo4wIVsVgcLtzZE-HjbSK6PfJ_C89S9EbZlzpQ2zzfEo9_YiBHDXUd3tGsBKSKh2uESFddccs0zBd4q5rhOxj9o2YeZ5-3lE75okntVu5K66Ut6OisYFyVZGR8SqbErWgE0dK9yjzgKsH8zp8VXn2H7CyGbARsVN3XiTRKYeZR4-XGwQ0jPaMNM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtOGqyWqPn18b2r7XgDKLv_0rsa-5Rwi9S04SbMFkqVtjkfmXJkb2G7Ph8nY7do31ZVkT_Vr3hnEloPdqJ-CUZj87ajGYPchx3pgcrbElnH7eGkPzXijQteZiC6WCnFg0L69qOieQvsA0eCPr9PqAnFbGzbhgzgIQIIVIgCzq0TFem6d1rBFtvB1h4vfzV3unn4UEUjqF0zOpYGvgW06iKTjVOYdtiDy6I9SaYIj4_HVoFEq5XLgk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJjz0Ewz7i3Ulf46t4_9iMVSLNfx7WNhMkWfpR_9E2hWryMPNJfMLTEGfjSLFYekVHKo8RdX1tPAz_C1wA65rdEIppWJhA_JsBTc-PmLgFl116C5uA2h9d5XXHYRQ="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

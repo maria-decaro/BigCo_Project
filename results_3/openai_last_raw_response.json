@@ -1,0 +1,184 @@
+{
+  "id": "resp_010b48b948b77c730069e7e2dd0ff0819395ad72c87fc5656a",
+  "object": "response",
+  "created_at": 1776804573,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1776804578,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5.4-2026-03-05",
+  "output": [
+    {
+      "id": "ws_010b48b948b77c730069e7e2dd94e08193a21d254bccf7c593",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "AbbVie Capstan Therapeutics press release collaboration acquisition site:abbvie.com OR site:investors.abbvie.com OR site:capstantx.com",
+          "AbbVie Capstan Therapeutics SEC filing collaboration acquisition",
+          "Capstan Therapeutics AbbVie press release December 2024"
+        ],
+        "query": "AbbVie Capstan Therapeutics press release collaboration acquisition site:abbvie.com OR site:investors.abbvie.com OR site:capstantx.com",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://news.abbvie.com/2025-08-19-AbbVie-Completes-Acquisition-of-Capstan-Therapeutics"
+          },
+          {
+            "type": "url",
+            "url": "https://www.cnbc.com/2025/06/30/abbvie-to-buy-capstan-therapeutics.html"
+          },
+          {
+            "type": "url",
+            "url": "https://news.abbvie.com/2025-02-12-AbbVie-and-Xilio-Therapeutics-Announce-Collaboration-and-Option-Agreement-to-Develop-Novel-Tumor-Activated-Immunotherapies"
+          },
+          {
+            "type": "url",
+            "url": "https://www.biopharmatrend.com/news/abbvie-acquires-capstan-therapeutics-for-21b-gaining-in-vivo-car-t-platform-targeting-autoimmune-diseases-1310/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000040/abbv-20250630.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://www.investing.com/news/company-news/abbvie-to-acquire-capstan-therapeutics-for-up-to-21-billion-93CH-4116963"
+          },
+          {
+            "type": "url",
+            "url": "https://www.investing.com/news/company-news/abbvie-completes-acquisition-of-capstan-therapeutics-93CH-4200139"
+          },
+          {
+            "type": "url",
+            "url": "https://www.abbvie.com/capstan-therapeutics.html"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://news.abbvie.com/2023-02-23-AbbVie-and-Capsida-Biotherapeutics-Expand-Strategic-Collaboration-to-Develop-Targeted-Genetic-Medicines-for-Eye-Diseases-with-High-Unmet-Need"
+          },
+          {
+            "type": "url",
+            "url": "https://www.inquirer.com/health/capstan-therapeutics-acquired-abbvie-20250702.html"
+          },
+          {
+            "type": "url",
+            "url": "https://www.capstantx.com/in-the-news/the-effort-to-make-a-breakthrough-cancer-therapy-cheaper/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.williamblair.com/-/media/downloads/eqr/2026/williamblair_cellect-horizons-back-to-the-future.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://s24.q4cdn.com/622300748/files/doc_news/Capstan-Therapeutics-to-Present-Preclinical-Data-on-Lead-In-Vivo-Chimeric-Antigen-Receptor-CAR-T-Candidate-CPTX2309-at-American-Colle-HJ4TF.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1472012/000110465923047890/tm9948d2_ars.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://atiadvisory.com/resources/wp-content/uploads/2025/10/ATI_Pharmaceutical-Innovation-and-the-IRA_2025-Mid-Year-Review.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465924035573/tm244274d2_ars.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://investors.abbvie.com/static-files/a28220b3-df01-4131-9a3b-9d5841b3c557"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/AbbVie"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Cerevel_Therapeutics"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AtossaTherapeutics/comments/1afiw2y"
+          }
+        ]
+      }
+    },
+    {
+      "id": "msg_010b48b948b77c730069e7e2dfbfb48193a8a039bcd3067e9b",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "{\n  \"seed_company\": \"AbbVie Inc\",\n  \"related_company\": \"Capstan Therapeutics\",\n  \"relationship_type\": \"Acquisition\",\n  \"confidence\": 0.99,\n  \"source_authority\": \"high\",\n  \"recency\": \"high\",\n  \"clarity\": \"high\",\n  \"evidence_summary\": \"Official AbbVie sources state that AbbVie completed its acquisition of Capstan Therapeutics on August 19, 2025, and AbbVie’s SEC filing also describes the June 2025 definitive agreement and the completed acquisition.\",\n  \"evidence_urls\": [\n    \"https://news.abbvie.com/2025-08-19-AbbVie-Completes-Acquisition-of-Capstan-Therapeutics\",\n    \"https://www.abbvie.com/capstan-therapeutics.html\",\n    \"https://www.sec.gov/Archives/edgar/data/1551152/000155115225000040/abbv-20250630.htm\",\n    \"https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm\"\n  ],\n  \"needs_review\": false\n}"
+        }
+      ],
+      "phase": "final_answer",
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "in_memory",
+  "reasoning": {
+    "effort": "none",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 0.1,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [
+    {
+      "type": "web_search",
+      "search_context_size": "medium",
+      "user_location": {
+        "type": "approximate",
+        "city": null,
+        "country": "US",
+        "region": null,
+        "timezone": null
+      }
+    }
+  ],
+  "top_logprobs": 0,
+  "top_p": 0.98,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 8853,
+    "input_tokens_details": {
+      "cached_tokens": 4352
+    },
+    "output_tokens": 338,
+    "output_tokens_details": {
+      "reasoning_tokens": 82
+    },
+    "total_tokens": 9191
+  },
+  "user": null,
+  "metadata": {}
+}

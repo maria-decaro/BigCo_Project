@@ -1,0 +1,17 @@
+{
+  "seed_company": "Abbott Laboratories",
+  "related_company": "Bigfoot Biomedical",
+  "relationship_type": "Acquisition",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "Abbott completed its acquisition of Bigfoot Biomedical in September 2023 per official press releases and SEC filings; Bigfoot became a wholly-owned subsidiary.",
+  "evidence_urls": [
+    "https://abbott.mediaroom.com/2023-09-22-Abbott-Completes-Acquisition-of-Bigfoot-Biomedical",
+    "https://abbott.mediaroom.com/2023-09-05-Abbott-to-Acquire-Bigfoot-Biomedical,-Furthering-Efforts-to-Develop-Personalized,-Connected-Solutions-for-People-with-Diabetes",
+    "https://www.sec.gov/Archives/edgar/data/1800/000162828024044602/R15.htm"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

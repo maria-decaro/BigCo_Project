@@ -1,0 +1,58 @@
+{
+  "seed_company": "AbbVie Inc",
+  "discoveries": [
+    {
+      "related_company": "Capstan Therapeutics",
+      "relationship_type": "Acquisition",
+      "confidence": 0.95,
+      "event_year": "2025",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "AbbVie completed its acquisition of Capstan Therapeutics on August 19, 2025; Capstan is now part of AbbVie with its tLNP platform added to immunology pipeline.",
+      "evidence_urls": [
+        "https://news.abbvie.com/2025-08-19-AbbVie-Completes-Acquisition-of-Capstan-Therapeutics"
+      ]
+    },
+    {
+      "related_company": "ImmunoGen",
+      "relationship_type": "Acquisition",
+      "confidence": 0.95,
+      "event_year": "2024",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "AbbVie completed acquisition of ImmunoGen on February 12, 2024 for $31.26 per share; ImmunoGen is now part of AbbVie, adding ELAHERE and solid tumor portfolio.",
+      "evidence_urls": [
+        "https://news.abbvie.com/2024-02-12-AbbVie-Completes-Acquisition-of-ImmunoGen"
+      ]
+    },
+    {
+      "related_company": "Cerevel Therapeutics",
+      "relationship_type": "Acquisition",
+      "confidence": 0.95,
+      "event_year": "2024",
+      "source_authority": "high",
+      "recency": "high",
+      "clarity": "high",
+      "evidence_summary": "AbbVie completed acquisition of Cerevel Therapeutics on August 1, 2024 for $45.00 per share; Cerevel is now part of AbbVie, strengthening neuroscience pipeline.",
+      "evidence_urls": [
+        "https://news.abbvie.com/2024-08-01-AbbVie-Completes-Acquisition-of-Cerevel-Therapeutics"
+      ]
+    },
+    {
+      "related_company": "Allergan plc",
+      "relationship_type": "Acquisition",
+      "confidence": 0.95,
+      "event_year": "2020",
+      "source_authority": "high",
+      "recency": "medium",
+      "clarity": "high",
+      "evidence_summary": "AbbVie completed its transformative acquisition of Allergan plc on May 8, 2020 following regulatory approvals; Allergan became part of AbbVie.",
+      "evidence_urls": [
+        "https://news.abbvie.com/2020-05-08-AbbVie-Completes-Transformative-Acquisition-of-Allergan"
+      ]
+    }
+  ],
+  "provider": "grok"
+}

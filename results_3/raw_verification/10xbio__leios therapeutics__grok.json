@@ -1,0 +1,16 @@
+{
+  "seed_company": "10xBio LLC",
+  "related_company": "Leios Therapeutics, Inc.",
+  "relationship_type": "None/Unclear",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Leios Therapeutics, Inc. is the rebranded former entity of 10xBio, LLC. Official site states 'formerly operated as 10xBio, LLC'. No evidence of acquisition, merger or subsidiary relationship.",
+  "evidence_urls": [
+    "https://leiostherapeutics.com/",
+    "https://www.linkedin.com/posts/john-dobak-m-d-13bb25a_10xbio-llc-has-been-rebranded-as-leios-therapeutics-activity-7430698567297830913-2ppI"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

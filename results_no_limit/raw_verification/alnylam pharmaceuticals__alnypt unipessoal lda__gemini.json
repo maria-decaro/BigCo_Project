@@ -1,0 +1,21 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "ALNYPT Unipessoal Lda",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "ALNYPT Unipessoal Lda is a 100% owned subsidiary of Alnylam Pharmaceuticals Inc, as explicitly listed in the company's SEC Form 10-K filings (Exhibit 21.1) for multiple years, including 2020, 2021, and 2022. The entity is incorporated in Portugal and serves as the local operating unit for Alnylam's pharmaceutical activities in that region.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1172319/000117231922000014/alny-ex211_545.htm",
+    "https://www.alnylam.com/alnylam-portugal",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvclqWjaMsc9WQVnOBFR5PVPm9eHQi0iGfG6fnRNi461xSCUWgOOLVPy-lxJ72ii0D42KlSf2W42zeI46UvNeOon0qXmFZzUp-6kvbue0lDfTiAOWppsdZhtCBP_ZW4r62JrnVbZ_5AcVN0343AJNYY8v3Jv7g17Gp4Hp_Hx1Bf3DuJ8EOKjmafuENg5wB83EwiD6UhjWHPZE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcFGNqboRq0AqzkOoEi6ck6udc-JfbBmeZzu8Y4PkoO_A-srmjQvBEpLL1LTd8jOxxZE7irXPf6nEIoY7KlC6IcRIbceArXcF9vx74KEdiPHcttiBxvDdNH6CKDRCPytHx_mwIpC4CLp0FGJ7jUulh_EgJtoDZ2BfyJ8Zg1LLNqV8TKldj1SCdEleO3Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_l9QRjD1QFS4IfrT6KV1OJgj2KI0FuUNNxguNnY-SUM9_Tf8V35JN3uVBQCYIaMzVVUIKDT9mvkTDk_yMjrdTDkg-RyM89hQ4HP1RnviN30FDejbxsO5W_TBYm32iIaI0H8dH",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHewkaAxJSvTP-8Amql-HIDBGH0Fyeoj00wIatiliMWLHDojcgCTvVNDc5DuwHefQVBdiR7HDRUzJw9I9KQdj3Bqm_clwLCaNO6uBv8LwcUxAV5TJ__1sdo_bxAFHd8ohsoafbByAJhlaRFAFxgkwEpH9z_RyzKK_Vkecnj_1H-auRu-mzklTRO9Yad4aSVv4KCmRJ6Wg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvUHAbbKmEnBnU6YS-jp8blzKp0-SYeCnSxNe_QeimHjIoXwHo9ir8bMl-e6Xwhr9uAhATEDp885YEJyYkAD_fMvianoLd6jqDmMhYHWT004WUnwvdMFaVfilhyFYpI5xMoh1pxdzjXAJI7uXWb2lMjgPUE8aw3hL804N_QO475du_LKd4EVy-BHzwz0mJWQytY-3M40Gpc8k="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

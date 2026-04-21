@@ -1,0 +1,16 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "Landos Biopharma, Inc.",
+  "relationship_type": "Acquisition",
+  "confidence": 0.9,
+  "source_authority": "high",
+  "recency": "medium",
+  "clarity": "high",
+  "evidence_summary": "AbbVie announced intent to acquire Landos in March 2024 and completed the acquisition in May 2024; Landos became part of AbbVie.",
+  "evidence_urls": [
+    "https://news.abbvie.com/2024-03-25-AbbVie-to-Acquire-Landos-Biopharma,-Further-Strengthening-its-Portfolio-in-Inflammatory-and-Autoimmune-Diseases",
+    "https://news.abbvie.com/2024-05-23-AbbVie-Completes-Acquisition-of-Landos-Biopharma"
+  ],
+  "needs_review": false,
+  "provider": "grok"
+}

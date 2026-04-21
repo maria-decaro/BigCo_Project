@@ -1,0 +1,26 @@
+{
+  "seed_company": "AbbVie Inc",
+  "related_company": "Capstan Therapeutics",
+  "relationship_type": "Acquisition",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "AbbVie announced a definitive agreement to acquire Capstan Therapeutics on June 30, 2025, for up to $2.1 billion in cash. The acquisition was officially completed on August 19, 2025. Through this transaction, AbbVie acquired Capstan's proprietary in vivo targeted lipid nanoparticle (tLNP) platform technology and its lead asset, CPTX2309, a Phase 1 in vivo CAR-T therapy candidate for autoimmune diseases.",
+  "evidence_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDZZrK1vzXRUcLAsXZet9W8RambPjwcvZbzJ4tpYFQsbZdRLUIswhIdN1TO_XEcTK_40_tQo_wTDUlZfc1b9NADzvKl3PQ-Ua7Yn_RAjnm1TRf8iA5pI9Jg3tvf_SlTz9vFbEBzBiqVHMzote3p7VhnjGA5CclqYrYAOYChCra2bXtHpL1Gr6WqVTcVknCYYIq2w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG_uv_rqUuECmQpeDeFWFGBcI4mmNyUbMGVXYI-SeuZ44fHm40R-m6JVSkHpRu4mVycgKwMgWed9PS4Kir-QKWjp_99WBlHZ7qJ7tObEOwi97kQQalyyzHedUH1L8BOAhFF63Yyd_tFtpZCFWDNoUwURIBOeEsONl5Pl7baHI-i5AddHbocxoSwP3W5jqttebyrIx9WXpkrkjJMO2nF01KCRXBsCoeuLm5O-PA28-ktRBcvLRHshhWZ3Bt9b9zyajvV7n2xwGVRBBJy-XtnuglBys==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZVxBT-dS_MV7GzUVe1Mq-nt4_Bn8ddg5nDc8bmsQWbHcvdmvLtICk1OZ1teH6y9mlSjQH-shOZkbDPOAaX7Exl7nmzyXTnvmVdlb9wPha122zT7Fd94NWMOAT8NJzrYCDKdbP8yg79rXOciATfvA6wZZIDoyECY5NwEQwifJvIj5TXzwYKJfaQfWWHJd_ODZm8GhS0A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMXjZYl4yMydbXJJLa-ZJH9lelpkkzQ_4Wp8zB2k46k-REbeXNJn-3mI-1WDuZgYi9iaFPPPPphiqqJwFi4wPFuExP-1EX70E3uBRJxENVSXPzemv7-PduVON4vzQWLiQvmAcv5yT0y6QtwecO1lhX7AlAOsMNWAoz64hrJz86Pfu5f72rxvmRWSfS9Dxs1-zns6VLZr92EC9OGB3mbqR3hwC8io2T2vTgOSlqYWbwx9DbKZCP4BS58WAUuDGf1saiEqWq",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHJe2nmO3lTy7vN2mPcUMd8gvnm3jFWE9xXiblx8TITI7celRyYi9Wvi7lE9AdZ4WXMtx3Pv9aeWazLs_gYrYwh6_skGmsjFziRNi6AeUaKzuKBbswjC8kCRJ30eUVg9Gb9wUEKV3fONtdKiKoqrisNTr45rNYHCNQsXLNwGwD6RLl6x-OpYCbAtVE49zT3g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfsqdE4HMeMJ8fLrIlyePcWsgwBTW0X7LbPYzWUBgRVgKYNbDB7wMnoHc-NntwyUkOtUdEHP74X3W241ULsweiDf7A9GCPopENzpCHVaQn0StqTXB8vHC3N5Tri1N8kcAwU5Y5qxGTkryukA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG_uv_rqUuECmQpeDeFWFGBcI4mmNyUbMGVXYI-SeuZ44fHm40R-m6JVSkHpRu4mVycgKwMgWed9PS4Kir-QKWjp_99WBlHZ7qJ7tObEOwi97kQQalyyzHedUH1L8BOAhFF63Yyd_tFtpZCFWDNoUwURIBOeEsONl5Pl7baHI-i5AddHbocxoSwP3W5jqttebyrIx9WXpkrkjJMO2nF01KCRXBsCoeuLm5O-PA28-ktRBcvLRHshhWZ3Bt9b9zyajvV7n2xwGVRBBJy-XtnuglBys=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNNpeS91r4aXoDqpP9M7eDMjOKaY_A92ToePmQJZK0oG7djGO8kx1vxmb3IVSXw4a_WZ-8zbK6cztGgco6faenmy6JhrNsCO975MLAnK3ppV4JRSr0W533rs-83Q6LzRf1FhjSz5UA5ndOp9VLOY4kEFpBK3i_iPVSH-QJwJGS6ukPrz0YYpnwMC8miD2Ks_cq7mHeZLiMwluq91sE_6AwMu6OWYInTZsJQjj2QqZTyxCyDBukfw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq8Njl4yd4A5wgr9p0W46rP2E4Sz3W3uIOfA_qo5Ubc9omsMrBmPQ8quUwiUAwW3LddP5aa9knYcbEZgN6CbYvL6GPpRhuL5vy4cQQivsmkrBTrb9cJzgntSQHciMsSr8K2WGPaR9_vzd3RVSDcyegZe5Ksi1UXITaS73IXHNYKNgTGFcPuq7HLW0lEdRBX11oV6ryOm45Y_ScdLaa5sAXpKz6JIOPyeIVDwVw46ZOiHuZN858s0u3SO1jbGaz_A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC77d79Xn9c_48wiVf0B-KCWQ_AwTgrCBzw3u3xiCeKOfu_mxoWRwkytkGClUkZo77POuhfWeKCt5fVZafimo9Wfx4fvKn2qsduMn0zdMFNMFcp1YreLQJMRSCOjDAIN1NTl0V5TX2wd9nh_IqqeGC-lotgGvaX4VNlNdaCpeW7UCekLgbZ0Uv_IobycvCED0FzDU2V3IAbD4grSrVTjctPEClve4L3RkVcWCvyhREzQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFem5ZWTk4bfnUdehp0w1RM9cQVe1zqB2iCgvoSoYxULiO0wDHyz1cvi4GvdKVUjJnrn3s4C3DIzxWQpR4_dnA-rUR9UnmecpMyIlp0n-nn2IyPX7aVtFgveK5wL0exndNk_IfJ47EpeMUh1Q00BcyyI96MHhJc5kRqUXb4B1jQ9-WgCysl4o28_79uZpw_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUfBH7HzX0AD1EcMV9AjceCg1QDI8h4asSL_IsNsx2wFfyoxwc9bBrrPgqiUPe3kjfmrihvzumpk8Hmpv0-40xkEE3lqFUWL4K3fZWQYPRrIXY14bkBeRBg15EhwRpv3dA3vIG49PUqUjxQERvEAr5Cohuhf1Q5hyha0CZSw=="
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}

@@ -1,0 +1,17 @@
+{
+  "seed_company": "Alnylam Pharmaceuticals Inc",
+  "related_company": "Alnylam Belgium BVBA",
+  "relationship_type": "Subsidiary",
+  "confidence": 1.0,
+  "source_authority": "high",
+  "recency": "high",
+  "clarity": "high",
+  "evidence_summary": "Alnylam Pharmaceuticals Inc. explicitly lists Alnylam Belgium BVBA (also referred to as Alnylam Belgium SPRL/BVBA or Alnylam Belgium SRL) as a 100% owned subsidiary in its SEC filings (Exhibit 21.1). The Belgian entity was founded in September 2018 to serve as a strategic hub for the parent company's international operations and clinical research in the BENELUX region.",
+  "evidence_urls": [
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000014/alny2021q4exhibit211.htm",
+    "https://www.sec.gov/Archives/edgar/data/1178670/000117867020000011/alny-ex211_545.htm",
+    "https://www.companyweb.be/en/0704781412/alnylam-belgium"
+  ],
+  "needs_review": false,
+  "provider": "gemini"
+}
